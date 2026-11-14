@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ThunderStudy News</title>
+    <link>https://news.thunderstudy.online/</link>
+    <description>ThunderStudy News brings you a fresh daily briefing every evening at 6 PM IST: India, world, business, technology, education, science and sports, explained simply with links to the original reporting.</description>
+    <language>en-IN</language>
+    <lastBuildDate>Sat, 14 Nov 2026 09:04:23 GMT</lastBuildDate>
+    <atom:link href="https://news.thunderstudy.online/rss.xml" rel="self" type="application/rss+xml"/>
+
+  </channel>
+</rss>

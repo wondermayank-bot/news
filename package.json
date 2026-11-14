@@ -1,0 +1,14 @@
+{
+  "name": "news-thunderstudy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ThunderStudy News: automated daily news blog (OpenRouter + free news feeds), static output for Cloudflare Pages",
+  "scripts": {
+    "news": "node scripts/12-1-2026.js",
+    "news:dry": "DATA_FILE=/tmp/posts-dry.json OUT_DIR=/tmp/news-out LAST_RUN_FILE=/tmp/last-run.json node scripts/12-1-2026.js --dry",
+    "build": "node scripts/build.js",
+    "preview": "python3 -m http.server 8080 -d public"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": { "sharp": "^0.33.5" }
+}

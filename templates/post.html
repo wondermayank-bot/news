@@ -1,0 +1,21 @@
+<div class="progress" id="progress" aria-hidden="true"></div>
+<article class="sec post">
+<div class="wrap">
+<nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li><a href="{{catUrl}}">{{catName}}</a></li><li aria-current="page">{{crumbTitle}}</li></ol></nav>
+<div class="article">
+<header class="post-head">
+<a class="tag" href="{{catUrl}}" style="--c:var(--{{tint}});--k:var(--{{tint}}-ink)">{{catIcon}}{{catName}}</a>
+<h1 class="post-h1">{{title}}</h1>
+<p class="post-meta"><time datetime="{{dateIso}}">{{dateLong}}, {{timeIst}}</time><span class="dot" aria-hidden="true"></span><span>{{readMins}} min read</span>{{aiTag}}</p>
+</header>
+<aside class="quick" aria-label="Quick answer"><b>{{icBolt}}Quick answer</b><p>{{quick}}</p></aside>
+<section class="keypts" aria-labelledby="h-points"><h2 id="h-points">Key points</h2><ul>{{points}}</ul></section>
+<div class="prose">{{body}}</div>
+{{srcBox}}
+<section class="post-faq" aria-labelledby="h-pfaq"><h2 id="h-pfaq">Frequently asked questions</h2><div class="faq-list">{{faq}}</div></section>
+<div class="share" aria-label="Share this story"><span class="share-label">Share</span>{{share}}</div>
+<p class="disclosure">{{icInfo}}<span>{{disclosure}}</span></p>
+</div>
+<section class="related" aria-labelledby="h-rel"><h2 id="h-rel" class="sub-title">Related stories</h2><div class="grid-3 news-grid">{{related}}</div></section>
+</div>
+</article>

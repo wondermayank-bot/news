@@ -1,0 +1,11 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "ThunderStudy News",
+  "home_page_url": "https://news.thunderstudy.online/",
+  "feed_url": "https://news.thunderstudy.online/feed.json",
+  "description": "ThunderStudy News brings you a fresh daily briefing every evening at 6 PM IST: India, world, business, technology, education, science and sports, explained simply with links to the original reporting.",
+  "language": "en-IN",
+  "icon": "https://news.thunderstudy.online/logo-512.png",
+  "favicon": "https://news.thunderstudy.online/favicon.svg",
+  "items": []
+}

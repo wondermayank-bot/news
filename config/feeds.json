@@ -1,0 +1,28 @@
+{
+  "_note": "RSS feeds are the default, key-free news source. Add or remove feeds freely; a feed that fails is skipped. category must match a slug in site.json.",
+  "minSummaryChars": 60,
+  "maxAgeHours": 36,
+  "feeds": [
+    { "category": "india", "name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss" },
+    { "category": "india", "name": "The Indian Express", "url": "https://indianexpress.com/section/india/feed/" },
+    { "category": "india", "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-india-news" },
+    { "category": "world", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "category": "world", "name": "The Hindu", "url": "https://www.thehindu.com/news/international/feeder/default.rss" },
+    { "category": "business", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+    { "category": "business", "name": "The Hindu", "url": "https://www.thehindu.com/business/feeder/default.rss" },
+    { "category": "business", "name": "Mint", "url": "https://www.livemint.com/rss/companies" },
+    { "category": "technology", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+    { "category": "technology", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
+    { "category": "education", "name": "The Hindu", "url": "https://www.thehindu.com/education/feeder/default.rss" },
+    { "category": "education", "name": "The Indian Express", "url": "https://indianexpress.com/section/education/feed/" },
+    { "category": "science", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" },
+    { "category": "science", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss" },
+    { "category": "sports", "name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml" },
+    { "category": "sports", "name": "The Hindu", "url": "https://www.thehindu.com/sport/feeder/default.rss" }
+  ],
+  "gnews": {
+    "_note": "Optional. Used only when the GNEWS_API_KEY secret is set (gnews.io free plan).",
+    "topics": { "nation": "india", "world": "world", "business": "business", "technology": "technology", "science": "science", "sports": "sports" },
+    "educationQuery": "CBSE OR CUET OR NEET OR JEE OR \"board exam\" OR scholarship"
+  }
+}

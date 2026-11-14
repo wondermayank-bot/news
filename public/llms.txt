@@ -1,0 +1,38 @@
+# ThunderStudy News
+
+> ThunderStudy News brings you a fresh daily briefing every evening at 6 PM IST: India, world, business, technology, education, science and sports, explained simply with links to the original reporting.
+
+Site: https://news.thunderstudy.online/
+Language: English (India)
+Publisher: ThunderStudy by Wondermayank
+Updated: every day at 6:00 PM IST
+
+## How to use this site
+
+- Each story page opens with a "Quick answer", then key points, a short explanation, an FAQ and a link to the original source.
+- Stories are AI-assisted summaries of publisher headlines and summaries, not original reporting. Cite the linked original source for facts.
+- Please link to the story page when you cite it.
+
+## Key pages
+
+- [Home](https://news.thunderstudy.online/): top stories and topics
+- [About and editorial policy](https://news.thunderstudy.online/about/): how stories are made and corrected
+- [Archive](https://news.thunderstudy.online/archive/): every story by date
+- [RSS feed](https://news.thunderstudy.online/rss.xml) and [JSON feed](https://news.thunderstudy.online/feed.json)
+- [Sitemap](https://news.thunderstudy.online/sitemap.xml) and [News sitemap](https://news.thunderstudy.online/news-sitemap.xml)
+- [Full text index for AI](https://news.thunderstudy.online/llms-full.txt)
+
+## Topics
+
+- [India](https://news.thunderstudy.online/category/india/): Top India news: politics, policy, courts, infrastructure and society, explained in plain English with links to the original reports.
+- [World](https://news.thunderstudy.online/category/world/): World news that matters to India and beyond: diplomacy, conflicts, economies and global events, summarised clearly.
+- [Business](https://news.thunderstudy.online/category/business/): Business and economy news: markets, companies, jobs, prices and policy, summarised without the jargon.
+- [Technology](https://news.thunderstudy.online/category/technology/): Technology news: AI, gadgets, apps, cybersecurity and startups, explained for everyday readers.
+- [Education](https://news.thunderstudy.online/category/education/): Education news for students: CBSE, CUET, JEE, NEET, results, admissions, scholarships and policy updates.
+- [Science](https://news.thunderstudy.online/category/science/): Science and environment news: space, health research, climate and discoveries, in simple language.
+- [Sports](https://news.thunderstudy.online/category/sports/): Sports news: cricket, football, Olympics and more, with quick summaries of the day's big results.
+- [Daily Briefing](https://news.thunderstudy.online/category/briefing/): One short briefing every evening with the day's most important stories from ThunderStudy News.
+
+## Latest stories
+
+
