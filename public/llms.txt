@@ -1,37 +1,47 @@
 # ThunderStudy News
 
-> ThunderStudy News brings you a fresh daily briefing every evening at 6 PM IST: India, world, business, technology, education, science and sports, explained simply with links to the original reporting.
+> ThunderStudy News: daily headlines from India and the world at 6 AM IST, and Study News for CBSE, CUET, JEE, NEET, SSC, banking and MP exams at 9 AM IST, with links to the official sources.
 
 Site: https://news.thunderstudy.online/
 Language: English (India)
-Publisher: ThunderStudy by Wondermayank
-Updated: every day at 6:00 PM IST
+Publisher: ThunderStudy News, run by Wondermayank (Publisher and Editor)
+Contact: contact@wondermayank.indevs.in
+Updated: News every morning at 6:00 AM IST; Study News every morning at 9:00 AM IST
 
 ## How to use this site
 
-- Each story page opens with a "Quick answer", then key points, a short explanation, an FAQ and a link to the original source.
-- Stories are AI-assisted summaries of publisher headlines and summaries, not original reporting. Cite the linked original source for facts.
+- Each story page opens with a "Quick answer", then key points, a short explanation, an FAQ and a link to the original or official source.
+- Stories are short summaries of official notices and published reports. Cite the linked source for facts and confirm exam dates on the official website.
 - Please link to the story page when you cite it.
+
+## Sections
+
+- [News](https://news.thunderstudy.online/): India, world, business, technology, science and sports
+- [Study News](https://news.thunderstudy.online/study/): CBSE, CUET, JEE, NEET, SSC, banking and MP exams and jobs
 
 ## Key pages
 
-- [Home](https://news.thunderstudy.online/): top stories and topics
-- [About and editorial policy](https://news.thunderstudy.online/about/): how stories are made and corrected
-- [Archive](https://news.thunderstudy.online/archive/): every story by date
-- [RSS feed](https://news.thunderstudy.online/rss.xml) and [JSON feed](https://news.thunderstudy.online/feed.json)
-- [Sitemap](https://news.thunderstudy.online/sitemap.xml) and [News sitemap](https://news.thunderstudy.online/news-sitemap.xml)
-- [Full text index for AI](https://news.thunderstudy.online/llms-full.txt)
+- [About](https://news.thunderstudy.online/about/) | [Contact](https://news.thunderstudy.online/contact/) | [Corrections](https://news.thunderstudy.online/corrections/) | [Privacy](https://news.thunderstudy.online/privacy/) | [Terms](https://news.thunderstudy.online/terms/) | [Disclaimer](https://news.thunderstudy.online/disclaimer/)
+- [Archive](https://news.thunderstudy.online/archive/) | [RSS feed](https://news.thunderstudy.online/rss.xml) | [JSON feed](https://news.thunderstudy.online/feed.json) | [Sitemap](https://news.thunderstudy.online/sitemap.xml) | [News sitemap](https://news.thunderstudy.online/news-sitemap.xml) | [Full text index](https://news.thunderstudy.online/llms-full.txt)
 
 ## Topics
 
 - [India](https://news.thunderstudy.online/category/india/): Top India news: politics, policy, courts, infrastructure and society, explained in plain English with links to the original reports.
 - [World](https://news.thunderstudy.online/category/world/): World news that matters to India and beyond: diplomacy, conflicts, economies and global events, summarised clearly.
 - [Business](https://news.thunderstudy.online/category/business/): Business and economy news: markets, companies, jobs, prices and policy, summarised without the jargon.
-- [Technology](https://news.thunderstudy.online/category/technology/): Technology news: AI, gadgets, apps, cybersecurity and startups, explained for everyday readers.
-- [Education](https://news.thunderstudy.online/category/education/): Education news for students: CBSE, CUET, JEE, NEET, results, admissions, scholarships and policy updates.
+- [Technology](https://news.thunderstudy.online/category/technology/): Technology news: gadgets, apps, cybersecurity and startups, explained for everyday readers.
 - [Science](https://news.thunderstudy.online/category/science/): Science and environment news: space, health research, climate and discoveries, in simple language.
-- [Sports](https://news.thunderstudy.online/category/sports/): Sports news: cricket, football, Olympics and more, with quick summaries of the day's big results.
-- [Daily Briefing](https://news.thunderstudy.online/category/briefing/): One short briefing every evening with the day's most important stories from ThunderStudy News.
+- [Sports](https://news.thunderstudy.online/category/sports/): Sports news: cricket, football, Olympics and more, with quick summaries of the big results.
+- [Daily Briefing](https://news.thunderstudy.online/category/briefing/): One short briefing every morning with the most important stories from ThunderStudy News.
+- [CBSE](https://news.thunderstudy.online/category/cbse/): CBSE news for students: board exam date sheets, results, circulars, sample papers and syllabus updates, with links to the official notices.
+- [CUET](https://news.thunderstudy.online/category/cuet/): CUET UG and PG updates: registration, admit cards, exam dates, answer keys, results and counselling, with links to the official NTA notices.
+- [JEE](https://news.thunderstudy.online/category/jee/): JEE Main and JEE Advanced updates: schedules, admit cards, answer keys, results and JoSAA counselling news.
+- [NEET](https://news.thunderstudy.online/category/neet/): NEET UG and PG updates: registration, exam city slips, admit cards, results and MCC counselling news.
+- [SSC](https://news.thunderstudy.online/category/ssc/): SSC exam updates: CGL, CHSL, MTS, GD and more, including notifications, admit cards, answer keys and results.
+- [Banking](https://news.thunderstudy.online/category/banking/): Banking exam and job updates: IBPS, SBI, RBI and RRB notifications, admit cards, results and vacancies.
+- [MP Exams and Jobs](https://news.thunderstudy.online/category/mp/): Madhya Pradesh exams and jobs: MPESB, MPPSC and MP government recruitment, results and notices.
+- [More Exams](https://news.thunderstudy.online/category/more/): UGC NET, UPSC, railway, scholarships, university admissions and other exam and job updates for students.
+- [Study Briefing](https://news.thunderstudy.online/category/study-briefing/): One short briefing every morning with the day's most important exam and job updates.
 
 ## Latest stories
 

@@ -9,11 +9,11 @@
 </a>
 <div class="nav-right">
 <nav aria-label="Main navigation" class="nav-icons">
-<a aria-label="Home" class="nav-request nav-home" href="/" title="Home">{{icHome}}</a>
-<a aria-label="Search" class="nav-request nav-faq" href="/search/" title="Search">{{icSearch}}</a>
-<a aria-label="Archive" class="nav-request nav-new" href="/archive/" title="Archive">{{icArchive}}</a>
+<a aria-label="News" class="nav-request nav-home" href="/" title="News">{{icHome}}</a>
+<a aria-label="Study News" class="nav-request nav-faq" href="/study/" title="Study News">{{icCap}}</a>
+<a aria-label="Search" class="nav-request nav-new" href="/search/" title="Search">{{icSearch}}</a>
 </nav>
-<a aria-label="Contact" class="nav-request nav-contact" href="{{contactUrl}}" title="Contact" rel="noopener noreferrer" target="_blank">{{icContact}}</a>
+<a aria-label="Contact" class="nav-request nav-contact" href="{{contactUrl}}" title="Contact">{{icContact}}</a>
 <button aria-label="Toggle dark mode" class="theme-btn" id="themeBtn" type="button">
 <svg fill="none" id="themeIconSun" stroke="currentColor" stroke-linecap="round" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.2"></circle><path d="M12 2.5v2.4M12 19.1v2.4"></path><path d="M4.2 4.2l1.7 1.7M18.1 18.1l1.7 1.7"></path><path d="M2.5 12h2.4M19.1 12h2.4"></path><path d="M4.2 19.8l1.7-1.7M18.1 5.9l1.7-1.7"></path></svg>
 <svg fill="none" id="themeIconMoon" stroke="currentColor" stroke-linecap="round" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z"></path></svg>
@@ -25,12 +25,13 @@
 </div>
 </header>
 <div class="mobile-menu" id="mobileMenu">
-<a class="mm mm-home" href="/">{{icHome}}<span>Home</span></a>
-<a class="mm mm-faq" href="/search/">{{icSearch}}<span>Search</span></a>
-<a class="mm mm-new" href="/archive/">{{icArchive}}<span>Archive</span></a>
+<a class="mm mm-home" href="/">{{icHome}}<span>News</span></a>
+<a class="mm mm-faq" href="/study/">{{icCap}}<span>Study News</span></a>
+<a class="mm mm-new" href="/search/">{{icSearch}}<span>Search</span></a>
 <a class="mm mm-contact" href="{{contactUrl}}">{{icContact}}<span>Contact</span></a>
 {{menuCats}}
 <a href="/about/">About &amp; editorial policy</a>
+<a href="/corrections/">Corrections</a>
 <a href="/rss.xml">RSS feed</a>
 <a href="https://thunderstudy.indevs.in">ThunderStudy</a>
 </div>

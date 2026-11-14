@@ -1,11 +1,14 @@
 'use strict';
-// Fetches today's headlines from free RSS feeds (no key) and, optionally, the GNews free API.
+// Gathers candidates for one section ("news" or "study"):
+//   rss     -> headline + summary from a news/press-release feed
+//   notice  -> new links on an official web page (CBSE, NTA, UGC, SSC, IBPS, MPESB...), kept as short factual notices
+//   gnews   -> optional GNews free plan when GNEWS_API_KEY is set
 const { stripHtml, decodeEntities } = require('./util');
 
 const UA = 'ThunderStudyNewsBot/1.0 (+https://news.thunderstudy.online/about/)';
 
-async function get(url, ms = 15000) {
-  const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'application/rss+xml, application/xml, text/xml, application/json;q=0.9, */*;q=0.5' }, signal: AbortSignal.timeout(ms), redirect: 'follow' });
+async function get(url, ms = 20000) {
+  const res = await fetch(url, { headers: { 'User-Agent': UA, Accept: 'text/html,application/rss+xml,application/xml,text/xml,application/json;q=0.9,*/*;q=0.5' }, signal: AbortSignal.timeout(ms), redirect: 'follow' });
   if (!res.ok) throw new Error('HTTP ' + res.status);
   return res.text();
 }
@@ -32,39 +35,75 @@ function parseFeed(xml) {
   return out;
 }
 
-async function fromFeeds(cfg) {
-  const all = [];
-  await Promise.all(cfg.feeds.map(async (f) => {
-    try {
-      const items = parseFeed(await get(f.url));
-      items.forEach((i) => all.push(Object.assign(i, { category: f.category, source: f.name })));
-      console.log(`  feed ok   ${f.name} / ${f.category}: ${items.length}`);
-    } catch (e) { console.warn(`  feed FAIL ${f.name} / ${f.category}: ${e.message}`); }
-  }));
-  return all;
-}
-
-async function fromGNews(cfg, key) {
-  const all = [];
-  const jobs = Object.entries(cfg.gnews.topics).map(([topic, category]) => ({ category, url: `https://gnews.io/api/v4/top-headlines?category=${topic}&lang=en&country=in&max=10&apikey=${key}` }));
-  jobs.push({ category: 'education', url: `https://gnews.io/api/v4/search?q=${encodeURIComponent(cfg.gnews.educationQuery)}&lang=en&country=in&max=10&apikey=${key}` });
-  for (const j of jobs) {
-    try {
-      const data = JSON.parse(await get(j.url));
-      (data.articles || []).forEach((a) => all.push({
-        title: stripHtml(a.title), url: a.url, summary: stripHtml([a.description, a.content].filter(Boolean).join(' ')).replace(/\[\d+ chars\]$/, '').trim(),
-        published: a.publishedAt || null, category: j.category, source: (a.source && a.source.name) || 'GNews',
-      }));
-      console.log(`  gnews ok  ${j.category}: ${(data.articles || []).length}`);
-    } catch (e) { console.warn(`  gnews FAIL ${j.category}: ${e.message.replace(key, '***')}`); }
+// Links on an official page that look like notices, results, circulars, vacancies...
+const NOTICE_WORDS = /(notice|notification|result|admit card|date sheet|datesheet|exam|registration|apply|application|vacanc|recruitment|schedule|answer key|counsell?ing|admission|syllabus|circular|advertisement|cut.?off|city intimation|correction|extended|revised|scorecard|merit list|time table|timetable|sample paper|public notice|press release)/i;
+const SKIP_TEXT = /^(home|contact us?|about us?|sitemap|login|register here|click here|read more|more|skip to|screen reader|faq|disclaimer|privacy|terms|feedback|rti|help|archive)/i;
+function parseNotices(html, baseUrl) {
+  const seen = new Set(), out = [];
+  const re = /<a\s[^>]*href=(["'])(.*?)\1[^>]*>([\s\S]*?)<\/a>/gi;
+  let m;
+  while ((m = re.exec(html))) {
+    const href = decodeEntities(m[2]).trim();
+    if (!href || /^(javascript:|mailto:|tel:|#)/i.test(href)) continue;
+    let url; try { url = new URL(href, baseUrl).toString(); } catch (e) { continue; }
+    const text = stripHtml(m[3]);
+    if (text.length < 18 || text.length > 220 || SKIP_TEXT.test(text)) continue;
+    if (!(NOTICE_WORDS.test(text) || /\.pdf(\?|$)/i.test(url))) continue;
+    if (seen.has(url)) continue;
+    seen.add(url); out.push({ title: text.replace(/\s*\(\s*\d+(\.\d+)?\s*(kb|mb)\s*\)\s*$/i, '').trim(), url });
   }
-  return all;
+  return out;
 }
 
-async function fetchCandidates(cfg) {
-  const lists = [await fromFeeds(cfg)];
-  if (process.env.GNEWS_API_KEY) lists.push(await fromGNews(cfg, process.env.GNEWS_API_KEY));
-  return lists.flat();
+function classify(c, kw) {
+  const hay = ' ' + (c.title + ' ' + c.summary).toLowerCase() + ' ';
+  for (const slug of ['cbse', 'cuet', 'jee', 'neet', 'ssc', 'banking', 'mp', 'more']) if ((kw[slug] || []).some((k) => hay.includes(k))) return slug;
+  return null;
 }
 
-module.exports = { fetchCandidates, parseFeed };
+async function gnewsGet(url, key) { try { return JSON.parse(await get(url)); } catch (e) { throw new Error(e.message.replace(key, '***')); } }
+
+async function fetchSection(cfg, section) {
+  const sec = cfg[section];
+  const rss = [], notices = [];
+  await Promise.all(sec.feeds.map(async (f) => {
+    try {
+      const body = await get(f.url);
+      if (f.type === 'notice') {
+        const links = parseNotices(body, f.url);
+        notices.push({ source: f.name, category: f.category, url: f.url, links });
+        console.log(`  notice ok ${f.name}: ${links.length} links`);
+      } else {
+        const items = parseFeed(body);
+        items.forEach((i) => rss.push(Object.assign(i, { category: f.category, source: f.name })));
+        console.log(`  feed ok   ${f.name} / ${f.category}: ${items.length}`);
+      }
+    } catch (e) { console.warn(`  FAIL ${f.name} (${f.type}): ${e.message}`); }
+  }));
+
+  const key = process.env.GNEWS_API_KEY;
+  if (key && sec.gnews) {
+    const jobs = section === 'news'
+      ? Object.entries(sec.gnews.topics).map(([t, category]) => ({ category, url: `https://gnews.io/api/v4/top-headlines?category=${t}&lang=en&country=in&max=10&apikey=${key}` }))
+      : Object.entries(sec.gnews.queries).map(([category, q]) => ({ category, url: `https://gnews.io/api/v4/search?q=${encodeURIComponent(q)}&lang=en&country=in&max=10&apikey=${key}` }));
+    for (const j of jobs) {
+      try {
+        const data = await gnewsGet(j.url, key);
+        (data.articles || []).forEach((a) => rss.push({ title: stripHtml(a.title), url: a.url, summary: stripHtml([a.description, a.content].filter(Boolean).join(' ')).replace(/\[\d+ chars\]$/, '').trim(), published: a.publishedAt || null, category: j.category, source: (a.source && a.source.name) || 'GNews' }));
+        console.log(`  gnews ok  ${j.category}: ${(data.articles || []).length}`);
+      } catch (e) { console.warn(`  gnews FAIL ${j.category}: ${e.message}`); }
+    }
+  }
+
+  let stories = rss;
+  if (section === 'study') {
+    stories = rss.map((c) => {
+      if (c.category !== 'auto') return c;
+      const k = classify(c, sec.keywords);
+      return k ? Object.assign(c, { category: k }) : null;
+    }).filter(Boolean);
+  }
+  return { stories, notices };
+}
+
+module.exports = { fetchSection, parseFeed, parseNotices, classify, get };

@@ -6,12 +6,15 @@
   "locale": "en_IN",
   "timezone": "Asia/Kolkata",
   "tagline": "Daily news in plain English, for students and curious readers.",
-  "description": "ThunderStudy News brings you a fresh daily briefing every evening at 6 PM IST: India, world, business, technology, education, science and sports, explained simply with links to the original reporting.",
+  "description": "ThunderStudy News: daily headlines from India and the world at 6 AM IST, and Study News for CBSE, CUET, JEE, NEET, SSC, banking and MP exams at 9 AM IST, with links to the official sources.",
   "twitter": "@thunderstudyx",
-  "contactUrl": "https://wondermayank.in/contact",
-  "postsPerRun": 5,
-  "perPage": 18,
-  "publishTime": "6:00 PM IST",
+  "email": "contact@wondermayank.indevs.in",
+  "contactUrl": "/contact/",
+  "owner": {
+    "name": "Wondermayank",
+    "url": "https://wondermayank.in",
+    "role": "Publisher and Editor"
+  },
   "sameAs": [
     "https://www.instagram.com/thunderstudyx",
     "https://www.youtube.com/@thunderstudy_official",
@@ -21,14 +24,206 @@
     "https://thunderstudy.indevs.in",
     "https://wondermayank.in"
   ],
+  "sections": {
+    "news": {
+      "name": "News",
+      "path": "/",
+      "time": "6:00 AM IST",
+      "perRun": 5
+    },
+    "study": {
+      "name": "Study News",
+      "path": "/study/",
+      "time": "9:00 AM IST",
+      "perRun": 6
+    }
+  },
+  "perPage": 18,
   "categories": [
-    { "slug": "india", "name": "India", "tint": "orange", "icon": "landmark", "desc": "Top India news: politics, policy, courts, infrastructure and society, explained in plain English with links to the original reports." },
-    { "slug": "world", "name": "World", "tint": "blue", "icon": "globe", "desc": "World news that matters to India and beyond: diplomacy, conflicts, economies and global events, summarised clearly." },
-    { "slug": "business", "name": "Business", "tint": "green", "icon": "trend", "desc": "Business and economy news: markets, companies, jobs, prices and policy, summarised without the jargon." },
-    { "slug": "technology", "name": "Technology", "tint": "purple", "icon": "chip", "desc": "Technology news: AI, gadgets, apps, cybersecurity and startups, explained for everyday readers." },
-    { "slug": "education", "name": "Education", "tint": "pink", "icon": "cap", "desc": "Education news for students: CBSE, CUET, JEE, NEET, results, admissions, scholarships and policy updates." },
-    { "slug": "science", "name": "Science", "tint": "teal", "icon": "flask", "desc": "Science and environment news: space, health research, climate and discoveries, in simple language." },
-    { "slug": "sports", "name": "Sports", "tint": "lime", "icon": "trophy", "desc": "Sports news: cricket, football, Olympics and more, with quick summaries of the day's big results." },
-    { "slug": "briefing", "name": "Daily Briefing", "tint": "cyan", "icon": "paper", "desc": "One short briefing every evening with the day's most important stories from ThunderStudy News." }
-  ]
+    {
+      "slug": "india",
+      "section": "news",
+      "name": "India",
+      "tint": "orange",
+      "icon": "landmark",
+      "desc": "Top India news: politics, policy, courts, infrastructure and society, explained in plain English with links to the original reports."
+    },
+    {
+      "slug": "world",
+      "section": "news",
+      "name": "World",
+      "tint": "blue",
+      "icon": "globe",
+      "desc": "World news that matters to India and beyond: diplomacy, conflicts, economies and global events, summarised clearly."
+    },
+    {
+      "slug": "business",
+      "section": "news",
+      "name": "Business",
+      "tint": "green",
+      "icon": "trend",
+      "desc": "Business and economy news: markets, companies, jobs, prices and policy, summarised without the jargon."
+    },
+    {
+      "slug": "technology",
+      "section": "news",
+      "name": "Technology",
+      "tint": "purple",
+      "icon": "chip",
+      "desc": "Technology news: gadgets, apps, cybersecurity and startups, explained for everyday readers."
+    },
+    {
+      "slug": "science",
+      "section": "news",
+      "name": "Science",
+      "tint": "teal",
+      "icon": "flask",
+      "desc": "Science and environment news: space, health research, climate and discoveries, in simple language."
+    },
+    {
+      "slug": "sports",
+      "section": "news",
+      "name": "Sports",
+      "tint": "lime",
+      "icon": "trophy",
+      "desc": "Sports news: cricket, football, Olympics and more, with quick summaries of the big results."
+    },
+    {
+      "slug": "briefing",
+      "section": "news",
+      "name": "Daily Briefing",
+      "tint": "cyan",
+      "icon": "paper",
+      "briefing": true,
+      "desc": "One short briefing every morning with the most important stories from ThunderStudy News."
+    },
+    {
+      "slug": "cbse",
+      "section": "study",
+      "name": "CBSE",
+      "tint": "blue",
+      "icon": "book",
+      "desc": "CBSE news for students: board exam date sheets, results, circulars, sample papers and syllabus updates, with links to the official notices."
+    },
+    {
+      "slug": "cuet",
+      "section": "study",
+      "name": "CUET",
+      "tint": "purple",
+      "icon": "cap",
+      "desc": "CUET UG and PG updates: registration, admit cards, exam dates, answer keys, results and counselling, with links to the official NTA notices."
+    },
+    {
+      "slug": "jee",
+      "section": "study",
+      "name": "JEE",
+      "tint": "orange",
+      "icon": "target",
+      "desc": "JEE Main and JEE Advanced updates: schedules, admit cards, answer keys, results and JoSAA counselling news."
+    },
+    {
+      "slug": "neet",
+      "section": "study",
+      "name": "NEET",
+      "tint": "green",
+      "icon": "flask",
+      "desc": "NEET UG and PG updates: registration, exam city slips, admit cards, results and MCC counselling news."
+    },
+    {
+      "slug": "ssc",
+      "section": "study",
+      "name": "SSC",
+      "tint": "yellow",
+      "icon": "briefcase",
+      "desc": "SSC exam updates: CGL, CHSL, MTS, GD and more, including notifications, admit cards, answer keys and results."
+    },
+    {
+      "slug": "banking",
+      "section": "study",
+      "name": "Banking",
+      "tint": "teal",
+      "icon": "landmark",
+      "desc": "Banking exam and job updates: IBPS, SBI, RBI and RRB notifications, admit cards, results and vacancies."
+    },
+    {
+      "slug": "mp",
+      "section": "study",
+      "name": "MP Exams and Jobs",
+      "tint": "pink",
+      "icon": "pin",
+      "desc": "Madhya Pradesh exams and jobs: MPESB, MPPSC and MP government recruitment, results and notices."
+    },
+    {
+      "slug": "more",
+      "section": "study",
+      "name": "More Exams",
+      "tint": "lime",
+      "icon": "spark",
+      "desc": "UGC NET, UPSC, railway, scholarships, university admissions and other exam and job updates for students."
+    },
+    {
+      "slug": "study-briefing",
+      "section": "study",
+      "name": "Study Briefing",
+      "tint": "cyan",
+      "icon": "paper",
+      "briefing": true,
+      "desc": "One short briefing every morning with the day's most important exam and job updates."
+    }
+  ],
+  "officialSites": [
+    {
+      "name": "CBSE",
+      "url": "https://www.cbse.gov.in/"
+    },
+    {
+      "name": "NTA",
+      "url": "https://nta.ac.in/"
+    },
+    {
+      "name": "UGC",
+      "url": "https://www.ugc.gov.in/"
+    },
+    {
+      "name": "PIB",
+      "url": "https://pib.gov.in/"
+    },
+    {
+      "name": "CUET",
+      "url": "https://cuet.nta.nic.in/"
+    },
+    {
+      "name": "JEE Main",
+      "url": "https://jeemain.nta.nic.in/"
+    },
+    {
+      "name": "NEET UG",
+      "url": "https://neet.nta.nic.in/"
+    },
+    {
+      "name": "UGC NET",
+      "url": "https://ugcnet.nta.nic.in/"
+    },
+    {
+      "name": "SSC",
+      "url": "https://ssc.gov.in/"
+    },
+    {
+      "name": "IBPS",
+      "url": "https://www.ibps.in/"
+    },
+    {
+      "name": "RBI",
+      "url": "https://www.rbi.org.in/"
+    },
+    {
+      "name": "MPESB",
+      "url": "https://esb.mp.gov.in/"
+    },
+    {
+      "name": "MPPSC",
+      "url": "https://mppsc.mp.gov.in/"
+    }
+  ],
+  "legalUpdated": "14 November 2026"
 }

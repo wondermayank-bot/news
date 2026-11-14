@@ -4,11 +4,18 @@
   "private": true,
   "description": "ThunderStudy News: automated daily news blog (OpenRouter + free news feeds), static output for Cloudflare Pages",
   "scripts": {
-    "news": "node scripts/12-1-2026.js",
-    "news:dry": "DATA_FILE=/tmp/posts-dry.json OUT_DIR=/tmp/news-out LAST_RUN_FILE=/tmp/last-run.json node scripts/12-1-2026.js --dry",
+    "news": "node scripts/12-1-2026.js --section=news",
+    "news:dry": "DATA_FILE=/tmp/posts-dry.json OUT_DIR=/tmp/news-out LAST_RUN_FILE=/tmp/last-run.json SEEN_FILE=/tmp/seen.json node scripts/12-1-2026.js --dry --section=news",
     "build": "node scripts/build.js",
-    "preview": "python3 -m http.server 8080 -d public"
+    "preview": "python3 -m http.server 8080 -d public",
+    "study": "node scripts/12-1-2026.js --section=study",
+    "study:dry": "DATA_FILE=/tmp/posts-dry.json OUT_DIR=/tmp/news-out LAST_RUN_FILE=/tmp/last-run.json SEEN_FILE=/tmp/seen.json node scripts/12-1-2026.js --dry --section=study",
+    "check:sources": "node scripts/check-sources.js"
   },
-  "engines": { "node": ">=20" },
-  "dependencies": { "sharp": "^0.33.5" }
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
 }

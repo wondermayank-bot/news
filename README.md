@@ -1,54 +1,57 @@
 # ThunderStudy News (news.thunderstudy.online)
 
-Automated daily news blog. Every day at 6 PM IST a GitHub Action fetches headlines, writes short briefs with the
-OpenRouter free models, rebuilds the static site (pages, sitemap, RSS, llms.txt, social images) and pushes to GitHub.
-Cloudflare Pages deploys the `public/` folder on every push.
+Two sections, published automatically by GitHub Actions and hosted on Cloudflare Pages:
+
+| Section | Time (IST) | Topics |
+|---|---|---|
+| **News** (`/`) | 6:00 AM | India, World, Business, Technology, Science, Sports + Daily Briefing |
+| **Study News** (`/study/`) | 9:00 AM | CBSE, CUET, JEE, NEET, SSC, Banking, MP Exams and Jobs, More Exams + Study Briefing |
+
+Each run: fetch sources -> pick new items -> write stories -> rebuild the static site (pages, sitemap, news sitemap, RSS, JSON feed,
+llms.txt, share images) -> commit and push -> Cloudflare deploys -> post to Telegram. Failures and empty runs message the admin.
 
 ## One-time setup
 
-1. **GitHub**: create a repo, push this folder.
+1. **GitHub**: create a repo and push this folder.
 2. **Secrets** (Settings > Secrets and variables > Actions > Secrets):
-   - `OPENROUTER_API_KEY` (required): https://openrouter.ai/keys
-   - `GNEWS_API_KEY` (optional): https://gnews.io, adds the GNews free API on top of the RSS feeds
-   - `INDEXNOW_KEY` (optional): any random 8-64 character string, pings Bing/Yandex after each deploy
-3. **Variable** (optional, Variables tab): `OPENROUTER_MODELS` = comma-separated free model ids tried in order.
-   Default is `openrouter/free` (OpenRouter picks an available free model). Free ids rotate, so keep it short.
-4. **Cloudflare Pages**: Create project > Connect to Git > this repo.
-   Framework preset: None. Build command: *(empty)*. Build output directory: `public`.
-   Then Custom domains > `news.thunderstudy.online`.
-5. **Search Console / Bing Webmaster**: add the site, submit `https://news.thunderstudy.online/sitemap.xml`
-   (and `news-sitemap.xml`).
-6. **Run once**: Actions > "Daily news (6 PM IST)" > Run workflow.
+   - `OPENROUTER_API_KEY` (required)
+   - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_ADMIN_ID`, `TELEGRAM_CHANNEL_ID` (Telegram, see below)
+   - `TELEGRAM_STUDY_CHANNEL_ID` (optional: a separate channel for Study News; otherwise it uses the main channel)
+   - `GNEWS_API_KEY` (optional extra source), `INDEXNOW_KEY` (optional, any random 8-64 character string)
+3. **Variable** (optional): `OPENROUTER_MODELS`, comma-separated model ids tried in order. Default `openrouter/free`.
+4. **Cloudflare Pages**: Connect to Git > this repo. Framework preset: None. Build command: empty. Output directory: `public`.
+   Custom domain: `news.thunderstudy.online`.
+5. **Search Console / Bing Webmaster**: submit `https://news.thunderstudy.online/sitemap.xml` and `news-sitemap.xml`.
+6. **Test sources**: `npm install && npm run check:sources` shows which feeds and official pages work. Edit `config/feeds.json`.
+7. **Run once**: Actions > "Daily news (6 AM) and study news (9 AM)" > Run workflow (choose `news`, then `study`).
+
+### Telegram
+- Create the bot with @BotFather and copy the token into `TELEGRAM_BOT_TOKEN`.
+- Admin: open the bot in Telegram and press **Start** (otherwise it cannot message you). Put your numeric user id in `TELEGRAM_ADMIN_ID`
+  (get it from @userinfobot).
+- Channel: add the bot as an **administrator** with "Post messages". Put the channel id (looks like `-1001234567890`) in `TELEGRAM_CHANNEL_ID`.
+
+## Official notices (Study News)
+Pages like CBSE, NTA, UGC, SSC, IBPS and MPESB are watched for **new** links. The first run only records what is already there
+(`data/seen-notices.json`), so old notices are never posted as new. From the next run, each new notice becomes a short factual post
+that points to the official link. Notices are not rewritten. Some official sites load their lists with JavaScript or block
+automated requests; `npm run check:sources` shows which ones return links.
 
 ## Files
-
-| Path | What it does |
+| Path | Purpose |
 |---|---|
-| `scripts/12-1-2026.js` | The pipeline: fetch news, pick stories, write with OpenRouter, save, rebuild |
-| `scripts/lib/openrouter.js` | OpenRouter client, prompt, JSON parsing and validation |
-| `scripts/lib/news.js` | RSS reader and optional GNews API |
-| `scripts/build.js` | Renders all pages, sitemaps, RSS, JSON feed, llms.txt, robots.txt, OG images |
-| `templates/` | HTML templates (post, home, list, about...) plus the kit header and footer |
-| `assets-src/` | `kit.css` (from design_1-8.html), `news.css`, `app.js` |
-| `static/` | favicon.svg, `_headers`, `_redirects` copied into `public/` |
-| `config/site.json` | Name, URL, topics, posts per day |
-| `config/feeds.json` | RSS feeds (edit freely) |
-| `data/posts.json` | All published stories (the site is rebuilt from this) |
-| `.github/workflows/daily-news.yml` | Schedule: `30 12 * * *` UTC = 6:00 PM IST |
+| `scripts/12-1-2026.js` | The pipeline (`--section=news` or `--section=study`, `--dry` for an offline test) |
+| `scripts/lib/openrouter.js`, `scripts/lib/news.js` | OpenRouter client; RSS, notice-page and GNews readers |
+| `scripts/build.js` | Renders pages, sitemaps, feeds, llms.txt, robots.txt, share images |
+| `scripts/telegram.js` | Channel digest, failure alert, empty-run alert |
+| `templates/` | Page templates; `templates/pages/` holds About, Contact, Privacy, Terms, Disclaimer, Corrections |
+| `config/site.json`, `config/feeds.json` | Site settings, topics, owner/editor, email, sources |
+| `assets-src/` | CSS (clay kit + news), JS, logo source. `static/`: favicon, share image, headers |
 
 ## Commands
-
-```bash
-npm install
-npm run news:dry   # offline test with sample stories, writes to /tmp
-npm run build      # rebuild public/ from data/posts.json (after template or CSS edits)
-npm run news       # real run (needs OPENROUTER_API_KEY in your shell)
-npm run preview    # serve public/ on http://localhost:8080
-```
+`npm run news:dry` and `npm run study:dry` (offline tests to /tmp), `npm run build`, `npm run news`, `npm run study`, `npm run check:sources`.
 
 ## Notes
-
-- OpenRouter free models: 20 requests/minute, 50/day (1,000/day after buying $10 credits once). A run uses about 5.
-- GitHub cron can start a few minutes late. Posts are stamped with the actual run time.
-- `static/favicon.svg` is your seagull image. `logo-512.png` and `apple-touch-icon.png` are generated from it. `static/og-image.png` is the default share image; each story also gets its own generated card.
-- Stories are labelled AI-assisted and link to the source. Skim the first few days of output before trusting it fully.
+- OpenRouter free limit: 20 requests/minute, 50/day. News uses about 5 per run and Study News about 3 (notices need none).
+- GitHub cron can start a few minutes late. Posts carry the real run time.
+- The legal pages are standard templates. Have them reviewed if you add ads, analytics or collect any user data.

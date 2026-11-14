@@ -159,3 +159,11 @@ html.js .reveal.in{opacity:1;transform:none}
 /* CTA buttons inside the band */
 .cta-row{justify-content:center}
 .cta-band .btn{min-height:46px}
+
+/* source tag, menu labels, official-site chips */
+.src-tag{display:inline-flex;align-items:center;gap:6px;padding:4px 10px;border-radius:var(--radius-pill);background:var(--primary-soft);color:var(--primary);font-size:12px;font-weight:700}
+.src-tag .ic{width:14px;height:14px}
+.mm-label{padding:14px 4px 4px;font-size:11px;font-weight:700;letter-spacing:1.4px;text-transform:uppercase;color:var(--muted)}
+.official{justify-content:center}
+.official .chip{padding:10px 16px}
+.post-meta .text-link{font-weight:600}

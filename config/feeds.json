@@ -1,28 +1,57 @@
 {
-  "_note": "RSS feeds are the default, key-free news source. Add or remove feeds freely; a feed that fails is skipped. category must match a slug in site.json.",
+  "_note": "type rss = a news or press-release feed written up by the pipeline. type notice = an official web page; new links on it become short, factual notice posts (no rewriting). category 'auto' sorts study stories by keyword. A source that fails is skipped. Run `npm run check:sources` to test them all.",
   "minSummaryChars": 60,
   "maxAgeHours": 36,
-  "feeds": [
-    { "category": "india", "name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss" },
-    { "category": "india", "name": "The Indian Express", "url": "https://indianexpress.com/section/india/feed/" },
-    { "category": "india", "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-india-news" },
-    { "category": "world", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
-    { "category": "world", "name": "The Hindu", "url": "https://www.thehindu.com/news/international/feeder/default.rss" },
-    { "category": "business", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
-    { "category": "business", "name": "The Hindu", "url": "https://www.thehindu.com/business/feeder/default.rss" },
-    { "category": "business", "name": "Mint", "url": "https://www.livemint.com/rss/companies" },
-    { "category": "technology", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
-    { "category": "technology", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
-    { "category": "education", "name": "The Hindu", "url": "https://www.thehindu.com/education/feeder/default.rss" },
-    { "category": "education", "name": "The Indian Express", "url": "https://indianexpress.com/section/education/feed/" },
-    { "category": "science", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" },
-    { "category": "science", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss" },
-    { "category": "sports", "name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml" },
-    { "category": "sports", "name": "The Hindu", "url": "https://www.thehindu.com/sport/feeder/default.rss" }
-  ],
-  "gnews": {
-    "_note": "Optional. Used only when the GNEWS_API_KEY secret is set (gnews.io free plan).",
-    "topics": { "nation": "india", "world": "world", "business": "business", "technology": "technology", "science": "science", "sports": "sports" },
-    "educationQuery": "CBSE OR CUET OR NEET OR JEE OR \"board exam\" OR scholarship"
+  "noticeMaxPerSource": 4,
+  "news": {
+    "feeds": [
+      { "type": "rss", "category": "india", "name": "The Hindu", "url": "https://www.thehindu.com/news/national/feeder/default.rss" },
+      { "type": "rss", "category": "india", "name": "The Indian Express", "url": "https://indianexpress.com/section/india/feed/" },
+      { "type": "rss", "category": "india", "name": "NDTV", "url": "https://feeds.feedburner.com/ndtvnews-india-news" },
+      { "type": "rss", "category": "world", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+      { "type": "rss", "category": "world", "name": "The Hindu", "url": "https://www.thehindu.com/news/international/feeder/default.rss" },
+      { "type": "rss", "category": "business", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+      { "type": "rss", "category": "business", "name": "The Hindu", "url": "https://www.thehindu.com/business/feeder/default.rss" },
+      { "type": "rss", "category": "business", "name": "Mint", "url": "https://www.livemint.com/rss/companies" },
+      { "type": "rss", "category": "technology", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/technology/rss.xml" },
+      { "type": "rss", "category": "technology", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss" },
+      { "type": "rss", "category": "science", "name": "BBC News", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" },
+      { "type": "rss", "category": "science", "name": "The Hindu", "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss" },
+      { "type": "rss", "category": "sports", "name": "BBC Sport", "url": "https://feeds.bbci.co.uk/sport/rss.xml" },
+      { "type": "rss", "category": "sports", "name": "The Hindu", "url": "https://www.thehindu.com/sport/feeder/default.rss" }
+    ],
+    "gnews": { "topics": { "nation": "india", "world": "world", "business": "business", "technology": "technology", "science": "science", "sports": "sports" } }
+  },
+  "study": {
+    "feeds": [
+      { "type": "rss", "category": "auto", "name": "The Hindu", "url": "https://www.thehindu.com/education/feeder/default.rss" },
+      { "type": "rss", "category": "auto", "name": "The Indian Express", "url": "https://indianexpress.com/section/education/feed/" },
+      { "type": "rss", "category": "auto", "name": "Hindustan Times", "url": "https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml" },
+      { "type": "rss", "category": "auto", "name": "PIB", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3" },
+      { "type": "rss", "category": "banking", "name": "RBI", "url": "https://rbi.org.in/pressreleases_rss.xml" },
+      { "type": "notice", "category": "cbse", "name": "CBSE", "url": "https://www.cbse.gov.in/" },
+      { "type": "notice", "category": "more", "name": "NTA", "url": "https://nta.ac.in/" },
+      { "type": "notice", "category": "more", "name": "UGC", "url": "https://www.ugc.gov.in/" },
+      { "type": "notice", "category": "cuet", "name": "CUET (NTA)", "url": "https://cuet.nta.nic.in/" },
+      { "type": "notice", "category": "jee", "name": "JEE Main (NTA)", "url": "https://jeemain.nta.nic.in/" },
+      { "type": "notice", "category": "neet", "name": "NEET UG (NTA)", "url": "https://neet.nta.nic.in/" },
+      { "type": "notice", "category": "more", "name": "UGC NET (NTA)", "url": "https://ugcnet.nta.nic.in/" },
+      { "type": "notice", "category": "ssc", "name": "SSC", "url": "https://ssc.gov.in/" },
+      { "type": "notice", "category": "banking", "name": "IBPS", "url": "https://www.ibps.in/" },
+      { "type": "notice", "category": "banking", "name": "SBI Careers", "url": "https://sbi.co.in/web/careers/current-openings" },
+      { "type": "notice", "category": "mp", "name": "MPESB", "url": "https://esb.mp.gov.in/" },
+      { "type": "notice", "category": "mp", "name": "MPPSC", "url": "https://mppsc.mp.gov.in/" }
+    ],
+    "gnews": { "queries": { "cbse": "CBSE", "cuet": "CUET", "jee": "\"JEE Main\" OR \"JEE Advanced\"", "neet": "NEET", "ssc": "\"SSC CGL\" OR \"SSC CHSL\" OR \"SSC MTS\"", "banking": "IBPS OR \"SBI PO\" OR \"bank recruitment\"", "mp": "MPESB OR MPPSC OR \"Madhya Pradesh recruitment\"" } },
+    "keywords": {
+      "cbse": ["cbse", "central board of secondary"],
+      "cuet": ["cuet"],
+      "jee": ["jee main", "jee advanced", "jee (main)", "josaa", "iit "],
+      "neet": ["neet", "mcc counselling", "aiims"],
+      "ssc": ["ssc ", "staff selection commission", "cgl", "chsl"],
+      "banking": ["ibps", "sbi ", "rbi ", "bank exam", "bank recruitment", "rrb po", "bank po", "bank clerk"],
+      "mp": ["madhya pradesh", "mppsc", "mpesb", "vyapam", "bhopal", " mp board", "mp police"],
+      "more": ["ugc", "upsc", "nta ", "scholarship", "admit card", "exam", "result", "recruitment", "vacancy", "admission", "syllabus", "board", "university", "answer key", "counselling"]
+    }
   }
 }
