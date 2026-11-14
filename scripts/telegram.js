@@ -37,7 +37,12 @@ const runUrl = () => process.env.GITHUB_RUN_ID ? `${process.env.GITHUB_SERVER_UR
     const last = readJSON('data/last-run.json', null);
     if (!last || !last.items || !last.items.length) return console.log('No items to post.');
     const study = last.section === 'study';
-    const chat = (study && process.env.TELEGRAM_STUDY_CHANNEL_ID) || process.env.TELEGRAM_CHANNEL_ID;
+    // News goes only to TELEGRAM_CHANNEL_ID. Study News goes only to TELEGRAM_STUDY_CHANNEL_ID (never to the news channel).
+    const chat = study ? process.env.TELEGRAM_STUDY_CHANNEL_ID : process.env.TELEGRAM_CHANNEL_ID;
+    if (!chat) {
+      console.log(`${study ? 'TELEGRAM_STUDY_CHANNEL_ID' : 'TELEGRAM_CHANNEL_ID'} is not set; skipping the channel post.`);
+      return send(ADMIN, `<b>ThunderStudy News: channel post skipped</b>\nSection: ${h(last.section)}\nThe stories were published on the site, but the secret ${study ? 'TELEGRAM_STUDY_CHANNEL_ID' : 'TELEGRAM_CHANNEL_ID'} is not set, so nothing was posted to Telegram.`);
+    }
     const head = `<b>ThunderStudy ${study ? 'Study News' : 'News'}</b>${study ? ' | Exams, results and jobs' : ' | Morning headlines'}\n${h(new Date(last.at).toLocaleDateString('en-IN', { timeZone: 'Asia/Kolkata', day: 'numeric', month: 'long', year: 'numeric' }))}\n`;
     const foot = `\n${last.briefingUrl ? `<a href="${h(last.briefingUrl)}">Read the full ${study ? 'study ' : ''}briefing</a>\n` : ''}<a href="${h(last.sectionUrl)}">${study ? 'More Study News' : 'More news'}</a>${study ? '\nAlways confirm dates on the official website.' : ''}`;
     let body = '', n = 0;
