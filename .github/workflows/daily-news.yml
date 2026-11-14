@@ -1,13 +1,21 @@
-name: Daily news (6 PM IST)
+name: Daily news (6 AM) and study news (9 AM)
 
 on:
   schedule:
-    # GitHub cron is UTC. 12:30 UTC = 18:00 IST. GitHub can start scheduled runs a few minutes late.
-    - cron: "30 12 * * *"
+    # GitHub cron is UTC. 00:30 UTC = 6:00 AM IST (News). 03:30 UTC = 9:00 AM IST (Study News).
+    # GitHub can start scheduled runs several minutes late.
+    - cron: "30 0 * * *"
+    - cron: "30 3 * * *"
   workflow_dispatch:
     inputs:
+      section:
+        description: "Which section to publish"
+        required: true
+        default: news
+        type: choice
+        options: [news, study]
       posts:
-        description: "How many stories to publish (blank = default)"
+        description: "How many stories (blank = default)"
         required: false
         default: ""
 
@@ -17,6 +25,9 @@ permissions:
 concurrency:
   group: daily-news
   cancel-in-progress: false
+
+env:
+  SECTION: ${{ github.event.inputs.section || (github.event.schedule == '30 3 * * *' && 'study' || 'news') }}
 
 jobs:
   publish:
@@ -31,11 +42,12 @@ jobs:
           cache: npm
 
       - name: Install
+        id: install
         run: npm ci
 
-      - name: Fetch news, write stories with OpenRouter, rebuild site and sitemap
+      - name: Fetch sources, write stories, rebuild site and sitemap
         id: news
-        run: node scripts/12-1-2026.js
+        run: node scripts/12-1-2026.js --section=$SECTION
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODELS: ${{ vars.OPENROUTER_MODELS }}
@@ -44,7 +56,7 @@ jobs:
           POSTS_PER_RUN: ${{ github.event.inputs.posts }}
 
       - name: Commit and push (Cloudflare Pages deploys from this push)
-        if: steps.news.outputs.new_posts != '0'
+        id: push
         run: |
           git config user.name "thunder-news-bot"
           git config user.email "thunder-news-bot@users.noreply.github.com"
@@ -52,15 +64,41 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "news: $(TZ=Asia/Kolkata date +%F) daily stories (${{ steps.news.outputs.new_posts }} new)"
+            git commit -m "$SECTION: $(TZ=Asia/Kolkata date +%F) update (${{ steps.news.outputs.new_posts }} new)"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
+      - name: Wait for Cloudflare Pages to deploy
+        if: steps.news.outputs.new_posts != '0'
+        run: sleep 100
+
+      - name: Post to the Telegram channel
+        if: steps.news.outputs.new_posts != '0'
+        run: node scripts/telegram.js digest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ADMIN_ID: ${{ secrets.TELEGRAM_ADMIN_ID }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_STUDY_CHANNEL_ID: ${{ secrets.TELEGRAM_STUDY_CHANNEL_ID }}
+
       - name: Tell Bing and others about the new pages (IndexNow, optional)
         if: steps.news.outputs.new_posts != '0'
-        run: |
-          sleep 120   # give Cloudflare Pages time to deploy
-          node scripts/indexnow.js
+        run: node scripts/indexnow.js
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
+
+      - name: Tell the admin nothing new was found
+        if: steps.news.outputs.new_posts == '0'
+        run: node scripts/telegram.js empty
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ADMIN_ID: ${{ secrets.TELEGRAM_ADMIN_ID }}
+
+      - name: Tell the admin the run failed
+        if: failure()
+        run: node scripts/telegram.js fail
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_ADMIN_ID: ${{ secrets.TELEGRAM_ADMIN_ID }}
+          FAILED_STEP: ${{ steps.install.outcome == 'failure' && 'npm install' || steps.news.outcome == 'failure' && 'fetch and write stories' || steps.push.outcome == 'failure' && 'git push' || 'telegram or later' }}
