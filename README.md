@@ -16,7 +16,7 @@ llms.txt, share images) -> commit and push -> Cloudflare deploys -> post to Tele
 2. **Secrets** (Settings > Secrets and variables > Actions > Secrets):
    - `OPENROUTER_API_KEY` (required)
    - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_ADMIN_ID`, `TELEGRAM_CHANNEL_ID` (Telegram, see below)
-   - `TELEGRAM_STUDY_CHANNEL_ID` (optional: a separate channel for Study News; otherwise it uses the main channel)
+   - `TELEGRAM_STUDY_CHANNEL_ID` (the Study News channel. Study News posts ONLY here, never to the news channel)
    - `GNEWS_API_KEY` (optional extra source), `INDEXNOW_KEY` (optional, any random 8-64 character string)
 3. **Variable** (optional): `OPENROUTER_MODELS`, comma-separated model ids tried in order. Default `openrouter/free`.
 4. **Cloudflare Pages**: Connect to Git > this repo. Framework preset: None. Build command: empty. Output directory: `public`.
@@ -29,7 +29,8 @@ llms.txt, share images) -> commit and push -> Cloudflare deploys -> post to Tele
 - Create the bot with @BotFather and copy the token into `TELEGRAM_BOT_TOKEN`.
 - Admin: open the bot in Telegram and press **Start** (otherwise it cannot message you). Put your numeric user id in `TELEGRAM_ADMIN_ID`
   (get it from @userinfobot).
-- Channel: add the bot as an **administrator** with "Post messages". Put the channel id (looks like `-1001234567890`) in `TELEGRAM_CHANNEL_ID`.
+- News channel: add the bot as an **administrator** with "Post messages". Put its id (looks like `-1001234567890`) in `TELEGRAM_CHANNEL_ID`. Only the 6 AM News digest goes here.
+- Study channel: do the same and put its id in `TELEGRAM_STUDY_CHANNEL_ID`. Only the 9 AM Study News digest goes here. If this secret is missing, nothing is posted and the admin gets a message.
 
 ## Official notices (Study News)
 Pages like CBSE, NTA, UGC, SSC, IBPS and MPESB are watched for **new** links. The first run only records what is already there
