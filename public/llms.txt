@@ -45,4 +45,4 @@ Updated: News every morning at 6:00 AM IST; Study News every morning at 9:00 AM 
 
 ## Latest stories
 
-
+- [Anthropic's high valuation may not protect its edge](https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/): The Hindu says Anthropic's valuation does not secure a lasting edge, as engineers must keep building better models and profitability after infrastructure… (2026-11-15)

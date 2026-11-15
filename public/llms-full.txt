@@ -1,2 +1,13 @@
 # ThunderStudy News: recent stories (full text index)
 
+## Anthropic's high valuation may not protect its edge
+URL: https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/
+Published: 2026-11-15T01:36:10.628Z
+Topic: Technology
+Quick answer: A report in The Hindu questions whether Anthropic's valuation protects its business. It says the company's engineers must keep building progressively more capable models, and that Anthropic has not shown it can stay profitable once it meets its infrastructure commitments. The piece treats valuation as no guarantee of a durable…
+Key points:
+- The Hindu says Anthropic's valuation does not by itself secure a lasting edge.
+- Engineers must keep building progressively more capable AI models, the report notes.
+- Anthropic has not shown it can stay profitable after infrastructure commitments.
+- The piece ties the firm's position to model progress and cost control.
+Original source: The Hindu - https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece

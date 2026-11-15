@@ -7,5 +7,26 @@
   "language": "en-IN",
   "icon": "https://news.thunderstudy.online/logo-512.png",
   "favicon": "https://news.thunderstudy.online/favicon.svg",
-  "items": []
+  "items": [
+    {
+      "id": "https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/",
+      "url": "https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/",
+      "title": "Anthropic's high valuation may not protect its edge",
+      "summary": "The Hindu says Anthropic's valuation does not secure a lasting edge, as engineers must keep building better models and profitability after infrastructure…",
+      "content_text": "A report in The Hindu questions whether Anthropic's valuation protects its business. It says the company's engineers must keep building progressively more capable models, and that Anthropic has not shown it can stay profitable once it meets its infrastructure commitments. The piece treats valuation as no guarantee of a durable…\n- The Hindu says Anthropic's valuation does not by itself secure a lasting edge.\n- Engineers must keep building progressively more capable AI models, the report notes.\n- Anthropic has not shown it can stay profitable after infrastructure commitments.\n- The piece ties the firm's position to model progress and cost control.",
+      "date_published": "2026-11-15T01:36:10.628Z",
+      "date_modified": "2026-11-15T01:36:10.628Z",
+      "tags": [
+        "Technology",
+        "anthropic",
+        "valuation",
+        "ai models",
+        "profitability",
+        "infrastructure commitments",
+        "the hindu"
+      ],
+      "image": "https://news.thunderstudy.online/og/anthropics-high-valuation-may-not-protect-its-edge.png",
+      "external_url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece"
+    }
+  ]
 }

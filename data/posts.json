@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "510e7117af",
+    "slug": "anthropics-high-valuation-may-not-protect-its-edge",
+    "kind": "news",
+    "category": "technology",
+    "title": "Anthropic's high valuation may not protect its edge",
+    "description": "The Hindu says Anthropic's valuation does not secure a lasting edge, as engineers must keep building better models and profitability after infrastructure…",
+    "quick": "A report in The Hindu questions whether Anthropic's valuation protects its business. It says the company's engineers must keep building progressively more capable models, and that Anthropic has not shown it can stay profitable once it meets its infrastructure commitments. The piece treats valuation as no guarantee of a durable…",
+    "points": [
+      "The Hindu says Anthropic's valuation does not by itself secure a lasting edge.",
+      "Engineers must keep building progressively more capable AI models, the report notes.",
+      "Anthropic has not shown it can stay profitable after infrastructure commitments.",
+      "The piece ties the firm's position to model progress and cost control."
+    ],
+    "body": [
+      "A technology report in The Hindu examines whether Anthropic's valuation protects its market position. It concludes that valuation alone does not create a durable advantage for the AI firm.",
+      "According to the report, Anthropic's engineers need to keep building progressively more capable models. It also says the company has not established that it can sustain profitability after honouring its infrastructure commitments.",
+      "For readers, the piece frames the company's future as dependent on continued model progress and on managing the costs tied to its infrastructure promises."
+    ],
+    "faq": [
+      {
+        "q": "What does the report say about Anthropic's valuation?",
+        "a": "It says the valuation cannot secure the firm's moat, meaning it does not guarantee a lasting competitive edge."
+      },
+      {
+        "q": "What challenges does the report identify for Anthropic?",
+        "a": "Engineers must keep building more capable models, and profitability after honouring infrastructure commitments is not yet established."
+      }
+    ],
+    "keywords": [
+      "anthropic",
+      "valuation",
+      "ai models",
+      "profitability",
+      "infrastructure commitments",
+      "the hindu"
+    ],
+    "date": "2026-11-15T01:36:10.628Z",
+    "updated": "2026-11-15T01:36:10.628Z",
+    "readMins": 1,
+    "model": "inclusionai/ling-3.2-flash:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece",
+      "title": "Anthropic’s valuation can’t secure its moat",
+      "published": "2026-11-14T18:21:19.000Z",
+      "official": false
+    }
+  }
+]

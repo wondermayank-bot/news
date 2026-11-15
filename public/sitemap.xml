@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-14T13:57:04.603Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/technology/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/anthropics-high-valuation-may-not-protect-its-edge.png</image:loc><image:title>Anthropic&#39;s high valuation may not protect its edge</image:title></image:image></url>
 </urlset>
