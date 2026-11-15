@@ -1,5 +1,60 @@
 [
   {
+    "id": "2d6dd57680",
+    "slug": "rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18",
+    "kind": "news",
+    "category": "banking",
+    "title": "RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18",
+    "description": "The Reserve Bank of India will auction three Treasury Bills worth a total of ₹23,000 crore on November 18, 2026, with settlement on November 19.",
+    "quick": "The Reserve Bank of India has announced an auction of three Government of India Treasury Bills on November 18, 2026, totalling ₹23,000 crore. The 91-day and 182-day bills are notified at ₹8,000 crore each, and the 364-day bill at ₹7,000 crore. Settlement is on November 19, 2026.",
+    "points": [
+      "The 91-day and 182-day bills are notified at ₹8,000 crore each.",
+      "The 364-day bill is notified at ₹7,000 crore, taking the total to ₹23,000 crore.",
+      "Bids will be submitted electronically on the RBI's E-Kuber system on November 18.",
+      "Retail investors can bid non-competitively, capped at 5 percent of the notified amount.",
+      "Successful bidders must pay on November 19, 2026."
+    ],
+    "body": [
+      "The Reserve Bank of India will auction three Treasury Bills of the Government of India on Wednesday, November 18, 2026. The 91-day and 182-day bills carry a notified amount of ₹8,000 crore each, while the 364-day bill is notified at ₹7,000 crore, adding up to ₹23,000 crore.",
+      "The auction will be price based and use the multiple price method. Competitive bids can be placed between 10:30 am and 11:30 am, and non-competitive bids between 10:30 am and 11:00 am, in electronic form on the RBI's E-Kuber system. Results are to be announced on the auction day, and payment by successful bidders is due on Thursday, November 19, 2026.",
+      "State governments, Union Territories with a legislature, eligible provident funds in India, designated foreign central banks and other specified institutions may take part on a non-competitive basis, with that allocation falling outside the notified amount. Individuals can also participate as retail investors through the Retail Direct portal, limited to a maximum of 5 percent of the notified amount.",
+      "The sale is subject to the terms of the General Notification F.No.4(2)-B(W&M)/2018 dated March 26, 2025, as amended from time to time. Physical bids will be accepted only if the system fails, and must reach the Public Debt Office before the auction timing ends."
+    ],
+    "faq": [
+      {
+        "q": "When is the RBI Treasury Bill auction in November 2026?",
+        "a": "The auction is on Wednesday, November 18, 2026, with settlement on Thursday, November 19, 2026."
+      },
+      {
+        "q": "How much is being auctioned?",
+        "a": "A total of ₹23,000 crore: ₹8,000 crore in 91-day bills, ₹8,000 crore in 182-day bills and ₹7,000 crore in 364-day bills."
+      },
+      {
+        "q": "Can retail investors take part?",
+        "a": "Yes, individuals can bid on a non-competitive basis through the Retail Direct portal, with allocation restricted to a maximum of 5 percent of the notified amount."
+      }
+    ],
+    "keywords": [
+      "treasury bills",
+      "rbi auction",
+      "91-day bill",
+      "364-day bill",
+      "retail direct",
+      "government securities"
+    ],
+    "date": "2026-11-15T04:15:53.059Z",
+    "updated": "2026-11-15T04:15:53.059Z",
+    "readMins": 2,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "RBI",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63975",
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "published": "2026-11-13T17:45:00.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "510e7117af",
     "slug": "anthropics-high-valuation-may-not-protect-its-edge",
     "kind": "news",

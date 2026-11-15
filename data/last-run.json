@@ -1,21 +1,21 @@
 {
-  "at": "2026-11-15T01:44:09.156Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
+  "at": "2026-11-15T04:24:51.986Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
   "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/",
+  "sectionUrl": "https://news.thunderstudy.online/study/",
   "briefingUrl": null,
   "items": [
     {
-      "title": "Anthropic's high valuation may not protect its edge",
-      "url": "https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/",
-      "category": "Technology",
+      "title": "RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18",
+      "url": "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
+      "category": "Banking",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/",
+    "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

@@ -1,5 +1,18 @@
 # ThunderStudy News: recent stories (full text index)
 
+## RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18
+URL: https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/
+Published: 2026-11-15T04:15:53.059Z
+Topic: Banking
+Quick answer: The Reserve Bank of India has announced an auction of three Government of India Treasury Bills on November 18, 2026, totalling ₹23,000 crore. The 91-day and 182-day bills are notified at ₹8,000 crore each, and the 364-day bill at ₹7,000 crore. Settlement is on November 19, 2026.
+Key points:
+- The 91-day and 182-day bills are notified at ₹8,000 crore each.
+- The 364-day bill is notified at ₹7,000 crore, taking the total to ₹23,000 crore.
+- Bids will be submitted electronically on the RBI's E-Kuber system on November 18.
+- Retail investors can bid non-competitively, capped at 5 percent of the notified amount.
+- Successful bidders must pay on November 19, 2026.
+Original source: RBI - https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63975
+
 ## Anthropic's high valuation may not protect its edge
 URL: https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/
 Published: 2026-11-15T01:36:10.628Z
