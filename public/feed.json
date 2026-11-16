@@ -9,6 +9,61 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-16-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-16-november-2026/",
+      "title": "Daily Briefing: 2 stories to know on 16 November 2026",
+      "summary": "Your 16 November 2026 news briefing: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left…",
+      "content_text": "Top stories on 16 November 2026: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left in 2025.\n- Bangladesh clothing factories close as workers strike for higher pay\n- Suspected China spy linked to Nvidia ex-boss left in 2025",
+      "date_published": "2026-11-16T01:53:02.909Z",
+      "date_modified": "2026-11-16T01:53:02.909Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-16-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
+      "url": "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
+      "title": "Bangladesh clothing factories close as workers strike for higher pay",
+      "summary": "Garment factories in Bangladesh have shut down as workers strike demanding a monthly minimum wage of 30,000 taka (£182).",
+      "content_text": "Clothing factories across Bangladesh have shut down after workers went on strike demanding a minimum monthly wage of 30,000 taka, equivalent to about £182.\n- Workers strike demanding 30,000 taka monthly minimum wage\n- Clothing factories shut down due to strike action\n- Demand equals approximately £182 per month",
+      "date_published": "2026-11-16T01:53:01.909Z",
+      "date_modified": "2026-11-16T01:53:01.909Z",
+      "tags": [
+        "World",
+        "bangladesh",
+        "garment workers",
+        "strike",
+        "minimum wage",
+        "clothing factories"
+      ],
+      "image": "https://news.thunderstudy.online/og/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/",
+      "url": "https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/",
+      "title": "Suspected China spy linked to Nvidia ex-boss left in 2025",
+      "summary": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025, as the Nvidia scandal raises questions over AI chips reaching China.",
+      "content_text": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025. The Nvidia scandal has raised questions over whether advanced AI chips ended up in China despite US restrictions. The source gives no further details on the case.\n- Megaspeed says a suspected China spy linked to Nvidia's ex-boss left in 2025.\n- The Nvidia scandal raises questions over advanced AI chips reaching China.\n- The concern exists despite US restrictions on such chips.\n- The source gives no further details about the case.",
+      "date_published": "2026-11-16T01:52:01.909Z",
+      "date_modified": "2026-11-16T01:52:01.909Z",
+      "tags": [
+        "Business",
+        "nvidia",
+        "ai chips",
+        "china spy",
+        "us restrictions",
+        "megaspeed"
+      ],
+      "image": "https://news.thunderstudy.online/og/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
       "url": "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
       "title": "RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18",

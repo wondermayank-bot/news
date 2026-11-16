@@ -1,21 +1,28 @@
 {
-  "at": "2026-11-15T04:24:51.986Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
-  "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": null,
+  "at": "2026-11-16T01:59:03.366Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
+  "added": 2,
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-16-november-2026/",
   "items": [
     {
-      "title": "RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18",
-      "url": "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
-      "category": "Banking",
+      "title": "Bangladesh clothing factories close as workers strike for higher pay",
+      "url": "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
+      "category": "World",
+      "official": false
+    },
+    {
+      "title": "Suspected China spy linked to Nvidia ex-boss left in 2025",
+      "url": "https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/",
+      "category": "Business",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/",
+    "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
+    "https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

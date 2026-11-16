@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
   <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/world/</loc><lastmod>2026-11-16T01:53:01.909Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/business/</loc><lastmod>2026-11-16T01:52:01.909Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/technology/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/briefing/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/banking/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/news/daily-briefing-16-november-2026/</loc><lastmod>2026-11-16T01:53:02.909Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/daily-briefing-16-november-2026.png</image:loc><image:title>Daily Briefing: 2 stories to know on 16 November 2026</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/</loc><lastmod>2026-11-16T01:53:01.909Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay.png</image:loc><image:title>Bangladesh clothing factories close as workers strike for higher pay</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/</loc><lastmod>2026-11-16T01:52:01.909Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025.png</image:loc><image:title>Suspected China spy linked to Nvidia ex-boss left in 2025</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/</loc><lastmod>2026-11-15T04:15:53.059Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18.png</image:loc><image:title>RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/</loc><lastmod>2026-11-15T01:36:10.628Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/anthropics-high-valuation-may-not-protect-its-edge.png</image:loc><image:title>Anthropic&#39;s high valuation may not protect its edge</image:title></image:image></url>
 </urlset>

@@ -1,5 +1,148 @@
 [
   {
+    "id": "briefing-news-2026-11-16",
+    "slug": "daily-briefing-16-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 2 stories to know on 16 November 2026",
+    "description": "Your 16 November 2026 news briefing: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left…",
+    "quick": "Top stories on 16 November 2026: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left in 2025.",
+    "points": [
+      "Bangladesh clothing factories close as workers strike for higher pay",
+      "Suspected China spy linked to Nvidia ex-boss left in 2025"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay",
+        "title": "Bangladesh clothing factories close as workers strike for higher pay",
+        "description": "Garment factories in Bangladesh have shut down as workers strike demanding a monthly minimum wage of 30,000 taka (£182).",
+        "category": "world"
+      },
+      {
+        "slug": "suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025",
+        "title": "Suspected China spy linked to Nvidia ex-boss left in 2025",
+        "description": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025, as the Nvidia scandal raises questions over AI chips reaching China.",
+        "category": "business"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 16 November 2026?",
+        "a": "The top stories on 16 November 2026 are: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left in 2025."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-16T01:53:02.909Z",
+    "updated": "2026-11-16T01:53:02.909Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "64178a3da0",
+    "slug": "bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay",
+    "kind": "news",
+    "category": "world",
+    "title": "Bangladesh clothing factories close as workers strike for higher pay",
+    "description": "Garment factories in Bangladesh have shut down as workers strike demanding a monthly minimum wage of 30,000 taka (£182).",
+    "quick": "Clothing factories across Bangladesh have shut down after workers went on strike demanding a minimum monthly wage of 30,000 taka, equivalent to about £182.",
+    "points": [
+      "Workers strike demanding 30,000 taka monthly minimum wage",
+      "Clothing factories shut down due to strike action",
+      "Demand equals approximately £182 per month"
+    ],
+    "body": [
+      "Clothing factories in Bangladesh have ceased operations as workers walk out over pay. The industrial action has forced widespread shutdowns across the garment sector.",
+      "Striking workers are calling for a minimum wage of 30,000 taka per month, which converts to roughly £182. The dispute centers on this specific pay demand."
+    ],
+    "faq": [
+      {
+        "q": "Why are Bangladesh garment workers on strike?",
+        "a": "Workers are striking to demand a minimum monthly wage of 30,000 taka (£182)."
+      },
+      {
+        "q": "How many factories are affected by the strike?",
+        "a": "The source states clothing factories have shut down but does not specify the number affected."
+      }
+    ],
+    "keywords": [
+      "bangladesh",
+      "garment workers",
+      "strike",
+      "minimum wage",
+      "clothing factories"
+    ],
+    "date": "2026-11-16T01:53:01.909Z",
+    "updated": "2026-11-16T01:53:01.909Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "published": "2026-11-16T01:05:44.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "c6f717fdbe",
+    "slug": "suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025",
+    "kind": "news",
+    "category": "business",
+    "title": "Suspected China spy linked to Nvidia ex-boss left in 2025",
+    "description": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025, as the Nvidia scandal raises questions over AI chips reaching China.",
+    "quick": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025. The Nvidia scandal has raised questions over whether advanced AI chips ended up in China despite US restrictions. The source gives no further details on the case.",
+    "points": [
+      "Megaspeed says a suspected China spy linked to Nvidia's ex-boss left in 2025.",
+      "The Nvidia scandal raises questions over advanced AI chips reaching China.",
+      "The concern exists despite US restrictions on such chips.",
+      "The source gives no further details about the case."
+    ],
+    "body": [
+      "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025. The report does not name the person or give further details.",
+      "The wider Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "For readers, the case touches on concerns about AI technology, export controls and corporate links, though the available source material is limited."
+    ],
+    "faq": [
+      {
+        "q": "What did Megaspeed say?",
+        "a": "Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025."
+      },
+      {
+        "q": "What wider issue does the Nvidia scandal raise?",
+        "a": "It raises questions over whether advanced AI chips ended up in China, despite US restrictions."
+      }
+    ],
+    "keywords": [
+      "nvidia",
+      "ai chips",
+      "china spy",
+      "us restrictions",
+      "megaspeed"
+    ],
+    "date": "2026-11-16T01:52:01.909Z",
+    "updated": "2026-11-16T01:52:01.909Z",
+    "readMins": 1,
+    "model": "inclusionai/ling-3.2-flash:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "published": "2026-11-16T01:47:57.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "2d6dd57680",
     "slug": "rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18",
     "kind": "news",
