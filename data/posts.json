@@ -1,5 +1,206 @@
 [
   {
+    "id": "briefing-study-2026-11-17",
+    "slug": "study-briefing-17-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 3 exam and job updates for 17 November 2026",
+    "description": "Your 17 November 2026 study briefing: 11-day education equality campaign starts in Balaghat; CBSE launches Expression Series on gender equality for Classes…",
+    "quick": "Exam and job updates on 17 November 2026: 11-day education equality campaign starts in Balaghat; CBSE launches Expression Series on gender equality for Classes III-XII; NEET 2026: Float and Freeze option leaves medical seats vacant.",
+    "points": [
+      "11-day education equality campaign starts in Balaghat",
+      "CBSE launches Expression Series on gender equality for Classes III-XII",
+      "NEET 2026: Float and Freeze option leaves medical seats vacant"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "11-day-education-equality-campaign-starts-in-balaghat",
+        "title": "11-day education equality campaign starts in Balaghat",
+        "description": "A committee launches an 11-day yatra from Balaghat to Bhopal demanding equal access to quality education, passing through four districts.",
+        "category": "mp"
+      },
+      {
+        "slug": "cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii",
+        "title": "CBSE launches Expression Series on gender equality for Classes III-XII",
+        "description": "CBSE invites Classes III-XII students to join its 2026-27 Expression Series on women empowerment and gender equality, with entries due Tuesday.",
+        "category": "cbse"
+      },
+      {
+        "slug": "neet-2026-float-and-freeze-option-leaves-medical-seats-vacant",
+        "title": "NEET 2026: Float and Freeze option leaves medical seats vacant",
+        "description": "New admission flexibility lets candidates hold seats without joining, contributing to hundreds of unfilled medical seats despite high exam turnout.",
+        "category": "neet"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 17 November 2026?",
+        "a": "The top exam and job updates on 17 November 2026 are: 11-day education equality campaign starts in Balaghat; CBSE launches Expression Series on gender equality for Classes III-XII; NEET 2026: Float and Freeze option leaves medical seats vacant."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-17T04:21:32.161Z",
+    "updated": "2026-11-17T04:21:32.161Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "00e3e4bffc",
+    "slug": "11-day-education-equality-campaign-starts-in-balaghat",
+    "kind": "news",
+    "category": "mp",
+    "title": "11-day education equality campaign starts in Balaghat",
+    "description": "A committee launches an 11-day yatra from Balaghat to Bhopal demanding equal access to quality education, passing through four districts.",
+    "quick": "An 11-day campaign for equal access to quality education began in Balaghat, Madhya Pradesh on November 15. Organized by a committee, the yatra will travel to Bhopal by November 25, passing through Seoni, Chhindwara, Betul, and Narmadapuram districts.",
+    "points": [
+      "11-day education equality campaign launched in Balaghat",
+      "Yatra runs November 15-25 from Balaghat to Bhopal",
+      "Route covers Seoni, Chhindwara, Betul, Narmadapuram",
+      "Committee demands equal access to quality education"
+    ],
+    "body": [
+      "An 11-day campaign advocating equal access to quality education began in Balaghat district of Madhya Pradesh on November 15. The initiative, organized by a committee, is structured as a yatra that will conclude in Bhopal on November 25.",
+      "The yatra will pass through four districts along its route: Seoni, Chhindwara, Betul, and Narmadapuram. The committee stated the journey aims to highlight the need for equitable educational opportunities across the region."
+    ],
+    "faq": [
+      {
+        "q": "When does the education campaign start and end?",
+        "a": "The campaign runs from November 15 to November 25, covering 11 days."
+      },
+      {
+        "q": "Which districts will the yatra pass through?",
+        "a": "The yatra will travel through Seoni, Chhindwara, Betul, and Narmadapuram districts."
+      }
+    ],
+    "keywords": [
+      "education equality",
+      "madhya pradesh",
+      "balaghat",
+      "bhopal",
+      "yatra"
+    ],
+    "date": "2026-11-17T04:21:31.161Z",
+    "updated": "2026-11-17T04:21:31.161Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/news/11day-campaign-for-equal-access-to-quality-education-begins-in-mps-balaghat-101794800697211.html",
+      "title": "11-day campaign for equal access to quality education begins in MP's Balaghat",
+      "published": "2026-11-16T03:57:42.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "6670cc8031",
+    "slug": "cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii",
+    "kind": "news",
+    "category": "cbse",
+    "title": "CBSE launches Expression Series on gender equality for Classes III-XII",
+    "description": "CBSE invites Classes III-XII students to join its 2026-27 Expression Series on women empowerment and gender equality, with entries due Tuesday.",
+    "quick": "CBSE has launched its 2026-27 Expression Series for students in Classes III through XII, centered on women empowerment and gender equality with age-appropriate themes. Schools are encouraged to sensitize students on these topics, and entries must be submitted by Tuesday.",
+    "points": [
+      "CBSE's 2026-27 Expression Series focuses on women empowerment and gender equality",
+      "Open to students from Classes III to XII with age-wise themes",
+      "Entries due by Tuesday",
+      "Aims to sensitize students on gender equality importance",
+      "Part of CBSE's academic session activities"
+    ],
+    "body": [
+      "CBSE has announced its Expression Series for the 2026-27 academic year, inviting students from Classes III to XII to participate in activities centered on women empowerment and gender equality.",
+      "The series features age-appropriate themes for different class levels, and schools are expected to use this platform to sensitize students on the importance of gender equality. The deadline for submitting entries is Tuesday.",
+      "This initiative reflects a broader effort by educational institutions to integrate gender sensitivity into the classroom experience for young learners across India."
+    ],
+    "faq": [
+      {
+        "q": "What is the CBSE Expression Series 2026-27 about?",
+        "a": "The series focuses on women empowerment and gender equality for students in Classes III to XII."
+      },
+      {
+        "q": "When is the deadline for entries?",
+        "a": "Entries are due by Tuesday."
+      }
+    ],
+    "keywords": [
+      "cbse",
+      "expression series",
+      "gender equality",
+      "women empowerment",
+      "students",
+      "schools"
+    ],
+    "date": "2026-11-17T04:19:31.161Z",
+    "updated": "2026-11-17T04:19:31.161Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/cbse-puts-gender-equality-in-the-classroom-conversation/articleshow/135893612.cms",
+      "title": "CBSE puts gender equality in the classroom conversation",
+      "published": "2026-11-16T14:57:00Z",
+      "official": false
+    }
+  },
+  {
+    "id": "1a3e751cec",
+    "slug": "neet-2026-float-and-freeze-option-leaves-medical-seats-vacant",
+    "kind": "news",
+    "category": "neet",
+    "title": "NEET 2026: Float and Freeze option leaves medical seats vacant",
+    "description": "New admission flexibility lets candidates hold seats without joining, contributing to hundreds of unfilled medical seats despite high exam turnout.",
+    "quick": "The 2026 NEET counselling introduced a Float and Freeze option allowing candidates to carry forward seat allotments without completing admission formalities. Even if seats remain unchanged in Round 3, candidates can decline to join. This flexibility has led to significant seat underutilisation, with hundreds of medical seats…",
+    "points": [
+      "Float and Freeze option introduced in 2026 NEET counselling",
+      "Candidates can hold allotments without completing admission",
+      "Seats can be declined even after Round 3 allotment",
+      "Flexibility linked to hundreds of vacant medical seats",
+      "Millions of students appeared for NEET 2026"
+    ],
+    "body": [
+      "The 2026 NEET counselling process included a Float and Freeze option that permits candidates to retain their seat allotments without finishing admission procedures. This provision applies even if the allotted seat does not change in the third round of counselling.",
+      "Because candidates can choose not to join after holding a seat, many allotted positions remain unfilled. The Hindu reports that this flexibility has had significant implications for seat utilisation, resulting in hundreds of medical seats going vacant despite the large number of test-takers."
+    ],
+    "faq": [
+      {
+        "q": "What is the Float and Freeze option in NEET 2026?",
+        "a": "It allows candidates to carry forward their seat allotments without completing admission formalities and decline the seat even if it remains unchanged in Round 3."
+      },
+      {
+        "q": "How has this option affected medical seat availability?",
+        "a": "The flexibility has led to significant seat underutilisation, with hundreds of medical seats remaining vacant despite millions of students taking NEET."
+      }
+    ],
+    "keywords": [
+      "neet 2026",
+      "medical seats",
+      "counselling",
+      "float and freeze",
+      "seat vacancy"
+    ],
+    "date": "2026-11-17T04:17:31.161Z",
+    "updated": "2026-11-17T04:17:31.161Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/education/millions-of-students-take-neet-yet-hundreds-of-medical-seats-go-vacant/article71707087.ece",
+      "title": "Millions of students take NEET, yet hundreds of medical seats go vacant",
+      "published": "2026-11-16T17:17:40.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-16",
     "slug": "daily-briefing-16-november-2026",
     "kind": "briefing",
