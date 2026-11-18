@@ -1,35 +1,28 @@
 {
-  "at": "2026-11-18T01:51:17.405Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 3,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-18-november-2026/",
+  "at": "2026-11-18T04:27:39.733Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 2,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
   "items": [
     {
-      "title": "Weakening EV rules risks UK climate targets, adviser warns",
-      "url": "https://news.thunderstudy.online/news/weakening-ev-rules-risks-uk-climate-targets-adviser-warns/",
-      "category": "Science",
+      "title": "CBSE to train Class 9-10 vocational teachers in financial literacy",
+      "url": "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
+      "category": "CBSE",
       "official": false
     },
     {
-      "title": "The Hindu editorial questions Jay Shah's role as BCCI secretary",
-      "url": "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
-      "category": "Sports",
-      "official": false
-    },
-    {
-      "title": "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K",
-      "url": "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
-      "category": "India",
+      "title": "Siblings become IAS and IPS officers after father's 25-year sacrifice",
+      "url": "https://news.thunderstudy.online/study/siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice/",
+      "category": "More Exams",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/weakening-ev-rules-risks-uk-climate-targets-adviser-warns/",
-    "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
-    "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
+    "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
+    "https://news.thunderstudy.online/study/siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

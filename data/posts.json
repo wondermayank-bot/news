@@ -1,5 +1,159 @@
 [
   {
+    "id": "briefing-study-2026-11-18",
+    "slug": "study-briefing-18-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 2 exam and job updates for 18 November 2026",
+    "description": "Your 18 November 2026 study briefing: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after…",
+    "quick": "Exam and job updates on 18 November 2026: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after father's 25-year sacrifice.",
+    "points": [
+      "CBSE to train Class 9-10 vocational teachers in financial literacy",
+      "Siblings become IAS and IPS officers after father's 25-year sacrifice"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy",
+        "title": "CBSE to train Class 9-10 vocational teachers in financial literacy",
+        "description": "CBSE will train Class 9-10 vocational teachers in financial literacy and markets for the 2026-27 syllabus. Free online registration runs till November 20.",
+        "category": "cbse"
+      },
+      {
+        "slug": "siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice",
+        "title": "Siblings become IAS and IPS officers after father's 25-year sacrifice",
+        "description": "A brother and sister have cleared the UPSC exam to become IAS and IPS officers, crediting their father's 25-year sacrifice and steady family support.",
+        "category": "more"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 18 November 2026?",
+        "a": "The top exam and job updates on 18 November 2026 are: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after father's 25-year sacrifice."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-18T04:24:04.851Z",
+    "updated": "2026-11-18T04:24:04.851Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "9297d66d14",
+    "slug": "cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy",
+    "kind": "news",
+    "category": "cbse",
+    "title": "CBSE to train Class 9-10 vocational teachers in financial literacy",
+    "description": "CBSE will train Class 9-10 vocational teachers in financial literacy and markets for the 2026-27 syllabus. Free online registration runs till November 20.",
+    "quick": "CBSE will train vocational teachers of Classes 9 and 10 in financial literacy and markets for the 2026-27 syllabus. Registration is free and online, and stays open till November 20. The board says financial literacy matters as online transactions, investments and financial services become part of daily life.",
+    "points": [
+      "CBSE is training Class 9-10 vocational teachers in financial literacy and markets.",
+      "The training is linked to the 2026-27 syllabus.",
+      "Registration is free and done online.",
+      "The registration window closes on November 20.",
+      "CBSE says financial literacy is essential in a digital world."
+    ],
+    "body": [
+      "CBSE will train vocational teachers who handle Classes 9 and 10 in financial literacy and markets, with the training tied to the 2026-27 syllabus. Teachers can register online for the programme at no cost. The registration window is open till November 20.",
+      "The board's move covers teachers rather than only students. In its announcement, CBSE noted that financial literacy has become essential in a digital world where online transactions, investments and financial services are part of everyday life.",
+      "For teachers, the programme offers a chance to build subject knowledge before the 2026-27 session begins. For students in the vocational stream, it may mean classroom lessons on money and markets are taught by staff trained for the topic."
+    ],
+    "faq": [
+      {
+        "q": "Who will the CBSE financial literacy training be for?",
+        "a": "Vocational teachers who teach Classes 9 and 10, under the 2026-27 syllabus."
+      },
+      {
+        "q": "What is the last date to register?",
+        "a": "November 20. Registration is free and online."
+      },
+      {
+        "q": "Why is CBSE introducing this training?",
+        "a": "The board says financial literacy is essential in a digital world where online transactions, investments and financial services are part of everyday life."
+      }
+    ],
+    "keywords": [
+      "cbse",
+      "financial literacy",
+      "teacher training",
+      "vocational teachers",
+      "class 9-10",
+      "2026-27 syllabus"
+    ],
+    "date": "2026-11-18T04:23:03.851Z",
+    "updated": "2026-11-18T04:23:03.851Z",
+    "readMins": 2,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/teachers-to-get-training-in-financial-literacy/articleshow/135929172.cms",
+      "title": "Teachers to get training in financial literacy",
+      "published": "2026-11-17T14:16:00Z",
+      "official": false
+    }
+  },
+  {
+    "id": "ff00aeaf31",
+    "slug": "siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice",
+    "kind": "news",
+    "category": "more",
+    "title": "Siblings become IAS and IPS officers after father's 25-year sacrifice",
+    "description": "A brother and sister have cleared the UPSC exam to become IAS and IPS officers, crediting their father's 25-year sacrifice and steady family support.",
+    "quick": "A brother and sister cleared the UPSC examination and became civil servants, with one joining the IAS and the other the IPS. Their father's 25-year sacrifice and steady family support were central to their success, according to the report.",
+    "points": [
+      "A brother-sister pair cleared the UPSC exam, one becoming an IAS officer and the other an IPS officer.",
+      "The siblings' father made a sacrifice spanning 25 years to support them.",
+      "The report highlights determination, family support and sacrifice as central themes in their journey."
+    ],
+    "body": [
+      "A brother and sister have both cleared the UPSC examination, with one becoming an IAS officer and the other an IPS officer. Their result has drawn attention to the role of sustained family support in competitive exam success.",
+      "According to the report, the siblings' father made a sacrifice that lasted 25 years to help them reach this point. The account frames their achievement as a product of determination and family backing."
+    ],
+    "faq": [
+      {
+        "q": "Which UPSC services did the siblings join?",
+        "a": "One sibling became an IAS officer and the other became an IPS officer, according to the report."
+      },
+      {
+        "q": "What role did the father play?",
+        "a": "The report says the siblings' father made a sacrifice spanning 25 years to support them."
+      },
+      {
+        "q": "What exam did the siblings clear?",
+        "a": "They cleared the UPSC examination, the civil services test."
+      }
+    ],
+    "keywords": [
+      "upsc",
+      "ias",
+      "ips",
+      "civil services",
+      "siblings",
+      "upsc result"
+    ],
+    "date": "2026-11-18T04:20:03.851Z",
+    "updated": "2026-11-18T04:20:03.851Z",
+    "readMins": 1,
+    "model": "baidu/ernie-5.5-flash-preview:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/success-stories/brothersister-duo-cracks-upsc-father-s-25-year-sacrifice-helps-siblings-become-ias-and-ips-officers-know-their-journey-101794903257584.html",
+      "title": "Brother-Sister duo cracks UPSC: Father’s 25-year sacrifice helps siblings become IAS and IPS officers- know their journey",
+      "published": "2026-11-17T08:19:27.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-18",
     "slug": "daily-briefing-18-november-2026",
     "kind": "briefing",
