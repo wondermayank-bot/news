@@ -1,5 +1,215 @@
 [
   {
+    "id": "briefing-news-2026-11-18",
+    "slug": "daily-briefing-18-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 3 stories to know on 18 November 2026",
+    "description": "Your 18 November 2026 news briefing: Weakening EV rules risks UK climate targets, adviser warns; The Hindu editorial questions Jay Shah's role as BCCI…",
+    "quick": "Top stories on 18 November 2026: Weakening EV rules risks UK climate targets, adviser warns; The Hindu editorial questions Jay Shah's role as BCCI secretary; Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K.",
+    "points": [
+      "Weakening EV rules risks UK climate targets, adviser warns",
+      "The Hindu editorial questions Jay Shah's role as BCCI secretary",
+      "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "weakening-ev-rules-risks-uk-climate-targets-adviser-warns",
+        "title": "Weakening EV rules risks UK climate targets, adviser warns",
+        "description": "An adviser has warned that the UK could miss its legally binding climate targets if electric vehicle rules are weakened, BBC News reports.",
+        "category": "science"
+      },
+      {
+        "slug": "the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary",
+        "title": "The Hindu editorial questions Jay Shah's role as BCCI secretary",
+        "description": "The Hindu editorial criticizes BCCI secretary Jay Shah for allegedly promoting ruling party agenda during World Cups.",
+        "category": "sports"
+      },
+      {
+        "slug": "police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k",
+        "title": "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K",
+        "description": "Police in Jammu and Kashmir asked top Lashkar-e-Taiba commander Latief Bhat to surrender over a video call after his accomplice was killed in Kulgam.",
+        "category": "india"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 18 November 2026?",
+        "a": "The top stories on 18 November 2026 are: Weakening EV rules risks UK climate targets, adviser warns; The Hindu editorial questions Jay Shah's role as BCCI secretary; Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-18T01:47:29.836Z",
+    "updated": "2026-11-18T01:47:29.836Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "08273af5e9",
+    "slug": "weakening-ev-rules-risks-uk-climate-targets-adviser-warns",
+    "kind": "news",
+    "category": "science",
+    "title": "Weakening EV rules risks UK climate targets, adviser warns",
+    "description": "An adviser has warned that the UK could miss its legally binding climate targets if electric vehicle rules are weakened, BBC News reports.",
+    "quick": "An adviser has warned that the UK could fail to meet its legally binding climate targets if the government cuts or weakens its electric vehicle rules. The warning was reported by BBC News on 18 November 2026, in the science section.",
+    "points": [
+      "An adviser warns the UK could miss legally binding climate targets if EV rules are weakened.",
+      "The warning concerns possible cuts to existing electric vehicle targets.",
+      "The adviser's caution was reported by BBC News.",
+      "No specific rule changes or figures were given in the source."
+    ],
+    "body": [
+      "An adviser has warned that the UK risks missing its legally binding climate targets if the government weakens its rules on electric vehicles. The warning was reported by BBC News on 18 November 2026.",
+      "The source does not name the adviser, set out which EV targets might be cut, or give any figures on the gap to the climate goals. It states only that cutting the targets could put the legally binding commitments out of reach.",
+      "The point matters to readers because the targets are legally binding, meaning a shortfall would carry formal consequences for the government rather than being a matter of policy preference alone."
+    ],
+    "faq": [
+      {
+        "q": "What did the adviser warn about?",
+        "a": "The adviser warned that the UK could miss its legally binding climate targets if electric vehicle targets are cut."
+      },
+      {
+        "q": "Who issued the warning?",
+        "a": "The source describes the person only as an adviser and does not name them."
+      },
+      {
+        "q": "Which EV rules could be weakened?",
+        "a": "The source does not specify which electric vehicle targets or rules are under discussion."
+      }
+    ],
+    "keywords": [
+      "ev targets",
+      "climate targets",
+      "uk climate policy",
+      "electric vehicles",
+      "adviser warning"
+    ],
+    "date": "2026-11-18T01:46:28.836Z",
+    "updated": "2026-11-18T01:46:28.836Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "published": "2026-11-18T00:44:48.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "53488590fd",
+    "slug": "the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary",
+    "kind": "news",
+    "category": "sports",
+    "title": "The Hindu editorial questions Jay Shah's role as BCCI secretary",
+    "description": "The Hindu editorial criticizes BCCI secretary Jay Shah for allegedly promoting ruling party agenda during World Cups.",
+    "quick": "The Hindu published an editorial criticizing BCCI secretary Jay Shah, son of India's Home Minister, for allegedly using his position to advance the ruling party's political agenda during cricket World Cups.",
+    "points": [
+      "Jay Shah serves as BCCI secretary",
+      "He is the son of India's Home Minister",
+      "Editorial alleges he promotes ruling party agenda",
+      "Criticism includes actions during World Cups",
+      "Article published in The Hindu sports section"
+    ],
+    "body": [
+      "The Hindu published an editorial on November 18, 2026, criticizing Jay Shah's tenure as secretary of the Board of Control for Cricket in India. The piece identifies Shah as the son of India's Home Minister.",
+      "The editorial states that since becoming BCCI secretary, Shah has displayed an eagerness to push the ruling party's agenda. It specifically mentions this occurring even during World Cup tournaments.",
+      "The article appears in the sports section of The Hindu, framing the criticism within the context of cricket administration and political influence."
+    ],
+    "faq": [
+      {
+        "q": "Who is Jay Shah according to the article?",
+        "a": "Jay Shah is the secretary of the Board of Control for Cricket in India and the son of India's Home Minister."
+      },
+      {
+        "q": "What specific criticism does The Hindu editorial make?",
+        "a": "The editorial alleges that Shah has used his position as BCCI secretary to advance the ruling party's political agenda, including during World Cup events."
+      }
+    ],
+    "keywords": [
+      "jay shah",
+      "bcci",
+      "cricket administration",
+      "the hindu",
+      "political influence"
+    ],
+    "date": "2026-11-18T01:45:28.836Z",
+    "updated": "2026-11-18T01:45:28.836Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/sport/cricket/jay-shah-gets-another-chance-to-leave-a-positive-impact-on-cricket/article71712335.ece",
+      "title": "Jay Shah gets another chance to leave a positive impact on cricket",
+      "published": "2026-11-18T01:35:00.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "5f79752ff4",
+    "slug": "police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k",
+    "kind": "news",
+    "category": "india",
+    "title": "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K",
+    "description": "Police in Jammu and Kashmir asked top Lashkar-e-Taiba commander Latief Bhat to surrender over a video call after his accomplice was killed in Kulgam.",
+    "quick": "Police in Jammu and Kashmir have asked Latief Bhat, described as a top commander of Lashkar-e-Taiba, to surrender through a video call. The appeal follows an encounter in Kulgam on Monday in which his accomplice, Umar Nisar Dar, was killed. Bhat is reported to be trapped in the region.",
+    "points": [
+      "Latief Bhat is described as a top commander of Lashkar-e-Taiba.",
+      "Police asked him to surrender during a video call.",
+      "His accomplice, Umar Nisar Dar, was killed in an encounter in Kulgam.",
+      "The encounter took place on Monday, according to the source.",
+      "Bhat is reported to be trapped in Jammu and Kashmir."
+    ],
+    "body": [
+      "Police in Jammu and Kashmir have asked Latief Bhat, described as a top commander of Lashkar-e-Taiba, to surrender. The appeal was made on a video call, according to the source. Bhat is reported to be trapped in the region.",
+      "The development follows an encounter in Kulgam on Monday in which his accomplice, Umar Nisar Dar, was killed. The source did not give further details about the operation or the circumstances of the video call.",
+      "The case involves a senior figure of a banned militant outfit and a police effort to end it without further violence. Readers following security developments in Jammu and Kashmir may watch for updates on whether Bhat responds to the surrender appeal."
+    ],
+    "faq": [
+      {
+        "q": "Who is Latief Bhat?",
+        "a": "The source describes Latief Bhat as a top commander of Lashkar-e-Taiba who is trapped in Jammu and Kashmir."
+      },
+      {
+        "q": "What happened to Umar Nisar Dar?",
+        "a": "Umar Nisar Dar, described as Bhat's accomplice, was killed in an encounter in Kulgam on Monday."
+      },
+      {
+        "q": "How did police ask Bhat to surrender?",
+        "a": "According to the source, police asked him to surrender on a video call."
+      }
+    ],
+    "keywords": [
+      "latief bhat",
+      "lashkar-e-taiba",
+      "kulgam encounter",
+      "jammu and kashmir",
+      "surrender appeal"
+    ],
+    "date": "2026-11-18T01:44:28.836Z",
+    "updated": "2026-11-18T01:44:28.836Z",
+    "readMins": 2,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "NDTV",
+      "url": "https://www.ndtv.com/india-news/fresh-encounter-with-terrorists-in-jammu-and-kashmir-kulgam-lashkar-commander-latief-bhat-likely-trapped-12341585#publisher=newsstand",
+      "title": "Top Lashkar Commander Trapped In J&K, Cops Ask Him To Surrender On Video Call",
+      "published": "2026-11-18T01:43:00.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-17",
     "slug": "study-briefing-17-november-2026",
     "kind": "briefing",

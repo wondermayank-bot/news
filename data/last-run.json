@@ -1,35 +1,35 @@
 {
-  "at": "2026-11-17T04:24:43.097Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
+  "at": "2026-11-18T01:51:17.405Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
   "added": 3,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-17-november-2026/",
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-18-november-2026/",
   "items": [
     {
-      "title": "11-day education equality campaign starts in Balaghat",
-      "url": "https://news.thunderstudy.online/study/11-day-education-equality-campaign-starts-in-balaghat/",
-      "category": "MP Exams and Jobs",
+      "title": "Weakening EV rules risks UK climate targets, adviser warns",
+      "url": "https://news.thunderstudy.online/news/weakening-ev-rules-risks-uk-climate-targets-adviser-warns/",
+      "category": "Science",
       "official": false
     },
     {
-      "title": "CBSE launches Expression Series on gender equality for Classes III-XII",
-      "url": "https://news.thunderstudy.online/study/cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii/",
-      "category": "CBSE",
+      "title": "The Hindu editorial questions Jay Shah's role as BCCI secretary",
+      "url": "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
+      "category": "Sports",
       "official": false
     },
     {
-      "title": "NEET 2026: Float and Freeze option leaves medical seats vacant",
-      "url": "https://news.thunderstudy.online/study/neet-2026-float-and-freeze-option-leaves-medical-seats-vacant/",
-      "category": "NEET",
+      "title": "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K",
+      "url": "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
+      "category": "India",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/11-day-education-equality-campaign-starts-in-balaghat/",
-    "https://news.thunderstudy.online/study/cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii/",
-    "https://news.thunderstudy.online/study/neet-2026-float-and-freeze-option-leaves-medical-seats-vacant/",
+    "https://news.thunderstudy.online/news/weakening-ev-rules-risks-uk-climate-targets-adviser-warns/",
+    "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
+    "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",
