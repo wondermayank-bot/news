@@ -1,5 +1,255 @@
 [
   {
+    "id": "briefing-study-2026-11-19",
+    "slug": "study-briefing-19-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 4 exam and job updates for 19 November 2026",
+    "description": "Your 19 November 2026 study briefing: SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/; SBI Careers: PRELIMINARY EXAM RESULT; SBI Careers: DOWNLOAD MAINS…",
+    "quick": "Exam and job updates on 19 November 2026: SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/; SBI Careers: PRELIMINARY EXAM RESULT; SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER; NEET SS 2026 registration closes today; exam in December.",
+    "points": [
+      "SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/",
+      "SBI Careers: PRELIMINARY EXAM RESULT",
+      "SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER",
+      "NEET SS 2026 registration closes today; exam in December"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "sbi-careers-acquaint-yourself-booklet-hindi",
+        "title": "SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/",
+        "description": "SBI Careers has published a new notice: ACQUAINT YOURSELF BOOKLET(HINDI/. Check the official notice for dates, eligibility and how to apply.",
+        "category": "banking"
+      },
+      {
+        "slug": "sbi-careers-preliminary-exam-result",
+        "title": "SBI Careers: PRELIMINARY EXAM RESULT",
+        "description": "SBI Careers has published a new notice: PRELIMINARY EXAM RESULT. Check the official notice for dates, eligibility and how to apply.",
+        "category": "banking"
+      },
+      {
+        "slug": "sbi-careers-download-mains-examination-call-letter",
+        "title": "SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER",
+        "description": "SBI Careers has published a new notice: DOWNLOAD MAINS EXAMINATION CALL LETTER. Check the official notice for dates, eligibility and how to apply.",
+        "category": "banking"
+      },
+      {
+        "slug": "neet-ss-2026-registration-closes-today-exam-in-december",
+        "title": "NEET SS 2026 registration closes today; exam in December",
+        "description": "NEET SS 2026 registration closes on November 18, with candidates applying at nbe.edu.in. The examination is scheduled to be held in December 2026.",
+        "category": "neet"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 19 November 2026?",
+        "a": "The top exam and job updates on 19 November 2026 are: SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/; SBI Careers: PRELIMINARY EXAM RESULT; SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER; NEET SS 2026 registration closes today; exam in December."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-19T04:26:41.893Z",
+    "updated": "2026-11-19T04:26:41.893Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "8034c8b138",
+    "slug": "sbi-careers-acquaint-yourself-booklet-hindi",
+    "kind": "notice",
+    "category": "banking",
+    "title": "SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/",
+    "description": "SBI Careers has published a new notice: ACQUAINT YOURSELF BOOKLET(HINDI/. Check the official notice for dates, eligibility and how to apply.",
+    "quick": "SBI Careers has posted a new official notice titled \"ACQUAINT YOURSELF BOOKLET(HINDI/\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: SBI Careers",
+      "Notice title: ACQUAINT YOURSELF BOOKLET(HINDI/",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "SBI Careers has published a new update on its official website: \"ACQUAINT YOURSELF BOOKLET(HINDI/\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official SBI Careers notice?",
+        "a": "Use the official source link on this page to open the notice on the SBI Careers website."
+      },
+      {
+        "q": "Who should check this SBI Careers notice?",
+        "a": "Students and candidates following SBI Careers exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "sbi careers",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-19T04:26:40.893Z",
+    "updated": "2026-11-19T04:26:40.893Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "SBI Careers",
+      "url": "https://sbi.bank.in/webfiles/uploads/files_2627/11/SBI_Junior_Associates_Mains_IH_Hindi_2026_27_17.pdf",
+      "title": "ACQUAINT YOURSELF BOOKLET(HINDI/",
+      "published": null,
+      "official": true
+    }
+  },
+  {
+    "id": "d63622a2c3",
+    "slug": "sbi-careers-preliminary-exam-result",
+    "kind": "notice",
+    "category": "banking",
+    "title": "SBI Careers: PRELIMINARY EXAM RESULT",
+    "description": "SBI Careers has published a new notice: PRELIMINARY EXAM RESULT. Check the official notice for dates, eligibility and how to apply.",
+    "quick": "SBI Careers has posted a new official notice titled \"PRELIMINARY EXAM RESULT\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: SBI Careers",
+      "Notice title: PRELIMINARY EXAM RESULT",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "SBI Careers has published a new update on its official website: \"PRELIMINARY EXAM RESULT\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official SBI Careers notice?",
+        "a": "Use the official source link on this page to open the notice on the SBI Careers website."
+      },
+      {
+        "q": "Who should check this SBI Careers notice?",
+        "a": "Students and candidates following SBI Careers exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "sbi careers",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-19T04:25:40.893Z",
+    "updated": "2026-11-19T04:25:40.893Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "SBI Careers",
+      "url": "https://sbi.bank.in/web/careers/japre-results-2026",
+      "title": "PRELIMINARY EXAM RESULT",
+      "published": null,
+      "official": true
+    }
+  },
+  {
+    "id": "a4b20f21d4",
+    "slug": "sbi-careers-download-mains-examination-call-letter",
+    "kind": "notice",
+    "category": "banking",
+    "title": "SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER",
+    "description": "SBI Careers has published a new notice: DOWNLOAD MAINS EXAMINATION CALL LETTER. Check the official notice for dates, eligibility and how to apply.",
+    "quick": "SBI Careers has posted a new official notice titled \"DOWNLOAD MAINS EXAMINATION CALL LETTER\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: SBI Careers",
+      "Notice title: DOWNLOAD MAINS EXAMINATION CALL LETTER",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "SBI Careers has published a new update on its official website: \"DOWNLOAD MAINS EXAMINATION CALL LETTER\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official SBI Careers notice?",
+        "a": "Use the official source link on this page to open the notice on the SBI Careers website."
+      },
+      {
+        "q": "Who should check this SBI Careers notice?",
+        "a": "Students and candidates following SBI Careers exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "sbi careers",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-19T04:24:40.893Z",
+    "updated": "2026-11-19T04:24:40.893Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "SBI Careers",
+      "url": "https://ibpsreg.ibps.in/sbijajul26/oecla_nov26/login.php?appid=2b36e1e3caeb9de9629bb324f39e78e5",
+      "title": "DOWNLOAD MAINS EXAMINATION CALL LETTER",
+      "published": null,
+      "official": true
+    }
+  },
+  {
+    "id": "1f4c1d8eba",
+    "slug": "neet-ss-2026-registration-closes-today-exam-in-december",
+    "kind": "news",
+    "category": "neet",
+    "title": "NEET SS 2026 registration closes today; exam in December",
+    "description": "NEET SS 2026 registration closes on November 18, with candidates applying at nbe.edu.in. The examination is scheduled to be held in December 2026.",
+    "quick": "Registration for NEET SS 2026 closes on November 18, the last date to apply. Candidates can submit applications at nbe.edu.in. The examination is scheduled to be held in December 2026. The source did not give further details on eligibility, fees or the exact exam date.",
+    "points": [
+      "November 18 is the last date to register for NEET SS 2026.",
+      "Applications are submitted on the National Board of Examinations website, nbe.edu.in.",
+      "The examination is scheduled to be held in December 2026.",
+      "The source did not specify the exact exam date or eligibility details."
+    ],
+    "body": [
+      "Registration for NEET SS 2026 closes on November 18, which is the last date to apply. Candidates submit their applications at nbe.edu.in. The examination is scheduled to be held in December 2026.",
+      "The source did not give the exact date of the examination, and it did not list eligibility rules, fees or the number of available seats. Only the closing date for registration and the month of the exam were stated.",
+      "Readers who plan to appear for the examination have until the stated deadline to complete their applications. No further updates were provided in the source."
+    ],
+    "faq": [
+      {
+        "q": "What is the last date to apply for NEET SS 2026?",
+        "a": "November 18 is the last date to apply, according to the source."
+      },
+      {
+        "q": "Where can candidates apply for NEET SS 2026?",
+        "a": "Applications are submitted at nbe.edu.in."
+      },
+      {
+        "q": "When will the NEET SS 2026 exam be held?",
+        "a": "The examination is scheduled to be held in December 2026."
+      }
+    ],
+    "keywords": [
+      "neet ss",
+      "neet ss 2026",
+      "nbe",
+      "nbe.edu.in",
+      "registration deadline"
+    ],
+    "date": "2026-11-19T04:21:40.893Z",
+    "updated": "2026-11-19T04:21:40.893Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/competitive-exams/neet-ss-2026-last-date-today-to-apply-at-nbe-edu-in-exam-to-be-held-in-december-101794980766287.html",
+      "title": "NEET SS 2026: Last date today to apply at nbe.edu.in, exam to be held in December",
+      "published": "2026-11-18T05:50:25.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-19",
     "slug": "daily-briefing-19-november-2026",
     "kind": "briefing",

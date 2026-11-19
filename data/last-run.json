@@ -1,28 +1,42 @@
 {
-  "at": "2026-11-19T01:49:13.320Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
+  "at": "2026-11-19T04:28:39.702Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 4,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-19-november-2026/",
   "items": [
     {
-      "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
-      "url": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
-      "category": "World",
-      "official": false
+      "title": "SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/",
+      "url": "https://news.thunderstudy.online/study/sbi-careers-acquaint-yourself-booklet-hindi/",
+      "category": "Banking",
+      "official": true
     },
     {
-      "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
-      "url": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
-      "category": "Business",
+      "title": "SBI Careers: PRELIMINARY EXAM RESULT",
+      "url": "https://news.thunderstudy.online/study/sbi-careers-preliminary-exam-result/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER",
+      "url": "https://news.thunderstudy.online/study/sbi-careers-download-mains-examination-call-letter/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "NEET SS 2026 registration closes today; exam in December",
+      "url": "https://news.thunderstudy.online/study/neet-ss-2026-registration-closes-today-exam-in-december/",
+      "category": "NEET",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
-    "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
+    "https://news.thunderstudy.online/study/sbi-careers-acquaint-yourself-booklet-hindi/",
+    "https://news.thunderstudy.online/study/sbi-careers-preliminary-exam-result/",
+    "https://news.thunderstudy.online/study/sbi-careers-download-mains-examination-call-letter/",
+    "https://news.thunderstudy.online/study/neet-ss-2026-registration-closes-today-exam-in-december/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",
