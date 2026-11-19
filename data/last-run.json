@@ -1,28 +1,28 @@
 {
-  "at": "2026-11-18T04:27:39.733Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
+  "at": "2026-11-19T01:49:13.320Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
   "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
   "items": [
     {
-      "title": "CBSE to train Class 9-10 vocational teachers in financial literacy",
-      "url": "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
-      "category": "CBSE",
+      "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
+      "url": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
+      "category": "World",
       "official": false
     },
     {
-      "title": "Siblings become IAS and IPS officers after father's 25-year sacrifice",
-      "url": "https://news.thunderstudy.online/study/siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice/",
-      "category": "More Exams",
+      "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
+      "url": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
+      "category": "Business",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
-    "https://news.thunderstudy.online/study/siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice/",
+    "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
+    "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

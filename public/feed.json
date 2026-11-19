@@ -9,6 +9,61 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
+      "title": "Daily Briefing: 2 stories to know on 19 November 2026",
+      "summary": "Your 19 November 2026 news briefing: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104…",
+      "content_text": "Top stories on 19 November 2026: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104 billion loss.\n- Xi, Trump and Putin exchange greetings ahead of China summit\n- Anthropic raises $81.3 billion in IPO despite $104 billion loss",
+      "date_published": "2026-11-19T01:45:02.895Z",
+      "date_modified": "2026-11-19T01:45:02.895Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-19-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
+      "url": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
+      "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
+      "summary": "Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a historic China summit on November 19, with the meeting's agenda still unclear.",
+      "content_text": "The leaders of China, the United States and Russia, Xi Jinping, Donald Trump and Vladimir Putin, exchanged greetings ahead of a historic summit in China on November 19. The agenda of the meeting was not clear, and it has raised fears of a carve-up into new spheres of influence.\n- Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a summit in China.\n- The meeting was described as historic and was scheduled for November 19.\n- The agenda for the meeting was unclear, according to the source.\n- The summit has raised fears of a carve-up into new spheres of influence.",
+      "date_published": "2026-11-19T01:42:01.895Z",
+      "date_modified": "2026-11-19T01:42:01.895Z",
+      "tags": [
+        "World",
+        "xi jinping",
+        "donald trump",
+        "vladimir putin",
+        "china summit",
+        "spheres of influence"
+      ],
+      "image": "https://news.thunderstudy.online/og/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit.png",
+      "external_url": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
+      "url": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
+      "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
+      "summary": "Anthropic priced shares at $83 and sold more than planned as Claude Code drove revenue growth, though the company reported a massive net loss.",
+      "content_text": "Anthropic completed its initial public offering, raising $81.3 billion by pricing shares at $83 and selling more shares than originally planned. The company's revenue surged on the popularity of its Claude Code product, but it simultaneously reported a net loss of $104 billion.\n- Anthropic raised $81.3 billion in its IPO\n- Shares priced at $83 with oversubscribed offering\n- Revenue grew as Claude Code gained popularity\n- Company reported $104 billion net loss",
+      "date_published": "2026-11-19T01:41:01.895Z",
+      "date_modified": "2026-11-19T01:41:01.895Z",
+      "tags": [
+        "Business",
+        "anthropic",
+        "ipo",
+        "claude code",
+        "artificial intelligence",
+        "wall street"
+      ],
+      "image": "https://news.thunderstudy.online/og/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss.png",
+      "external_url": "https://www.livemint.com/companies/news/anthropic-raised-81-billion-in-ipo-despite-104-billion-loss-why-wall-street-is-betting-big-on-claude-11795049829392.html"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 18 November 2026",

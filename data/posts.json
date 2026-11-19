@@ -1,5 +1,154 @@
 [
   {
+    "id": "briefing-news-2026-11-19",
+    "slug": "daily-briefing-19-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 2 stories to know on 19 November 2026",
+    "description": "Your 19 November 2026 news briefing: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104…",
+    "quick": "Top stories on 19 November 2026: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104 billion loss.",
+    "points": [
+      "Xi, Trump and Putin exchange greetings ahead of China summit",
+      "Anthropic raises $81.3 billion in IPO despite $104 billion loss"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "xi-trump-and-putin-exchange-greetings-ahead-of-china-summit",
+        "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
+        "description": "Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a historic China summit on November 19, with the meeting's agenda still unclear.",
+        "category": "world"
+      },
+      {
+        "slug": "anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss",
+        "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
+        "description": "Anthropic priced shares at $83 and sold more than planned as Claude Code drove revenue growth, though the company reported a massive net loss.",
+        "category": "business"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 19 November 2026?",
+        "a": "The top stories on 19 November 2026 are: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104 billion loss."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-19T01:45:02.895Z",
+    "updated": "2026-11-19T01:45:02.895Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "04f394f157",
+    "slug": "xi-trump-and-putin-exchange-greetings-ahead-of-china-summit",
+    "kind": "news",
+    "category": "world",
+    "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
+    "description": "Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a historic China summit on November 19, with the meeting's agenda still unclear.",
+    "quick": "The leaders of China, the United States and Russia, Xi Jinping, Donald Trump and Vladimir Putin, exchanged greetings ahead of a historic summit in China on November 19. The agenda of the meeting was not clear, and it has raised fears of a carve-up into new spheres of influence.",
+    "points": [
+      "Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a summit in China.",
+      "The meeting was described as historic and was scheduled for November 19.",
+      "The agenda for the meeting was unclear, according to the source.",
+      "The summit has raised fears of a carve-up into new spheres of influence."
+    ],
+    "body": [
+      "The presidents of China, the United States and Russia exchanged greetings before a historic summit in China on November 19. Xi Jinping, Donald Trump and Vladimir Putin are the three leaders involved in the meeting.",
+      "The agenda for the November 19 meeting was not clear, according to the source. No details of what the three leaders planned to discuss were given.",
+      "The meeting has raised fears of a carve-up into new spheres of influence. The source did not say who had expressed those fears or what they were based on."
+    ],
+    "faq": [
+      {
+        "q": "Who met at the China summit?",
+        "a": "The summit involved Xi Jinping of China, Donald Trump of the United States and Vladimir Putin of Russia."
+      },
+      {
+        "q": "When was the summit held?",
+        "a": "The meeting was scheduled for November 19, and the leaders exchanged greetings before it."
+      },
+      {
+        "q": "What was on the agenda?",
+        "a": "The source says the agenda for the meeting was unclear."
+      }
+    ],
+    "keywords": [
+      "xi jinping",
+      "donald trump",
+      "vladimir putin",
+      "china summit",
+      "spheres of influence"
+    ],
+    "date": "2026-11-19T01:42:01.895Z",
+    "updated": "2026-11-19T01:42:01.895Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece",
+      "title": "Xi, Trump, Putin exchange greetings before historic China summit",
+      "published": "2026-11-19T01:17:44.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "6016fd6170",
+    "slug": "anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss",
+    "kind": "news",
+    "category": "business",
+    "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
+    "description": "Anthropic priced shares at $83 and sold more than planned as Claude Code drove revenue growth, though the company reported a massive net loss.",
+    "quick": "Anthropic completed its initial public offering, raising $81.3 billion by pricing shares at $83 and selling more shares than originally planned. The company's revenue surged on the popularity of its Claude Code product, but it simultaneously reported a net loss of $104 billion.",
+    "points": [
+      "Anthropic raised $81.3 billion in its IPO",
+      "Shares priced at $83 with oversubscribed offering",
+      "Revenue grew as Claude Code gained popularity",
+      "Company reported $104 billion net loss"
+    ],
+    "body": [
+      "Anthropic completed its initial public offering on November 19, 2026, raising $81.3 billion. The company priced shares at $83 and sold more shares than initially planned, indicating strong investor demand.",
+      "The offering came as revenue surged on the back of growing popularity for Claude Code, the company's coding assistant. Despite the revenue growth, Anthropic disclosed a net loss of $104 billion in its financial results.",
+      "The combination of a record-breaking IPO and a massive reported loss highlights Wall Street's confidence in Anthropic's AI trajectory, particularly around its Claude model family."
+    ],
+    "faq": [
+      {
+        "q": "How much did Anthropic raise in its IPO?",
+        "a": "Anthropic raised $81.3 billion in its initial public offering."
+      },
+      {
+        "q": "What was Anthropic's reported net loss?",
+        "a": "The company reported a net loss of $104 billion."
+      }
+    ],
+    "keywords": [
+      "anthropic",
+      "ipo",
+      "claude code",
+      "artificial intelligence",
+      "wall street"
+    ],
+    "date": "2026-11-19T01:41:01.895Z",
+    "updated": "2026-11-19T01:41:01.895Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Mint",
+      "url": "https://www.livemint.com/companies/news/anthropic-raised-81-billion-in-ipo-despite-104-billion-loss-why-wall-street-is-betting-big-on-claude-11795049829392.html",
+      "title": "Anthropic raised $81 billion in IPO despite $104 billion loss: Why Wall Street is betting big on Claude",
+      "published": "2026-11-19T01:39:57.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-18",
     "slug": "study-briefing-18-november-2026",
     "kind": "briefing",
