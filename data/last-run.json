@@ -1,21 +1,42 @@
 {
-  "at": "2026-11-20T01:47:38.283Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": null,
+  "at": "2026-11-20T04:25:07.083Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 4,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
   "items": [
     {
-      "title": "Cyclone Akvan weakens, set to hit Odisha-Andhra coast today",
-      "url": "https://news.thunderstudy.online/news/cyclone-akvan-weakens-set-to-hit-odisha-andhra-coast-today/",
-      "category": "India",
+      "title": "IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
+      "url": "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "SBI Careers: APPLY ONLINE (19.11.2026 TO 03.12.2026)",
+      "url": "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "SBI Careers: DEPUTY CTO (ENTERPRISE ARCHITECTURE)- INTERVIEW SCHEDULE",
+      "url": "https://news.thunderstudy.online/study/sbi-careers-deputy-cto-enterprise-architecture-interview-schedule/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "UP assistant teacher recruitment exam to proceed as scheduled",
+      "url": "https://news.thunderstudy.online/study/up-assistant-teacher-recruitment-exam-to-proceed-as-scheduled/",
+      "category": "More Exams",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/cyclone-akvan-weakens-set-to-hit-odisha-andhra-coast-today/",
+    "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
+    "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
+    "https://news.thunderstudy.online/study/sbi-careers-deputy-cto-enterprise-architecture-interview-schedule/",
+    "https://news.thunderstudy.online/study/up-assistant-teacher-recruitment-exam-to-proceed-as-scheduled/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",
