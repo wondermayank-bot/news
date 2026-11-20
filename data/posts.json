@@ -1,5 +1,53 @@
 [
   {
+    "id": "6531434c0c",
+    "slug": "cyclone-akvan-weakens-set-to-hit-odisha-andhra-coast-today",
+    "kind": "news",
+    "category": "india",
+    "title": "Cyclone Akvan weakens, set to hit Odisha-Andhra coast today",
+    "description": "Cyclone Akvan weakened to a cyclonic storm and is expected to cross the Odisha-Andhra Pradesh coast on Friday, moving at 21 kmph over the Bay of Bengal.",
+    "quick": "Cyclone Akvan has weakened into a cyclonic storm and is likely to make landfall along the Odisha-Andhra Pradesh coast on Friday. The India Meteorological Department reported the storm moving north-northwest at 21 kmph, centered over the west-central Bay of Bengal at 2:30 am.",
+    "points": [
+      "Cyclone Akvan weakened to cyclonic storm status",
+      "Expected to cross Odisha-Andhra coast on Friday",
+      "Moving north-northwest at 21 kmph over six hours",
+      "Centered over west-central Bay of Bengal at 2:30 am"
+    ],
+    "body": [
+      "Cyclone Akvan has weakened into a cyclonic storm and is forecast to cross the coast between Odisha and Andhra Pradesh on Friday. The India Meteorological Department tracked the system moving north-northwestwards at a speed of 21 kilometres per hour over the previous six hours.",
+      "At 2:30 am on Friday, the storm's centre was located over the west-central Bay of Bengal. Authorities in both coastal states are monitoring the system as it approaches landfall."
+    ],
+    "faq": [
+      {
+        "q": "Where is Cyclone Akvan expected to make landfall?",
+        "a": "Along the Odisha-Andhra Pradesh coast."
+      },
+      {
+        "q": "What is the current speed and direction of Cyclone Akvan?",
+        "a": "Moving north-northwest at 21 kmph over the past six hours."
+      }
+    ],
+    "keywords": [
+      "cyclone akvan",
+      "odisha",
+      "andhra pradesh",
+      "bay of bengal",
+      "imd",
+      "landfall"
+    ],
+    "date": "2026-11-20T01:39:20.161Z",
+    "updated": "2026-11-20T01:39:20.161Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "NDTV",
+      "url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand",
+      "title": "Cyclone Akvan LIVE Updates: Akvan Weakens Into Cyclonic Storm, Likely To Cross Odisha-Andhra Coast Today",
+      "published": "2026-11-20T01:27:52.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-19",
     "slug": "study-briefing-19-november-2026",
     "kind": "briefing",
