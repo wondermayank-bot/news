@@ -1,28 +1,28 @@
 {
-  "at": "2026-11-21T01:46:10.689Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
+  "at": "2026-11-21T04:25:29.886Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
   "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-21-november-2026/",
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-21-november-2026/",
   "items": [
     {
-      "title": "Fined $811m, migrant bail scammers kept operating",
-      "url": "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
-      "category": "World",
-      "official": false
+      "title": "IBPS: Result Status of Online Main Examination for CRP-PO/MTs-XVI",
+      "url": "https://news.thunderstudy.online/study/ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi/",
+      "category": "Banking",
+      "official": true
     },
     {
-      "title": "Fire kills birds at major US foie gras farm",
-      "url": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
-      "category": "Science",
+      "title": "Class 12 student Sarthak Sidhant on TIME100 Next India 2026 list",
+      "url": "https://news.thunderstudy.online/study/class-12-student-sarthak-sidhant-on-time100-next-india-2026-list/",
+      "category": "CBSE",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
-    "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
+    "https://news.thunderstudy.online/study/ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi/",
+    "https://news.thunderstudy.online/study/class-12-student-sarthak-sidhant-on-time100-next-india-2026-list/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",
