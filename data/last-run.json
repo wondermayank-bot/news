@@ -1,42 +1,28 @@
 {
-  "at": "2026-11-20T04:25:07.083Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
-  "added": 4,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
+  "at": "2026-11-21T01:46:10.689Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
+  "added": 2,
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-21-november-2026/",
   "items": [
     {
-      "title": "IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
-      "url": "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
-      "category": "Banking",
-      "official": true
+      "title": "Fined $811m, migrant bail scammers kept operating",
+      "url": "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
+      "category": "World",
+      "official": false
     },
     {
-      "title": "SBI Careers: APPLY ONLINE (19.11.2026 TO 03.12.2026)",
-      "url": "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
-      "category": "Banking",
-      "official": true
-    },
-    {
-      "title": "SBI Careers: DEPUTY CTO (ENTERPRISE ARCHITECTURE)- INTERVIEW SCHEDULE",
-      "url": "https://news.thunderstudy.online/study/sbi-careers-deputy-cto-enterprise-architecture-interview-schedule/",
-      "category": "Banking",
-      "official": true
-    },
-    {
-      "title": "UP assistant teacher recruitment exam to proceed as scheduled",
-      "url": "https://news.thunderstudy.online/study/up-assistant-teacher-recruitment-exam-to-proceed-as-scheduled/",
-      "category": "More Exams",
+      "title": "Fire kills birds at major US foie gras farm",
+      "url": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
+      "category": "Science",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
-    "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
-    "https://news.thunderstudy.online/study/sbi-careers-deputy-cto-enterprise-architecture-interview-schedule/",
-    "https://news.thunderstudy.online/study/up-assistant-teacher-recruitment-exam-to-proceed-as-scheduled/",
+    "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
+    "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

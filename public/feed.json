@@ -9,6 +9,61 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-21-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-21-november-2026/",
+      "title": "Daily Briefing: 2 stories to know on 21 November 2026",
+      "summary": "Your 21 November 2026 news briefing: Fined $811m, migrant bail scammers kept operating; Fire kills birds at major US foie gras farm.",
+      "content_text": "Top stories on 21 November 2026: Fined $811m, migrant bail scammers kept operating; Fire kills birds at major US foie gras farm.\n- Fined $811m, migrant bail scammers kept operating\n- Fire kills birds at major US foie gras farm",
+      "date_published": "2026-11-21T01:43:37.853Z",
+      "date_modified": "2026-11-21T01:43:37.853Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-21-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
+      "url": "https://news.thunderstudy.online/news/fined-811m-migrant-bail-scammers-kept-operating/",
+      "title": "Fined $811m, migrant bail scammers kept operating",
+      "summary": "Fraudsters fined $811m for conning detained migrants continued their bail scams and evaded shutdown efforts, leaving migrants behind bars, the BBC reports.",
+      "content_text": "A group of fraudsters who ran a bail business targeting detained immigrants was fined $811 million, but their scams did not stop. According to the BBC, they made millions from people in detention, evaded attempts to shut the business down, and left migrants behind bars.\n- Convicted fraudsters were fined $811m for conning detained migrants through a bail business.\n- The BBC reports that the scams continued after the fine was imposed.\n- The operators made millions from detained immigrants, according to the report.\n- They evaded efforts to shut down their bail business.\n- Migrants were left behind bars.",
+      "date_published": "2026-11-21T01:42:36.853Z",
+      "date_modified": "2026-11-21T01:42:36.853Z",
+      "tags": [
+        "World",
+        "migrant bail scam",
+        "detained migrants",
+        "$811m fine",
+        "immigration fraud",
+        "bbc report"
+      ],
+      "image": "https://news.thunderstudy.online/og/fined-811m-migrant-bail-scammers-kept-operating.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
+      "url": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
+      "title": "Fire kills birds at major US foie gras farm",
+      "summary": "A blaze at one of America's largest foie gras farms killed birds while hundreds of young birds were rescued, amid renewed animal welfare scrutiny.",
+      "content_text": "A fire broke out at one of the largest foie gras farms in the United States, killing an unspecified number of birds. Hundreds of young birds were rescued from the blaze. The incident occurs as foie gras production faces increased scrutiny over animal welfare concerns.\n- Fire at major US foie gras farm\n- Birds killed in the blaze\n- Hundreds of young birds rescued\n- Foie gras under animal welfare scrutiny",
+      "date_published": "2026-11-21T01:39:36.853Z",
+      "date_modified": "2026-11-21T01:39:36.853Z",
+      "tags": [
+        "Science",
+        "foie gras",
+        "farm fire",
+        "animal welfare",
+        "bird rescue",
+        "us agriculture"
+      ],
+      "image": "https://news.thunderstudy.online/og/fire-kills-birds-at-major-us-foie-gras-farm.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
       "title": "Study Briefing: 4 exam and job updates for 20 November 2026",

@@ -1,5 +1,154 @@
 [
   {
+    "id": "briefing-news-2026-11-21",
+    "slug": "daily-briefing-21-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 2 stories to know on 21 November 2026",
+    "description": "Your 21 November 2026 news briefing: Fined $811m, migrant bail scammers kept operating; Fire kills birds at major US foie gras farm.",
+    "quick": "Top stories on 21 November 2026: Fined $811m, migrant bail scammers kept operating; Fire kills birds at major US foie gras farm.",
+    "points": [
+      "Fined $811m, migrant bail scammers kept operating",
+      "Fire kills birds at major US foie gras farm"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "fined-811m-migrant-bail-scammers-kept-operating",
+        "title": "Fined $811m, migrant bail scammers kept operating",
+        "description": "Fraudsters fined $811m for conning detained migrants continued their bail scams and evaded shutdown efforts, leaving migrants behind bars, the BBC reports.",
+        "category": "world"
+      },
+      {
+        "slug": "fire-kills-birds-at-major-us-foie-gras-farm",
+        "title": "Fire kills birds at major US foie gras farm",
+        "description": "A blaze at one of America's largest foie gras farms killed birds while hundreds of young birds were rescued, amid renewed animal welfare scrutiny.",
+        "category": "science"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 21 November 2026?",
+        "a": "The top stories on 21 November 2026 are: Fined $811m, migrant bail scammers kept operating; Fire kills birds at major US foie gras farm."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-21T01:43:37.853Z",
+    "updated": "2026-11-21T01:43:37.853Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "b6a86b6c32",
+    "slug": "fined-811m-migrant-bail-scammers-kept-operating",
+    "kind": "news",
+    "category": "world",
+    "title": "Fined $811m, migrant bail scammers kept operating",
+    "description": "Fraudsters fined $811m for conning detained migrants continued their bail scams and evaded shutdown efforts, leaving migrants behind bars, the BBC reports.",
+    "quick": "A group of fraudsters who ran a bail business targeting detained immigrants was fined $811 million, but their scams did not stop. According to the BBC, they made millions from people in detention, evaded attempts to shut the business down, and left migrants behind bars.",
+    "points": [
+      "Convicted fraudsters were fined $811m for conning detained migrants through a bail business.",
+      "The BBC reports that the scams continued after the fine was imposed.",
+      "The operators made millions from detained immigrants, according to the report.",
+      "They evaded efforts to shut down their bail business.",
+      "Migrants were left behind bars."
+    ],
+    "body": [
+      "A group of convicted fraudsters ran a bail business that took money from detained immigrants and was fined $811 million, the BBC reported. According to the source, the scams did not stop after that penalty.",
+      "The report says the operators made millions from people in detention and evaded attempts to shut their business down. The BBC describes how migrants were left behind bars.",
+      "The source gives no further detail on the individuals involved, the timing of the fine or how the shutdown efforts were avoided. The account is limited to the fine, the continued operation of the bail business and the effect on detained migrants."
+    ],
+    "faq": [
+      {
+        "q": "What was the $811m fine about?",
+        "a": "It was imposed on convicted fraudsters who conned detained migrants through a bail business, according to the BBC."
+      },
+      {
+        "q": "Did the scams stop after the fine?",
+        "a": "No. The source reports that the scams continued and that the operators evaded efforts to shut down their bail business."
+      },
+      {
+        "q": "What happened to the migrants?",
+        "a": "The BBC reports that migrants were left behind bars."
+      }
+    ],
+    "keywords": [
+      "migrant bail scam",
+      "detained migrants",
+      "$811m fine",
+      "immigration fraud",
+      "bbc report"
+    ],
+    "date": "2026-11-21T01:42:36.853Z",
+    "updated": "2026-11-21T01:42:36.853Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "published": "2026-11-21T01:02:39.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "94f0904419",
+    "slug": "fire-kills-birds-at-major-us-foie-gras-farm",
+    "kind": "news",
+    "category": "science",
+    "title": "Fire kills birds at major US foie gras farm",
+    "description": "A blaze at one of America's largest foie gras farms killed birds while hundreds of young birds were rescued, amid renewed animal welfare scrutiny.",
+    "quick": "A fire broke out at one of the largest foie gras farms in the United States, killing an unspecified number of birds. Hundreds of young birds were rescued from the blaze. The incident occurs as foie gras production faces increased scrutiny over animal welfare concerns.",
+    "points": [
+      "Fire at major US foie gras farm",
+      "Birds killed in the blaze",
+      "Hundreds of young birds rescued",
+      "Foie gras under animal welfare scrutiny"
+    ],
+    "body": [
+      "A fire erupted at one of the largest foie gras farms in the United States, resulting in bird fatalities. The exact number of birds killed has not been disclosed.",
+      "Rescue efforts saved hundreds of young birds from the fire. The incident comes as foie gras production faces renewed scrutiny regarding animal welfare practices."
+    ],
+    "faq": [
+      {
+        "q": "How many birds died in the foie gras farm fire?",
+        "a": "The source does not specify the number of birds killed, only that birds were killed and hundreds of young birds were rescued."
+      },
+      {
+        "q": "Why is this foie gras farm fire significant?",
+        "a": "The fire occurred at one of the largest foie gras farms in the US while the industry faces renewed scrutiny over animal welfare concerns."
+      }
+    ],
+    "keywords": [
+      "foie gras",
+      "farm fire",
+      "animal welfare",
+      "bird rescue",
+      "us agriculture"
+    ],
+    "date": "2026-11-21T01:39:36.853Z",
+    "updated": "2026-11-21T01:39:36.853Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "published": "2026-11-20T22:57:26.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-20",
     "slug": "study-briefing-20-november-2026",
     "kind": "briefing",
