@@ -1,28 +1,35 @@
 {
-  "at": "2026-11-21T04:25:29.886Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
-  "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-21-november-2026/",
+  "at": "2026-11-22T01:43:39.127Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
+  "added": 3,
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-22-november-2026/",
   "items": [
     {
-      "title": "IBPS: Result Status of Online Main Examination for CRP-PO/MTs-XVI",
-      "url": "https://news.thunderstudy.online/study/ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi/",
-      "category": "Banking",
-      "official": true
+      "title": "Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents",
+      "url": "https://news.thunderstudy.online/news/bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker/",
+      "category": "World",
+      "official": false
     },
     {
-      "title": "Class 12 student Sarthak Sidhant on TIME100 Next India 2026 list",
-      "url": "https://news.thunderstudy.online/study/class-12-student-sarthak-sidhant-on-time100-next-india-2026-list/",
-      "category": "CBSE",
+      "title": "Paolo Bulgari, former Bvlgari chairman, dies at 89",
+      "url": "https://news.thunderstudy.online/news/paolo-bulgari-former-bvlgari-chairman-dies-at-89/",
+      "category": "Business",
+      "official": false
+    },
+    {
+      "title": "BBC reports from COP31 climate summit in Antalya",
+      "url": "https://news.thunderstudy.online/news/bbc-reports-from-cop31-climate-summit-in-antalya/",
+      "category": "Science",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/ibps-result-status-of-online-main-examination-for-crp-po-mts-xvi/",
-    "https://news.thunderstudy.online/study/class-12-student-sarthak-sidhant-on-time100-next-india-2026-list/",
+    "https://news.thunderstudy.online/news/bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker/",
+    "https://news.thunderstudy.online/news/paolo-bulgari-former-bvlgari-chairman-dies-at-89/",
+    "https://news.thunderstudy.online/news/bbc-reports-from-cop31-climate-summit-in-antalya/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

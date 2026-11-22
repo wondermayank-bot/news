@@ -1,5 +1,208 @@
 [
   {
+    "id": "briefing-news-2026-11-22",
+    "slug": "daily-briefing-22-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 3 stories to know on 22 November 2026",
+    "description": "Your 22 November 2026 news briefing: Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents; Paolo Bulgari, former Bvlgari chairman…",
+    "quick": "Top stories on 22 November 2026: Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents; Paolo Bulgari, former Bvlgari chairman, dies at 89; BBC reports from COP31 climate summit in Antalya.",
+    "points": [
+      "Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents",
+      "Paolo Bulgari, former Bvlgari chairman, dies at 89",
+      "BBC reports from COP31 climate summit in Antalya"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker",
+        "title": "Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents",
+        "description": "Bahrain says Iran attacked an industrial site while tankers were hit in the Strait of Hormuz; Iran's foreign minister links strait access to unmet demands.",
+        "category": "world"
+      },
+      {
+        "slug": "paolo-bulgari-former-bvlgari-chairman-dies-at-89",
+        "title": "Paolo Bulgari, former Bvlgari chairman, dies at 89",
+        "description": "Paolo Bulgari, the third-generation businessman and former Bvlgari chairman who drove the brand's global expansion, has died at 89.",
+        "category": "business"
+      },
+      {
+        "slug": "bbc-reports-from-cop31-climate-summit-in-antalya",
+        "title": "BBC reports from COP31 climate summit in Antalya",
+        "description": "BBC climate editor Justin Rowlatt is covering the UN COP31 summit in Turkey, where negotiators face the question of a new global climate agreement.",
+        "category": "science"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 22 November 2026?",
+        "a": "The top stories on 22 November 2026 are: Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents; Paolo Bulgari, former Bvlgari chairman, dies at 89; BBC reports from COP31 climate summit in Antalya."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-22T01:40:37.521Z",
+    "updated": "2026-11-22T01:40:37.521Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "c1d7b79323",
+    "slug": "bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker",
+    "kind": "news",
+    "category": "world",
+    "title": "Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents",
+    "description": "Bahrain says Iran attacked an industrial site while tankers were hit in the Strait of Hormuz; Iran's foreign minister links strait access to unmet demands.",
+    "quick": "Bahrain has accused Iran of striking an industrial site as tankers were hit in the Strait of Hormuz. Iran's Foreign Minister Abbas Araghchi stated that discussions about the strait's opening are pointless until Iran's demands are met.",
+    "points": [
+      "Bahrain says Iran struck an industrial site",
+      "Tankers hit in Strait of Hormuz",
+      "Iran's foreign minister ties strait access to demands",
+      "Abbas Araghchi calls strait talks pointless without concessions"
+    ],
+    "body": [
+      "Bahrain has accused Iran of carrying out a strike on an industrial site while tankers were simultaneously hit in the Strait of Hormuz. The incidents occurred in the strategic waterway critical for global oil shipments.",
+      "Iran's Foreign Minister Abbas Araghchi responded by stating that Iran's position is clear: as long as Iran's demands are not met, any discussion on the Strait of Hormuz and its opening is pointless. He did not specify what those demands are."
+    ],
+    "faq": [
+      {
+        "q": "What did Bahrain accuse Iran of doing?",
+        "a": "Bahrain accused Iran of striking an industrial site while tankers were hit in the Strait of Hormuz."
+      },
+      {
+        "q": "What did Iran's foreign minister say about the Strait of Hormuz?",
+        "a": "Abbas Araghchi said discussions about the strait's opening are pointless until Iran's demands are met."
+      }
+    ],
+    "keywords": [
+      "bahrain",
+      "iran",
+      "strait of hormuz",
+      "tankers",
+      "industrial site",
+      "abbas araghchi"
+    ],
+    "date": "2026-11-22T01:40:36.521Z",
+    "updated": "2026-11-22T01:40:36.521Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece",
+      "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+      "published": "2026-11-22T01:29:41.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "75e6d4b98f",
+    "slug": "paolo-bulgari-former-bvlgari-chairman-dies-at-89",
+    "kind": "news",
+    "category": "business",
+    "title": "Paolo Bulgari, former Bvlgari chairman, dies at 89",
+    "description": "Paolo Bulgari, the third-generation businessman and former Bvlgari chairman who drove the brand's global expansion, has died at 89.",
+    "quick": "Paolo Bulgari, a third-generation member of the family behind the Italian luxury jewellery house Bvlgari, has died at the age of 89. As a former chairman of the company, he oversaw its expansion worldwide and its diversification into watches, perfumes and hotels.",
+    "points": [
+      "Paolo Bulgari, former chairman of the luxury house Bvlgari, died at the age of 89.",
+      "He was a third-generation member of the family behind the Italian jewellery business.",
+      "He helped turn the family firm into one of the world's most prestigious luxury brands.",
+      "Under his leadership, the company expanded globally and moved into watches, perfumes and hotels."
+    ],
+    "body": [
+      "Paolo Bulgari, a third-generation member of the family that built the Italian jewellery house Bvlgari, has died at 89. He served as chairman of the company and was credited with helping shape it into a global luxury brand.",
+      "According to the publisher's summary, he oversaw the brand's expansion across international markets. He also led its diversification beyond jewellery into watches, perfumes and hotels.",
+      "The source did not give a cause of death or further personal details. The announcement places his death in the context of a business career spent turning a family enterprise into a widely recognised luxury name."
+    ],
+    "faq": [
+      {
+        "q": "Who was Paolo Bulgari?",
+        "a": "He was a third-generation businessman from the family behind the Italian jewellery house Bvlgari and a former chairman of the company."
+      },
+      {
+        "q": "How old was Paolo Bulgari when he died?",
+        "a": "He died at the age of 89, according to the publisher's summary."
+      },
+      {
+        "q": "What did Paolo Bulgari do for the business?",
+        "a": "He helped turn the family jewellery business into a global luxury brand and oversaw its expansion into watches, perfumes and hotels."
+      }
+    ],
+    "keywords": [
+      "paolo bulgari",
+      "bvlgari",
+      "luxury brand",
+      "italian jewellery",
+      "business obituary"
+    ],
+    "date": "2026-11-22T01:39:36.521Z",
+    "updated": "2026-11-22T01:39:36.521Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "Mint",
+      "url": "https://www.livemint.com/companies/people/who-was-paolo-bulgari-third-generation-businessman-who-spearheaded-the-italian-jewellery-business-passed-away-at-89-11795310103594.html",
+      "title": "Who was Paolo Bulgari? Third-generation businessman who spearheaded the Italian jewellery business, passed away at 89",
+      "published": "2026-11-22T01:37:17.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "15b6572edc",
+    "slug": "bbc-reports-from-cop31-climate-summit-in-antalya",
+    "kind": "news",
+    "category": "science",
+    "title": "BBC reports from COP31 climate summit in Antalya",
+    "description": "BBC climate editor Justin Rowlatt is covering the UN COP31 summit in Turkey, where negotiators face the question of a new global climate agreement.",
+    "quick": "BBC Climate editor Justin Rowlatt is reporting from the COP31 UN climate summit taking place in Antalya, Turkey. The summit's central question is whether it will produce a new global climate deal.",
+    "points": [
+      "COP31 UN climate summit underway in Antalya, Turkey",
+      "BBC climate editor Justin Rowlatt reporting on site",
+      "Key question: whether summit yields new global climate agreement"
+    ],
+    "body": [
+      "The COP31 United Nations climate summit is being held in Antalya, Turkey. BBC climate editor Justin Rowlatt is reporting from the conference venue.",
+      "The central focus of coverage is whether the summit will conclude with a new global climate deal. No outcomes or negotiation details have been reported yet."
+    ],
+    "faq": [
+      {
+        "q": "Where is COP31 taking place?",
+        "a": "The COP31 UN climate summit is being held in Antalya, Turkey."
+      },
+      {
+        "q": "Who is covering the summit for BBC?",
+        "a": "BBC climate editor Justin Rowlatt is reporting from the summit."
+      }
+    ],
+    "keywords": [
+      "cop31",
+      "climate summit",
+      "antalya",
+      "turkey",
+      "un climate",
+      "bbc"
+    ],
+    "date": "2026-11-22T01:37:36.521Z",
+    "updated": "2026-11-22T01:37:36.521Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "title": "Will COP31 end with a new global climate deal?",
+      "published": "2026-11-21T22:44:52.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-21",
     "slug": "study-briefing-21-november-2026",
     "kind": "briefing",

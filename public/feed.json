@@ -9,6 +9,82 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-22-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-22-november-2026/",
+      "title": "Daily Briefing: 3 stories to know on 22 November 2026",
+      "summary": "Your 22 November 2026 news briefing: Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents; Paolo Bulgari, former Bvlgari chairman…",
+      "content_text": "Top stories on 22 November 2026: Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents; Paolo Bulgari, former Bvlgari chairman, dies at 89; BBC reports from COP31 climate summit in Antalya.\n- Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents\n- Paolo Bulgari, former Bvlgari chairman, dies at 89\n- BBC reports from COP31 climate summit in Antalya",
+      "date_published": "2026-11-22T01:40:37.521Z",
+      "date_modified": "2026-11-22T01:40:37.521Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-22-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker/",
+      "url": "https://news.thunderstudy.online/news/bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker/",
+      "title": "Bahrain accuses Iran of industrial site strike amid Hormuz tanker incidents",
+      "summary": "Bahrain says Iran attacked an industrial site while tankers were hit in the Strait of Hormuz; Iran's foreign minister links strait access to unmet demands.",
+      "content_text": "Bahrain has accused Iran of striking an industrial site as tankers were hit in the Strait of Hormuz. Iran's Foreign Minister Abbas Araghchi stated that discussions about the strait's opening are pointless until Iran's demands are met.\n- Bahrain says Iran struck an industrial site\n- Tankers hit in Strait of Hormuz\n- Iran's foreign minister ties strait access to demands\n- Abbas Araghchi calls strait talks pointless without concessions",
+      "date_published": "2026-11-22T01:40:36.521Z",
+      "date_modified": "2026-11-22T01:40:36.521Z",
+      "tags": [
+        "World",
+        "bahrain",
+        "iran",
+        "strait of hormuz",
+        "tankers",
+        "industrial site",
+        "abbas araghchi"
+      ],
+      "image": "https://news.thunderstudy.online/og/bahrain-accuses-iran-of-industrial-site-strike-amid-hormuz-tanker.png",
+      "external_url": "https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/paolo-bulgari-former-bvlgari-chairman-dies-at-89/",
+      "url": "https://news.thunderstudy.online/news/paolo-bulgari-former-bvlgari-chairman-dies-at-89/",
+      "title": "Paolo Bulgari, former Bvlgari chairman, dies at 89",
+      "summary": "Paolo Bulgari, the third-generation businessman and former Bvlgari chairman who drove the brand's global expansion, has died at 89.",
+      "content_text": "Paolo Bulgari, a third-generation member of the family behind the Italian luxury jewellery house Bvlgari, has died at the age of 89. As a former chairman of the company, he oversaw its expansion worldwide and its diversification into watches, perfumes and hotels.\n- Paolo Bulgari, former chairman of the luxury house Bvlgari, died at the age of 89.\n- He was a third-generation member of the family behind the Italian jewellery business.\n- He helped turn the family firm into one of the world's most prestigious luxury brands.\n- Under his leadership, the company expanded globally and moved into watches, perfumes and hotels.",
+      "date_published": "2026-11-22T01:39:36.521Z",
+      "date_modified": "2026-11-22T01:39:36.521Z",
+      "tags": [
+        "Business",
+        "paolo bulgari",
+        "bvlgari",
+        "luxury brand",
+        "italian jewellery",
+        "business obituary"
+      ],
+      "image": "https://news.thunderstudy.online/og/paolo-bulgari-former-bvlgari-chairman-dies-at-89.png",
+      "external_url": "https://www.livemint.com/companies/people/who-was-paolo-bulgari-third-generation-businessman-who-spearheaded-the-italian-jewellery-business-passed-away-at-89-11795310103594.html"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/bbc-reports-from-cop31-climate-summit-in-antalya/",
+      "url": "https://news.thunderstudy.online/news/bbc-reports-from-cop31-climate-summit-in-antalya/",
+      "title": "BBC reports from COP31 climate summit in Antalya",
+      "summary": "BBC climate editor Justin Rowlatt is covering the UN COP31 summit in Turkey, where negotiators face the question of a new global climate agreement.",
+      "content_text": "BBC Climate editor Justin Rowlatt is reporting from the COP31 UN climate summit taking place in Antalya, Turkey. The summit's central question is whether it will produce a new global climate deal.\n- COP31 UN climate summit underway in Antalya, Turkey\n- BBC climate editor Justin Rowlatt reporting on site\n- Key question: whether summit yields new global climate agreement",
+      "date_published": "2026-11-22T01:37:36.521Z",
+      "date_modified": "2026-11-22T01:37:36.521Z",
+      "tags": [
+        "Science",
+        "cop31",
+        "climate summit",
+        "antalya",
+        "turkey",
+        "un climate",
+        "bbc"
+      ],
+      "image": "https://news.thunderstudy.online/og/bbc-reports-from-cop31-climate-summit-in-antalya.png",
+      "external_url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-21-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-21-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 21 November 2026",
