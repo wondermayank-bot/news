@@ -1,5 +1,144 @@
 [
   {
+    "id": "briefing-study-2026-11-22",
+    "slug": "study-briefing-22-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 2 exam and job updates for 22 November 2026",
+    "description": "Your 22 November 2026 study briefing: SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026); SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE.",
+    "quick": "Exam and job updates on 22 November 2026: SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026); SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE.",
+    "points": [
+      "SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026)",
+      "SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "sbi-careers-apply-online-20-11-2026-to-10-12-2026",
+        "title": "SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026)",
+        "description": "SBI Careers has published a new notice: APPLY ONLINE (20.11.2026 TO 10.12.2026). Check the official notice for dates, eligibility and how to apply.",
+        "category": "banking"
+      },
+      {
+        "slug": "sbi-careers-deputy-manager-ai-specialists-interview-schedule",
+        "title": "SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE",
+        "description": "SBI Careers has published a new notice: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE. Check the official notice for dates, eligibility and how to…",
+        "category": "banking"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 22 November 2026?",
+        "a": "The top exam and job updates on 22 November 2026 are: SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026); SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-22T04:22:33.660Z",
+    "updated": "2026-11-22T04:22:33.660Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "e81de539fe",
+    "slug": "sbi-careers-apply-online-20-11-2026-to-10-12-2026",
+    "kind": "notice",
+    "category": "banking",
+    "title": "SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026)",
+    "description": "SBI Careers has published a new notice: APPLY ONLINE (20.11.2026 TO 10.12.2026). Check the official notice for dates, eligibility and how to apply.",
+    "quick": "SBI Careers has posted a new official notice titled \"APPLY ONLINE (20.11.2026 TO 10.12.2026)\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: SBI Careers",
+      "Notice title: APPLY ONLINE (20.11.2026 TO 10.12.2026)",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "SBI Careers has published a new update on its official website: \"APPLY ONLINE (20.11.2026 TO 10.12.2026)\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official SBI Careers notice?",
+        "a": "Use the official source link on this page to open the notice on the SBI Careers website."
+      },
+      {
+        "q": "Who should check this SBI Careers notice?",
+        "a": "Students and candidates following SBI Careers exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "sbi careers",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-22T04:22:32.660Z",
+    "updated": "2026-11-22T04:22:32.660Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "SBI Careers",
+      "url": "https://ibpsreg.ibps.in/sbifteoct26/",
+      "title": "APPLY ONLINE (20.11.2026 TO 10.12.2026)",
+      "published": null,
+      "official": true
+    }
+  },
+  {
+    "id": "36fb9f5181",
+    "slug": "sbi-careers-deputy-manager-ai-specialists-interview-schedule",
+    "kind": "notice",
+    "category": "banking",
+    "title": "SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE",
+    "description": "SBI Careers has published a new notice: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE. Check the official notice for dates, eligibility and how to…",
+    "quick": "SBI Careers has posted a new official notice titled \"DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: SBI Careers",
+      "Notice title: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "SBI Careers has published a new update on its official website: \"DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official SBI Careers notice?",
+        "a": "Use the official source link on this page to open the notice on the SBI Careers website."
+      },
+      {
+        "q": "Who should check this SBI Careers notice?",
+        "a": "Students and candidates following SBI Careers exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "sbi careers",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-22T04:21:32.660Z",
+    "updated": "2026-11-22T04:21:32.660Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "SBI Careers",
+      "url": "https://sbi.co.in/documents/77530/57941334/18112026_SCO_11_INT_SCH.pdf/855e83b5-7c8a-3253-7996-57d3085d26e5?t=1795003900788",
+      "title": "DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE",
+      "published": null,
+      "official": true
+    }
+  },
+  {
     "id": "briefing-news-2026-11-22",
     "slug": "daily-briefing-22-november-2026",
     "kind": "briefing",
