@@ -1,28 +1,35 @@
 {
-  "at": "2026-11-22T04:26:25.389Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
-  "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-22-november-2026/",
+  "at": "2026-11-23T01:51:20.324Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
+  "added": 3,
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
   "items": [
     {
-      "title": "SBI Careers: APPLY ONLINE (20.11.2026 TO 10.12.2026)",
-      "url": "https://news.thunderstudy.online/study/sbi-careers-apply-online-20-11-2026-to-10-12-2026/",
-      "category": "Banking",
-      "official": true
+      "title": "Foundation Future cuts health benefits after missing payroll",
+      "url": "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
+      "category": "Business",
+      "official": false
     },
     {
-      "title": "SBI Careers: DEPUTY MANAGER (AI SPECIALISTS) - INTERVIEW SCHEDULE",
-      "url": "https://news.thunderstudy.online/study/sbi-careers-deputy-manager-ai-specialists-interview-schedule/",
-      "category": "Banking",
-      "official": true
+      "title": "India take two wickets before lunch on day five against New Zealand",
+      "url": "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
+      "category": "Sports",
+      "official": false
+    },
+    {
+      "title": "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
+      "url": "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
+      "category": "India",
+      "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/sbi-careers-apply-online-20-11-2026-to-10-12-2026/",
-    "https://news.thunderstudy.online/study/sbi-careers-deputy-manager-ai-specialists-interview-schedule/",
+    "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
+    "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
+    "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

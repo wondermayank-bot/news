@@ -9,6 +9,82 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
+      "title": "Daily Briefing: 3 stories to know on 23 November 2026",
+      "summary": "Your 23 November 2026 news briefing: Foundation Future cuts health benefits after missing payroll; India take two wickets before lunch on day five against…",
+      "content_text": "Top stories on 23 November 2026: Foundation Future cuts health benefits after missing payroll; India take two wickets before lunch on day five against New Zealand; West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh.\n- Foundation Future cuts health benefits after missing payroll\n- India take two wickets before lunch on day five against New Zealand\n- West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
+      "date_published": "2026-11-23T01:47:42.490Z",
+      "date_modified": "2026-11-23T01:47:42.490Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-23-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
+      "url": "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
+      "title": "Foundation Future cuts health benefits after missing payroll",
+      "summary": "Robotics startup Foundation Future ends employee health coverage amid cash crisis after October payroll miss, CEO blames delayed South Korean funding",
+      "content_text": "Foundation Future, a robotic soldier startup led by Indian-origin CEO Sankaet Pathak and backed by Eric Trump, has terminated employee health benefits after missing October payroll. The company cites cash-flow issues from delayed funding by South Korean investor Base Group and will offer COBRA coverage.\n- Foundation Future missed October payroll\n- Health benefits terminated for employees\n- COBRA coverage will be offered\n- CEO blames delayed Base Group funding\n- Startup backed by Eric Trump",
+      "date_published": "2026-11-23T01:47:41.490Z",
+      "date_modified": "2026-11-23T01:47:41.490Z",
+      "tags": [
+        "Business",
+        "foundation future",
+        "sankaet pathak",
+        "eric trump",
+        "base group",
+        "robotics startup",
+        "health benefits"
+      ],
+      "image": "https://news.thunderstudy.online/og/foundation-future-cuts-health-benefits-after-missing-payroll.png",
+      "external_url": "https://www.livemint.com/companies/news/after-missing-salary-employees-at-indian-origin-ceos-robotic-soldier-startup-backed-by-eric-trump-lose-health-benefits-11795396927193.html"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
+      "url": "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
+      "title": "India take two wickets before lunch on day five against New Zealand",
+      "summary": "Washington Sundar and Prasidh Krishna struck before lunch on day five as New Zealand reached 157 for four in the first Test against India.",
+      "content_text": "On day five of the first Test between India and New Zealand, Washington Sundar and Prasidh Krishna took two wickets before lunch. The wickets removed the two New Zealand batters who had been unbeaten overnight, and New Zealand went to lunch at 157 for four, with India's victory hopes still alive.\n- New Zealand went to lunch on day five at 157 for four in the first Test.\n- Washington Sundar and Prasidh Krishna were the two wicket-takers before lunch.\n- The two wickets removed New Zealand's overnight unbeaten batters.\n- India's victory hopes stayed alive with the two strikes.",
+      "date_published": "2026-11-23T01:44:41.490Z",
+      "date_modified": "2026-11-23T01:44:41.490Z",
+      "tags": [
+        "Sports",
+        "india vs new zealand",
+        "first test",
+        "day five",
+        "washington sundar",
+        "prasidh krishna",
+        "lunch"
+      ],
+      "image": "https://news.thunderstudy.online/og/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand.png",
+      "external_url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-5-updates-november-23-2026/article71733174.ece"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
+      "url": "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
+      "title": "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
+      "summary": "West Bengal BJP president Samik Bhattacharya urges protests against reported persecution of Bengali-speaking Hindus in Bangladesh, linking it to Partition's…",
+      "content_text": "West Bengal BJP president Samik Bhattacharya has called for protests over alleged attacks on Hindus in Bangladesh. He claims Bangladesh was created on religious grounds, not linguistic ones, and says Bengali-speaking Hindus are now facing persecution as a consequence of Partition.\n- Samik Bhattacharya calls for protests over attacks on Hindus in Bangladesh\n- Claims Bangladesh founded on religion, not language\n- Says Bengali-speaking Hindus face persecution due to Partition",
+      "date_published": "2026-11-23T01:43:41.490Z",
+      "date_modified": "2026-11-23T01:43:41.490Z",
+      "tags": [
+        "India",
+        "west bengal bjp",
+        "samik bhattacharya",
+        "bangladesh",
+        "hindu persecution",
+        "partition"
+      ],
+      "image": "https://news.thunderstudy.online/og/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in.png",
+      "external_url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-samik-bhattacharya-calls-for-protest-over-attacks-on-hindus-in-bangladesh/article71732075.ece"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-22-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-22-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 22 November 2026",
@@ -667,81 +743,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/11-day-education-equality-campaign-starts-in-balaghat.png",
       "external_url": "https://www.hindustantimes.com/education/news/11day-campaign-for-equal-access-to-quality-education-begins-in-mps-balaghat-101794800697211.html"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii/",
-      "url": "https://news.thunderstudy.online/study/cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii/",
-      "title": "CBSE launches Expression Series on gender equality for Classes III-XII",
-      "summary": "CBSE invites Classes III-XII students to join its 2026-27 Expression Series on women empowerment and gender equality, with entries due Tuesday.",
-      "content_text": "CBSE has launched its 2026-27 Expression Series for students in Classes III through XII, centered on women empowerment and gender equality with age-appropriate themes. Schools are encouraged to sensitize students on these topics, and entries must be submitted by Tuesday.\n- CBSE's 2026-27 Expression Series focuses on women empowerment and gender equality\n- Open to students from Classes III to XII with age-wise themes\n- Entries due by Tuesday\n- Aims to sensitize students on gender equality importance\n- Part of CBSE's academic session activities",
-      "date_published": "2026-11-17T04:19:31.161Z",
-      "date_modified": "2026-11-17T04:19:31.161Z",
-      "tags": [
-        "CBSE",
-        "cbse",
-        "expression series",
-        "gender equality",
-        "women empowerment",
-        "students",
-        "schools"
-      ],
-      "image": "https://news.thunderstudy.online/og/cbse-launches-expression-series-on-gender-equality-for-classes-iii-xii.png",
-      "external_url": "https://timesofindia.indiatimes.com/city/delhi/cbse-puts-gender-equality-in-the-classroom-conversation/articleshow/135893612.cms"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/neet-2026-float-and-freeze-option-leaves-medical-seats-vacant/",
-      "url": "https://news.thunderstudy.online/study/neet-2026-float-and-freeze-option-leaves-medical-seats-vacant/",
-      "title": "NEET 2026: Float and Freeze option leaves medical seats vacant",
-      "summary": "New admission flexibility lets candidates hold seats without joining, contributing to hundreds of unfilled medical seats despite high exam turnout.",
-      "content_text": "The 2026 NEET counselling introduced a Float and Freeze option allowing candidates to carry forward seat allotments without completing admission formalities. Even if seats remain unchanged in Round 3, candidates can decline to join. This flexibility has led to significant seat underutilisation, with hundreds of medical seats…\n- Float and Freeze option introduced in 2026 NEET counselling\n- Candidates can hold allotments without completing admission\n- Seats can be declined even after Round 3 allotment\n- Flexibility linked to hundreds of vacant medical seats\n- Millions of students appeared for NEET 2026",
-      "date_published": "2026-11-17T04:17:31.161Z",
-      "date_modified": "2026-11-17T04:17:31.161Z",
-      "tags": [
-        "NEET",
-        "neet 2026",
-        "medical seats",
-        "counselling",
-        "float and freeze",
-        "seat vacancy"
-      ],
-      "image": "https://news.thunderstudy.online/og/neet-2026-float-and-freeze-option-leaves-medical-seats-vacant.png",
-      "external_url": "https://www.thehindu.com/education/millions-of-students-take-neet-yet-hundreds-of-medical-seats-go-vacant/article71707087.ece"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/daily-briefing-16-november-2026/",
-      "url": "https://news.thunderstudy.online/news/daily-briefing-16-november-2026/",
-      "title": "Daily Briefing: 2 stories to know on 16 November 2026",
-      "summary": "Your 16 November 2026 news briefing: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left…",
-      "content_text": "Top stories on 16 November 2026: Bangladesh clothing factories close as workers strike for higher pay; Suspected China spy linked to Nvidia ex-boss left in 2025.\n- Bangladesh clothing factories close as workers strike for higher pay\n- Suspected China spy linked to Nvidia ex-boss left in 2025",
-      "date_published": "2026-11-16T01:53:02.909Z",
-      "date_modified": "2026-11-16T01:53:02.909Z",
-      "tags": [
-        "Daily Briefing",
-        "daily news briefing",
-        "today headlines",
-        "india news today",
-        "top stories"
-      ],
-      "image": "https://news.thunderstudy.online/og/daily-briefing-16-november-2026.png"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
-      "url": "https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/",
-      "title": "Bangladesh clothing factories close as workers strike for higher pay",
-      "summary": "Garment factories in Bangladesh have shut down as workers strike demanding a monthly minimum wage of 30,000 taka (£182).",
-      "content_text": "Clothing factories across Bangladesh have shut down after workers went on strike demanding a minimum monthly wage of 30,000 taka, equivalent to about £182.\n- Workers strike demanding 30,000 taka monthly minimum wage\n- Clothing factories shut down due to strike action\n- Demand equals approximately £182 per month",
-      "date_published": "2026-11-16T01:53:01.909Z",
-      "date_modified": "2026-11-16T01:53:01.909Z",
-      "tags": [
-        "World",
-        "bangladesh",
-        "garment workers",
-        "strike",
-        "minimum wage",
-        "clothing factories"
-      ],
-      "image": "https://news.thunderstudy.online/og/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay.png",
-      "external_url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss"
     }
   ]
 }

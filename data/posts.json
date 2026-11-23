@@ -1,5 +1,210 @@
 [
   {
+    "id": "briefing-news-2026-11-23",
+    "slug": "daily-briefing-23-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 3 stories to know on 23 November 2026",
+    "description": "Your 23 November 2026 news briefing: Foundation Future cuts health benefits after missing payroll; India take two wickets before lunch on day five against…",
+    "quick": "Top stories on 23 November 2026: Foundation Future cuts health benefits after missing payroll; India take two wickets before lunch on day five against New Zealand; West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh.",
+    "points": [
+      "Foundation Future cuts health benefits after missing payroll",
+      "India take two wickets before lunch on day five against New Zealand",
+      "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "foundation-future-cuts-health-benefits-after-missing-payroll",
+        "title": "Foundation Future cuts health benefits after missing payroll",
+        "description": "Robotics startup Foundation Future ends employee health coverage amid cash crisis after October payroll miss, CEO blames delayed South Korean funding",
+        "category": "business"
+      },
+      {
+        "slug": "india-take-two-wickets-before-lunch-on-day-five-against-new-zealand",
+        "title": "India take two wickets before lunch on day five against New Zealand",
+        "description": "Washington Sundar and Prasidh Krishna struck before lunch on day five as New Zealand reached 157 for four in the first Test against India.",
+        "category": "sports"
+      },
+      {
+        "slug": "west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in",
+        "title": "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
+        "description": "West Bengal BJP president Samik Bhattacharya urges protests against reported persecution of Bengali-speaking Hindus in Bangladesh, linking it to Partition's…",
+        "category": "india"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 23 November 2026?",
+        "a": "The top stories on 23 November 2026 are: Foundation Future cuts health benefits after missing payroll; India take two wickets before lunch on day five against New Zealand; West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-23T01:47:42.490Z",
+    "updated": "2026-11-23T01:47:42.490Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "3786977ff4",
+    "slug": "foundation-future-cuts-health-benefits-after-missing-payroll",
+    "kind": "news",
+    "category": "business",
+    "title": "Foundation Future cuts health benefits after missing payroll",
+    "description": "Robotics startup Foundation Future ends employee health coverage amid cash crisis after October payroll miss, CEO blames delayed South Korean funding",
+    "quick": "Foundation Future, a robotic soldier startup led by Indian-origin CEO Sankaet Pathak and backed by Eric Trump, has terminated employee health benefits after missing October payroll. The company cites cash-flow issues from delayed funding by South Korean investor Base Group and will offer COBRA coverage.",
+    "points": [
+      "Foundation Future missed October payroll",
+      "Health benefits terminated for employees",
+      "COBRA coverage will be offered",
+      "CEO blames delayed Base Group funding",
+      "Startup backed by Eric Trump"
+    ],
+    "body": [
+      "Foundation Future has ended health benefits for its employees following a cash-flow crisis. The robotic soldier startup previously missed payroll in October, according to reports.",
+      "CEO Sankaet Pathak attributes the financial trouble to delayed funding from South Korean investor Base Group. The company says affected employees will be offered COBRA continuation coverage.",
+      "The startup, which develops robotic soldier technology, counts Eric Trump among its backers. The benefit cuts signal deepening financial strain at the venture."
+    ],
+    "faq": [
+      {
+        "q": "Why did Foundation Future cut employee health benefits?",
+        "a": "The company terminated health benefits due to cash-flow concerns after missing payroll in October, which CEO Sankaet Pathak blames on delayed funding from South Korean investor Base Group."
+      },
+      {
+        "q": "What coverage will affected employees receive?",
+        "a": "Foundation Future says it will offer COBRA continuation coverage to employees who lost health benefits."
+      }
+    ],
+    "keywords": [
+      "foundation future",
+      "sankaet pathak",
+      "eric trump",
+      "base group",
+      "robotics startup",
+      "health benefits"
+    ],
+    "date": "2026-11-23T01:47:41.490Z",
+    "updated": "2026-11-23T01:47:41.490Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Mint",
+      "url": "https://www.livemint.com/companies/news/after-missing-salary-employees-at-indian-origin-ceos-robotic-soldier-startup-backed-by-eric-trump-lose-health-benefits-11795396927193.html",
+      "title": "After missing salary, employees at Indian-origin CEO's robotic soldier startup backed by Eric Trump lose health benefits",
+      "published": "2026-11-23T01:38:59.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "acfb348403",
+    "slug": "india-take-two-wickets-before-lunch-on-day-five-against-new-zealand",
+    "kind": "news",
+    "category": "sports",
+    "title": "India take two wickets before lunch on day five against New Zealand",
+    "description": "Washington Sundar and Prasidh Krishna struck before lunch on day five as New Zealand reached 157 for four in the first Test against India.",
+    "quick": "On day five of the first Test between India and New Zealand, Washington Sundar and Prasidh Krishna took two wickets before lunch. The wickets removed the two New Zealand batters who had been unbeaten overnight, and New Zealand went to lunch at 157 for four, with India's victory hopes still alive.",
+    "points": [
+      "New Zealand went to lunch on day five at 157 for four in the first Test.",
+      "Washington Sundar and Prasidh Krishna were the two wicket-takers before lunch.",
+      "The two wickets removed New Zealand's overnight unbeaten batters.",
+      "India's victory hopes stayed alive with the two strikes."
+    ],
+    "body": [
+      "India picked up two wickets before lunch on the fifth day of the first Test against New Zealand. Washington Sundar and Prasidh Krishna were the bowlers who struck.",
+      "The two wickets accounted for the New Zealand batters who had been unbeaten overnight. At the lunch break, New Zealand were 157 for four.",
+      "With those dismissals, India kept their hopes of a victory in the match alive. The source did not give further details on the session or the target involved."
+    ],
+    "faq": [
+      {
+        "q": "What was New Zealand's score at lunch on day five of the first Test?",
+        "a": "New Zealand went into lunch at 157 for four."
+      },
+      {
+        "q": "Who took the wickets for India before lunch on day five?",
+        "a": "Washington Sundar and Prasidh Krishna struck to remove the two overnight unbeaten batters."
+      },
+      {
+        "q": "Did the wickets help India's chances in the Test?",
+        "a": "Yes, the source reports that India kept its victory hopes alive by taking the two wickets."
+      }
+    ],
+    "keywords": [
+      "india vs new zealand",
+      "first test",
+      "day five",
+      "washington sundar",
+      "prasidh krishna",
+      "lunch"
+    ],
+    "date": "2026-11-23T01:44:41.490Z",
+    "updated": "2026-11-23T01:44:41.490Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-5-updates-november-23-2026/article71733174.ece",
+      "title": "IND vs NZ first Test Day 5: India keeps victory hopes alive, takes two more wickets at lunch",
+      "published": "2026-11-23T00:23:18.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "5825cc7319",
+    "slug": "west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in",
+    "kind": "news",
+    "category": "india",
+    "title": "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
+    "description": "West Bengal BJP president Samik Bhattacharya urges protests against reported persecution of Bengali-speaking Hindus in Bangladesh, linking it to Partition's…",
+    "quick": "West Bengal BJP president Samik Bhattacharya has called for protests over alleged attacks on Hindus in Bangladesh. He claims Bangladesh was created on religious grounds, not linguistic ones, and says Bengali-speaking Hindus are now facing persecution as a consequence of Partition.",
+    "points": [
+      "Samik Bhattacharya calls for protests over attacks on Hindus in Bangladesh",
+      "Claims Bangladesh founded on religion, not language",
+      "Says Bengali-speaking Hindus face persecution due to Partition"
+    ],
+    "body": [
+      "West Bengal BJP president Samik Bhattacharya has called for protests against reported attacks on Hindus in Bangladesh. The state party chief made the demand while addressing the situation of minority communities in the neighbouring country.",
+      "Bhattacharya stated that Bangladesh was created on the basis of religion rather than language. He argued that Bengali-speaking Hindus are now bearing the consequences of Partition through ongoing persecution."
+    ],
+    "faq": [
+      {
+        "q": "Who called for protests over attacks on Hindus in Bangladesh?",
+        "a": "West Bengal BJP president Samik Bhattacharya called for the protests."
+      },
+      {
+        "q": "What reason did Bhattacharya give for the persecution of Hindus in Bangladesh?",
+        "a": "He claimed Bangladesh was created on religious grounds, not linguistic ones, and said Bengali-speaking Hindus are facing persecution as a consequence of Partition."
+      }
+    ],
+    "keywords": [
+      "west bengal bjp",
+      "samik bhattacharya",
+      "bangladesh",
+      "hindu persecution",
+      "partition"
+    ],
+    "date": "2026-11-23T01:43:41.490Z",
+    "updated": "2026-11-23T01:43:41.490Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-bjp-president-samik-bhattacharya-calls-for-protest-over-attacks-on-hindus-in-bangladesh/article71732075.ece",
+      "title": "West Bengal BJP president Samik Bhattacharya calls for protest over attacks on Hindus in Bangladesh",
+      "published": "2026-11-23T01:21:53.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-22",
     "slug": "study-briefing-22-november-2026",
     "kind": "briefing",
