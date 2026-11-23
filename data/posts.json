@@ -1,5 +1,59 @@
 [
   {
+    "id": "f1f4052ff4",
+    "slug": "vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10",
+    "kind": "news",
+    "category": "cbse",
+    "title": "Vinuh app offers three-minute Telugu audio lessons for Classes 8-10",
+    "description": "Vinuh, a free app from Vertical Seed Studios, gives Classes 8 to 10 three-minute Telugu audio lessons covering regional and CBSE curricula.",
+    "quick": "Vinuh, a free micro-tutorial audio app, was launched at Alluri Vignana Kendram in Visakhapatnam on Sunday. It offers three-minute lessons explained in simple Telugu for students of Classes 8 to 10, and covers both regional and CBSE curricula. The app was developed by Vertical Seed Studios Pvt. Ltd.",
+    "points": [
+      "Vinuh is a free audio app with three-minute lessons for Classes 8 to 10.",
+      "Lessons are explained in simple Telugu, according to the publisher.",
+      "It covers both regional and CBSE curricula.",
+      "The app was launched in Visakhapatnam on Sunday.",
+      "It was developed by Vertical Seed Studios Pvt. Ltd."
+    ],
+    "body": [
+      "A free audio app called Vinuh, which offers three-minute lessons in simple Telugu for students of Classes 8 to 10, was launched at Alluri Vignana Kendram in Visakhapatnam on Sunday. The app is described as a micro-tutorial tool that explains lessons in short audio segments.",
+      "Vinuh covers both regional and CBSE curricula, according to the publisher. It was developed by Vertical Seed Studios Pvt. Ltd., the company behind the app.",
+      "The short format may suit school students who want a quick explanation of a topic in Telugu. The source did not specify which subjects the lessons cover, how many lessons are available, or where the app can be downloaded."
+    ],
+    "faq": [
+      {
+        "q": "What is the Vinuh app?",
+        "a": "Vinuh is a free micro-tutorial audio app that explains lessons in simple Telugu for students of Classes 8 to 10."
+      },
+      {
+        "q": "How long are the lessons on Vinuh?",
+        "a": "Each lesson is three minutes long, according to the publisher."
+      },
+      {
+        "q": "Who developed the Vinuh app?",
+        "a": "The app was developed by Vertical Seed Studios Pvt. Ltd."
+      }
+    ],
+    "keywords": [
+      "vinuh app",
+      "telugu audio lessons",
+      "classes 8 to 10",
+      "cbse",
+      "visakhapatnam",
+      "free learning app"
+    ],
+    "date": "2026-11-23T04:36:36.583Z",
+    "updated": "2026-11-23T04:36:36.583Z",
+    "readMins": 2,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/new-app-offers-three-minute-telugu-audio-lessons-for-school-students/article71731912.ece",
+      "title": "New app offers three-minute Telugu audio lessons for school students",
+      "published": "2026-11-22T15:07:08Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-23",
     "slug": "daily-briefing-23-november-2026",
     "kind": "briefing",

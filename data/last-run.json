@@ -1,35 +1,21 @@
 {
-  "at": "2026-11-23T01:51:20.324Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 3,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
+  "at": "2026-11-23T04:43:18.011Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 1,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": null,
   "items": [
     {
-      "title": "Foundation Future cuts health benefits after missing payroll",
-      "url": "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
-      "category": "Business",
-      "official": false
-    },
-    {
-      "title": "India take two wickets before lunch on day five against New Zealand",
-      "url": "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
-      "category": "Sports",
-      "official": false
-    },
-    {
-      "title": "West Bengal BJP chief calls for protest over attacks on Hindus in Bangladesh",
-      "url": "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
-      "category": "India",
+      "title": "Vinuh app offers three-minute Telugu audio lessons for Classes 8-10",
+      "url": "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
+      "category": "CBSE",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/foundation-future-cuts-health-benefits-after-missing-payroll/",
-    "https://news.thunderstudy.online/news/india-take-two-wickets-before-lunch-on-day-five-against-new-zealand/",
-    "https://news.thunderstudy.online/news/west-bengal-bjp-chief-calls-for-protest-over-attacks-on-hindus-in/",
+    "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

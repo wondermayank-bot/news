@@ -9,6 +9,26 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
+      "url": "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
+      "title": "Vinuh app offers three-minute Telugu audio lessons for Classes 8-10",
+      "summary": "Vinuh, a free app from Vertical Seed Studios, gives Classes 8 to 10 three-minute Telugu audio lessons covering regional and CBSE curricula.",
+      "content_text": "Vinuh, a free micro-tutorial audio app, was launched at Alluri Vignana Kendram in Visakhapatnam on Sunday. It offers three-minute lessons explained in simple Telugu for students of Classes 8 to 10, and covers both regional and CBSE curricula. The app was developed by Vertical Seed Studios Pvt. Ltd.\n- Vinuh is a free audio app with three-minute lessons for Classes 8 to 10.\n- Lessons are explained in simple Telugu, according to the publisher.\n- It covers both regional and CBSE curricula.\n- The app was launched in Visakhapatnam on Sunday.\n- It was developed by Vertical Seed Studios Pvt. Ltd.",
+      "date_published": "2026-11-23T04:36:36.583Z",
+      "date_modified": "2026-11-23T04:36:36.583Z",
+      "tags": [
+        "CBSE",
+        "vinuh app",
+        "telugu audio lessons",
+        "classes 8 to 10",
+        "cbse",
+        "visakhapatnam",
+        "free learning app"
+      ],
+      "image": "https://news.thunderstudy.online/og/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10.png",
+      "external_url": "https://www.thehindu.com/news/national/andhra-pradesh/new-app-offers-three-minute-telugu-audio-lessons-for-school-students/article71731912.ece"
+    },
+    {
       "id": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
       "url": "https://news.thunderstudy.online/news/daily-briefing-23-november-2026/",
       "title": "Daily Briefing: 3 stories to know on 23 November 2026",
@@ -724,25 +744,6 @@
         "study briefing"
       ],
       "image": "https://news.thunderstudy.online/og/study-briefing-17-november-2026.png"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/11-day-education-equality-campaign-starts-in-balaghat/",
-      "url": "https://news.thunderstudy.online/study/11-day-education-equality-campaign-starts-in-balaghat/",
-      "title": "11-day education equality campaign starts in Balaghat",
-      "summary": "A committee launches an 11-day yatra from Balaghat to Bhopal demanding equal access to quality education, passing through four districts.",
-      "content_text": "An 11-day campaign for equal access to quality education began in Balaghat, Madhya Pradesh on November 15. Organized by a committee, the yatra will travel to Bhopal by November 25, passing through Seoni, Chhindwara, Betul, and Narmadapuram districts.\n- 11-day education equality campaign launched in Balaghat\n- Yatra runs November 15-25 from Balaghat to Bhopal\n- Route covers Seoni, Chhindwara, Betul, Narmadapuram\n- Committee demands equal access to quality education",
-      "date_published": "2026-11-17T04:21:31.161Z",
-      "date_modified": "2026-11-17T04:21:31.161Z",
-      "tags": [
-        "MP Exams and Jobs",
-        "education equality",
-        "madhya pradesh",
-        "balaghat",
-        "bhopal",
-        "yatra"
-      ],
-      "image": "https://news.thunderstudy.online/og/11-day-education-equality-campaign-starts-in-balaghat.png",
-      "external_url": "https://www.hindustantimes.com/education/news/11day-campaign-for-equal-access-to-quality-education-begins-in-mps-balaghat-101794800697211.html"
     }
   ]
 }
