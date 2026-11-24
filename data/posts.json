@@ -1,5 +1,150 @@
 [
   {
+    "id": "briefing-news-2026-11-24",
+    "slug": "daily-briefing-24-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 2 stories to know on 24 November 2026",
+    "description": "Your 24 November 2026 news briefing: SP, Congress begin seat-sharing talks for Uttar Pradesh polls; Trump orders pause on Iowa lead explosives detonation.",
+    "quick": "Top stories on 24 November 2026: SP, Congress begin seat-sharing talks for Uttar Pradesh polls; Trump orders pause on Iowa lead explosives detonation.",
+    "points": [
+      "SP, Congress begin seat-sharing talks for Uttar Pradesh polls",
+      "Trump orders pause on Iowa lead explosives detonation"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls",
+        "title": "SP, Congress begin seat-sharing talks for Uttar Pradesh polls",
+        "description": "Samajwadi Party and Congress hold initial seat-sharing meeting in Delhi for upcoming Uttar Pradesh elections, with further talks scheduled.",
+        "category": "india"
+      },
+      {
+        "slug": "trump-orders-pause-on-iowa-lead-explosives-detonation",
+        "title": "Trump orders pause on Iowa lead explosives detonation",
+        "description": "U.S. President Trump directs Army to halt planned detonation of lead explosives in Iowa after appeals court lifted prior stay; opponents warn of toxic lead…",
+        "category": "world"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 24 November 2026?",
+        "a": "The top stories on 24 November 2026 are: SP, Congress begin seat-sharing talks for Uttar Pradesh polls; Trump orders pause on Iowa lead explosives detonation."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-24T01:46:01.030Z",
+    "updated": "2026-11-24T01:46:01.030Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "468b094d23",
+    "slug": "sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls",
+    "kind": "news",
+    "category": "india",
+    "title": "SP, Congress begin seat-sharing talks for Uttar Pradesh polls",
+    "description": "Samajwadi Party and Congress hold initial seat-sharing meeting in Delhi for upcoming Uttar Pradesh elections, with further talks scheduled.",
+    "quick": "Samajwadi Party and Congress leaders met at Congress MP Pramod Tiwari's Delhi residence for about 20 minutes to discuss seat-sharing arrangements for the Uttar Pradesh elections. The parties plan to meet again on November 24 to continue negotiations.",
+    "points": [
+      "SP and Congress held first seat-sharing meeting in Delhi",
+      "Meeting at Pramod Tiwari's residence lasted 20 minutes",
+      "Parties likely to meet again November 24",
+      "Talks concern Uttar Pradesh election seat allocation"
+    ],
+    "body": [
+      "Samajwadi Party and Congress representatives met in New Delhi on Monday to begin seat-sharing discussions for the upcoming Uttar Pradesh elections. The meeting took place at the residence of Congress Rajya Sabha member Pramod Tiwari.",
+      "The initial discussion lasted approximately 20 minutes. Both sides have indicated they will reconvene on November 24 to advance the negotiations further.",
+      "Seat-sharing agreements between major opposition parties could influence the electoral landscape in Uttar Pradesh, India's most populous state."
+    ],
+    "faq": [
+      {
+        "q": "Which parties are discussing seat-sharing for Uttar Pradesh polls?",
+        "a": "The Samajwadi Party and Congress are holding seat-sharing talks for the Uttar Pradesh elections."
+      },
+      {
+        "q": "Where and when did the first meeting take place?",
+        "a": "The first meeting occurred at Congress MP Pramod Tiwari's residence in New Delhi and lasted about 20 minutes."
+      }
+    ],
+    "keywords": [
+      "uttar pradesh elections",
+      "seat sharing",
+      "samajwadi party",
+      "congress",
+      "opposition alliance"
+    ],
+    "date": "2026-11-24T01:43:00.030Z",
+    "updated": "2026-11-24T01:43:00.030Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-sp-seat-sharing-discussions-to-continue-on-november-24/article71734959.ece",
+      "title": "Uttar Pradesh polls: SP, Congress kick off seat-sharing talks",
+      "published": "2026-11-24T01:31:28.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "ae531c9226",
+    "slug": "trump-orders-pause-on-iowa-lead-explosives-detonation",
+    "kind": "news",
+    "category": "world",
+    "title": "Trump orders pause on Iowa lead explosives detonation",
+    "description": "U.S. President Trump directs Army to halt planned detonation of lead explosives in Iowa after appeals court lifted prior stay; opponents warn of toxic lead…",
+    "quick": "President Trump ordered the U.S. Army to pause the detonation of lead explosives in Iowa. This follows a federal appeals court lifting a previous stay that had blocked the detonation. Opponents have raised concerns about a potential toxic lead dust cloud affecting nearby communities.",
+    "points": [
+      "Trump orders Army to pause lead explosives detonation in Iowa",
+      "Appeals court lifted prior stay that had blocked the detonation",
+      "Opponents warn of toxic lead dust cloud risk",
+      "Detonation involves lead-based explosives"
+    ],
+    "body": [
+      "President Donald Trump has directed the U.S. Army to pause the planned detonation of lead explosives in Iowa. The order comes after a federal appeals court lifted a previous stay that had blocked the detonation from proceeding.",
+      "Opponents of the detonation have raised concerns about the potential release of a toxic lead dust cloud that could affect surrounding areas. The explosives in question contain lead, which poses environmental and health risks if dispersed into the air."
+    ],
+    "faq": [
+      {
+        "q": "Why did Trump order a pause on the Iowa detonation?",
+        "a": "The source does not specify Trump's reason for ordering the pause, only that he directed the Army to halt the detonation after an appeals court lifted a prior stay."
+      },
+      {
+        "q": "What are the concerns about the lead explosives detonation?",
+        "a": "Opponents warn that detonating the lead explosives could create a toxic lead dust cloud affecting nearby communities."
+      }
+    ],
+    "keywords": [
+      "trump",
+      "iowa",
+      "lead explosives",
+      "detonation pause",
+      "toxic dust",
+      "appeals court"
+    ],
+    "date": "2026-11-24T01:42:00.030Z",
+    "updated": "2026-11-24T01:42:00.030Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece",
+      "title": "Trump orders U.S. Army to pause detonation of lead explosives in Iowa",
+      "published": "2026-11-24T01:37:20.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "f1f4052ff4",
     "slug": "vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10",
     "kind": "news",

@@ -9,6 +9,62 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-24-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-24-november-2026/",
+      "title": "Daily Briefing: 2 stories to know on 24 November 2026",
+      "summary": "Your 24 November 2026 news briefing: SP, Congress begin seat-sharing talks for Uttar Pradesh polls; Trump orders pause on Iowa lead explosives detonation.",
+      "content_text": "Top stories on 24 November 2026: SP, Congress begin seat-sharing talks for Uttar Pradesh polls; Trump orders pause on Iowa lead explosives detonation.\n- SP, Congress begin seat-sharing talks for Uttar Pradesh polls\n- Trump orders pause on Iowa lead explosives detonation",
+      "date_published": "2026-11-24T01:46:01.030Z",
+      "date_modified": "2026-11-24T01:46:01.030Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-24-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls/",
+      "url": "https://news.thunderstudy.online/news/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls/",
+      "title": "SP, Congress begin seat-sharing talks for Uttar Pradesh polls",
+      "summary": "Samajwadi Party and Congress hold initial seat-sharing meeting in Delhi for upcoming Uttar Pradesh elections, with further talks scheduled.",
+      "content_text": "Samajwadi Party and Congress leaders met at Congress MP Pramod Tiwari's Delhi residence for about 20 minutes to discuss seat-sharing arrangements for the Uttar Pradesh elections. The parties plan to meet again on November 24 to continue negotiations.\n- SP and Congress held first seat-sharing meeting in Delhi\n- Meeting at Pramod Tiwari's residence lasted 20 minutes\n- Parties likely to meet again November 24\n- Talks concern Uttar Pradesh election seat allocation",
+      "date_published": "2026-11-24T01:43:00.030Z",
+      "date_modified": "2026-11-24T01:43:00.030Z",
+      "tags": [
+        "India",
+        "uttar pradesh elections",
+        "seat sharing",
+        "samajwadi party",
+        "congress",
+        "opposition alliance"
+      ],
+      "image": "https://news.thunderstudy.online/og/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls.png",
+      "external_url": "https://www.thehindu.com/news/national/uttar-pradesh/congress-sp-seat-sharing-discussions-to-continue-on-november-24/article71734959.ece"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/trump-orders-pause-on-iowa-lead-explosives-detonation/",
+      "url": "https://news.thunderstudy.online/news/trump-orders-pause-on-iowa-lead-explosives-detonation/",
+      "title": "Trump orders pause on Iowa lead explosives detonation",
+      "summary": "U.S. President Trump directs Army to halt planned detonation of lead explosives in Iowa after appeals court lifted prior stay; opponents warn of toxic lead…",
+      "content_text": "President Trump ordered the U.S. Army to pause the detonation of lead explosives in Iowa. This follows a federal appeals court lifting a previous stay that had blocked the detonation. Opponents have raised concerns about a potential toxic lead dust cloud affecting nearby communities.\n- Trump orders Army to pause lead explosives detonation in Iowa\n- Appeals court lifted prior stay that had blocked the detonation\n- Opponents warn of toxic lead dust cloud risk\n- Detonation involves lead-based explosives",
+      "date_published": "2026-11-24T01:42:00.030Z",
+      "date_modified": "2026-11-24T01:42:00.030Z",
+      "tags": [
+        "World",
+        "trump",
+        "iowa",
+        "lead explosives",
+        "detonation pause",
+        "toxic dust",
+        "appeals court"
+      ],
+      "image": "https://news.thunderstudy.online/og/trump-orders-pause-on-iowa-lead-explosives-detonation.png",
+      "external_url": "https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
       "url": "https://news.thunderstudy.online/study/vinuh-app-offers-three-minute-telugu-audio-lessons-for-classes-8-10/",
       "title": "Vinuh app offers three-minute Telugu audio lessons for Classes 8-10",
@@ -689,61 +745,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/weakening-ev-rules-risks-uk-climate-targets-adviser-warns.png",
       "external_url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
-      "url": "https://news.thunderstudy.online/news/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary/",
-      "title": "The Hindu editorial questions Jay Shah's role as BCCI secretary",
-      "summary": "The Hindu editorial criticizes BCCI secretary Jay Shah for allegedly promoting ruling party agenda during World Cups.",
-      "content_text": "The Hindu published an editorial criticizing BCCI secretary Jay Shah, son of India's Home Minister, for allegedly using his position to advance the ruling party's political agenda during cricket World Cups.\n- Jay Shah serves as BCCI secretary\n- He is the son of India's Home Minister\n- Editorial alleges he promotes ruling party agenda\n- Criticism includes actions during World Cups\n- Article published in The Hindu sports section",
-      "date_published": "2026-11-18T01:45:28.836Z",
-      "date_modified": "2026-11-18T01:45:28.836Z",
-      "tags": [
-        "Sports",
-        "jay shah",
-        "bcci",
-        "cricket administration",
-        "the hindu",
-        "political influence"
-      ],
-      "image": "https://news.thunderstudy.online/og/the-hindu-editorial-questions-jay-shahs-role-as-bcci-secretary.png",
-      "external_url": "https://www.thehindu.com/sport/cricket/jay-shah-gets-another-chance-to-leave-a-positive-impact-on-cricket/article71712335.ece"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
-      "url": "https://news.thunderstudy.online/news/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k/",
-      "title": "Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K",
-      "summary": "Police in Jammu and Kashmir asked top Lashkar-e-Taiba commander Latief Bhat to surrender over a video call after his accomplice was killed in Kulgam.",
-      "content_text": "Police in Jammu and Kashmir have asked Latief Bhat, described as a top commander of Lashkar-e-Taiba, to surrender through a video call. The appeal follows an encounter in Kulgam on Monday in which his accomplice, Umar Nisar Dar, was killed. Bhat is reported to be trapped in the region.\n- Latief Bhat is described as a top commander of Lashkar-e-Taiba.\n- Police asked him to surrender during a video call.\n- His accomplice, Umar Nisar Dar, was killed in an encounter in Kulgam.\n- The encounter took place on Monday, according to the source.\n- Bhat is reported to be trapped in Jammu and Kashmir.",
-      "date_published": "2026-11-18T01:44:28.836Z",
-      "date_modified": "2026-11-18T01:44:28.836Z",
-      "tags": [
-        "India",
-        "latief bhat",
-        "lashkar-e-taiba",
-        "kulgam encounter",
-        "jammu and kashmir",
-        "surrender appeal"
-      ],
-      "image": "https://news.thunderstudy.online/og/police-ask-top-lashkar-commander-latief-bhat-to-surrender-in-j-and-k.png",
-      "external_url": "https://www.ndtv.com/india-news/fresh-encounter-with-terrorists-in-jammu-and-kashmir-kulgam-lashkar-commander-latief-bhat-likely-trapped-12341585#publisher=newsstand"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/study-briefing-17-november-2026/",
-      "url": "https://news.thunderstudy.online/study/study-briefing-17-november-2026/",
-      "title": "Study Briefing: 3 exam and job updates for 17 November 2026",
-      "summary": "Your 17 November 2026 study briefing: 11-day education equality campaign starts in Balaghat; CBSE launches Expression Series on gender equality for Classes…",
-      "content_text": "Exam and job updates on 17 November 2026: 11-day education equality campaign starts in Balaghat; CBSE launches Expression Series on gender equality for Classes III-XII; NEET 2026: Float and Freeze option leaves medical seats vacant.\n- 11-day education equality campaign starts in Balaghat\n- CBSE launches Expression Series on gender equality for Classes III-XII\n- NEET 2026: Float and Freeze option leaves medical seats vacant",
-      "date_published": "2026-11-17T04:21:32.161Z",
-      "date_modified": "2026-11-17T04:21:32.161Z",
-      "tags": [
-        "Study Briefing",
-        "study news",
-        "exam updates today",
-        "govt exam notices",
-        "study briefing"
-      ],
-      "image": "https://news.thunderstudy.online/og/study-briefing-17-november-2026.png"
     }
   ]
 }
