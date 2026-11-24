@@ -1,5 +1,148 @@
 [
   {
+    "id": "briefing-study-2026-11-24",
+    "slug": "study-briefing-24-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 2 exam and job updates for 24 November 2026",
+    "description": "Your 24 November 2026 study briefing: UGC NET 2026 exam city slip release postponed; Maharashtra CM meets Nilekani, Somanath on exam reforms.",
+    "quick": "Exam and job updates on 24 November 2026: UGC NET 2026 exam city slip release postponed; Maharashtra CM meets Nilekani, Somanath on exam reforms.",
+    "points": [
+      "UGC NET 2026 exam city slip release postponed",
+      "Maharashtra CM meets Nilekani, Somanath on exam reforms"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "ugc-net-2026-exam-city-slip-release-postponed",
+        "title": "UGC NET 2026 exam city slip release postponed",
+        "description": "The National Testing Agency has delayed the UGC NET 2026 exam city intimation slip release; new date to be announced.",
+        "category": "more"
+      },
+      {
+        "slug": "maharashtra-cm-meets-nilekani-somanath-on-exam-reforms",
+        "title": "Maharashtra CM meets Nilekani, Somanath on exam reforms",
+        "description": "Maharashtra Chief Minister Devendra Fadnavis held discussions with Nandan Nilekani and S Somanath regarding examination system reforms and security measures.",
+        "category": "more"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 24 November 2026?",
+        "a": "The top exam and job updates on 24 November 2026 are: UGC NET 2026 exam city slip release postponed; Maharashtra CM meets Nilekani, Somanath on exam reforms."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-24T04:28:16.983Z",
+    "updated": "2026-11-24T04:28:16.983Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "81642edf78",
+    "slug": "ugc-net-2026-exam-city-slip-release-postponed",
+    "kind": "news",
+    "category": "more",
+    "title": "UGC NET 2026 exam city slip release postponed",
+    "description": "The National Testing Agency has delayed the UGC NET 2026 exam city intimation slip release; new date to be announced.",
+    "quick": "The UGC NET 2026 exam city slip release has been postponed. The National Testing Agency will announce a new release date for the city intimation slip.",
+    "points": [
+      "UGC NET 2026 city slip release delayed",
+      "New date to be announced by NTA",
+      "Original release date not specified"
+    ],
+    "body": [
+      "The National Testing Agency has postponed the release of the UGC NET 2026 exam city intimation slip. The agency did not specify the original scheduled date.",
+      "A new release date for the city slip will be announced by the testing agency. Candidates should check official channels for updates."
+    ],
+    "faq": [
+      {
+        "q": "When will the UGC NET 2026 city slip be released?",
+        "a": "The National Testing Agency has not announced a new date yet; it will be released later."
+      },
+      {
+        "q": "Why was the city slip release postponed?",
+        "a": "The source does not state a reason for the postponement."
+      }
+    ],
+    "keywords": [
+      "ugc net 2026",
+      "exam city slip",
+      "nta",
+      "postponed",
+      "admit card"
+    ],
+    "date": "2026-11-24T04:27:15.983Z",
+    "updated": "2026-11-24T04:27:15.983Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/competitive-exams/ugc-net-exam-city-slip-2026-release-date-postponed-check-new-date-here-101795492507724.html",
+      "title": "UGC NET Exam City Slip 2026 release date postponed, check new date here",
+      "published": "2026-11-24T04:01:19.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "e02a1299aa",
+    "slug": "maharashtra-cm-meets-nilekani-somanath-on-exam-reforms",
+    "kind": "news",
+    "category": "more",
+    "title": "Maharashtra CM meets Nilekani, Somanath on exam reforms",
+    "description": "Maharashtra Chief Minister Devendra Fadnavis held discussions with Nandan Nilekani and S Somanath regarding examination system reforms and security measures.",
+    "quick": "Maharashtra Chief Minister Devendra Fadnavis met with Nandan Nilekani and former ISRO chief S Somanath to discuss examination reforms and security. Prime Minister Narendra Modi emphasized the need for a reliable and transparent examination system with increased technology use, and said a task force would submit a report on the…",
+    "points": [
+      "CM Fadnavis met Nilekani and Somanath on exam reforms",
+      "PM Modi stressed reliable, transparent exam system",
+      "Task force to submit report on examination changes",
+      "Greater technology use planned for examinations"
+    ],
+    "body": [
+      "Maharashtra Chief Minister Devendra Fadnavis held a meeting with Nandan Nilekani and former ISRO chairman S Somanath to discuss reforms in the examination system and security measures. The meeting focused on improving how examinations are conducted in the state.",
+      "Prime Minister Narendra Modi emphasized the need for a reliable and transparent examination system with greater use of technology. He stated that a task force would submit a report on the proposed changes to the examination framework."
+    ],
+    "faq": [
+      {
+        "q": "Who did Maharashtra CM meet regarding exam reforms?",
+        "a": "Chief Minister Devendra Fadnavis met with Nandan Nilekani and former ISRO chief S Somanath to discuss examination reforms and security."
+      },
+      {
+        "q": "What did PM Modi say about the examination system?",
+        "a": "PM Modi stressed the need for a reliable and transparent examination system with greater use of technology, and said a task force would submit a report."
+      }
+    ],
+    "keywords": [
+      "maharashtra",
+      "examination reforms",
+      "fadnavis",
+      "nandan nilekani",
+      "s somanath",
+      "pm modi"
+    ],
+    "date": "2026-11-24T04:23:15.983Z",
+    "updated": "2026-11-24T04:23:15.983Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/news/maharashtra-cm-fadnavis-meets-nandan-nilekani-s-somanath-over-examination-reforms-and-security-101795491023746.html",
+      "title": "Maharashtra CM Fadnavis meets Nandan Nilekani, S Somanath over Examination reforms and security",
+      "published": "2026-11-24T03:33:02.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-24",
     "slug": "daily-briefing-24-november-2026",
     "kind": "briefing",

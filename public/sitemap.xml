@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-23T04:36:36.583Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
   <url><loc>https://news.thunderstudy.online/category/india/</loc><lastmod>2026-11-24T01:43:00.030Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/world/</loc><lastmod>2026-11-24T01:42:00.030Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/business/</loc><lastmod>2026-11-23T01:47:41.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -13,15 +13,18 @@
   <url><loc>https://news.thunderstudy.online/category/neet/</loc><lastmod>2026-11-19T04:21:40.893Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/banking/</loc><lastmod>2026-11-22T04:22:32.660Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/mp/</loc><lastmod>2026-11-17T04:21:31.161Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/more/</loc><lastmod>2026-11-20T04:17:30.221Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-22T04:22:33.660Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/more/</loc><lastmod>2026-11-24T04:27:15.983Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/study-briefing-24-november-2026/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/study-briefing-24-november-2026.png</image:loc><image:title>Study Briefing: 2 exam and job updates for 24 November 2026</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/ugc-net-2026-exam-city-slip-release-postponed/</loc><lastmod>2026-11-24T04:27:15.983Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/ugc-net-2026-exam-city-slip-release-postponed.png</image:loc><image:title>UGC NET 2026 exam city slip release postponed</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms/</loc><lastmod>2026-11-24T04:23:15.983Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms.png</image:loc><image:title>Maharashtra CM meets Nilekani, Somanath on exam reforms</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/daily-briefing-24-november-2026/</loc><lastmod>2026-11-24T01:46:01.030Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/daily-briefing-24-november-2026.png</image:loc><image:title>Daily Briefing: 2 stories to know on 24 November 2026</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls/</loc><lastmod>2026-11-24T01:43:00.030Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls.png</image:loc><image:title>SP, Congress begin seat-sharing talks for Uttar Pradesh polls</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/trump-orders-pause-on-iowa-lead-explosives-detonation/</loc><lastmod>2026-11-24T01:42:00.030Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/trump-orders-pause-on-iowa-lead-explosives-detonation.png</image:loc><image:title>Trump orders pause on Iowa lead explosives detonation</image:title></image:image></url>

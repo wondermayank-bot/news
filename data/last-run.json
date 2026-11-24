@@ -1,28 +1,28 @@
 {
-  "at": "2026-11-24T01:49:44.909Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
+  "at": "2026-11-24T04:32:58.255Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
   "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-24-november-2026/",
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-24-november-2026/",
   "items": [
     {
-      "title": "SP, Congress begin seat-sharing talks for Uttar Pradesh polls",
-      "url": "https://news.thunderstudy.online/news/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls/",
-      "category": "India",
+      "title": "UGC NET 2026 exam city slip release postponed",
+      "url": "https://news.thunderstudy.online/study/ugc-net-2026-exam-city-slip-release-postponed/",
+      "category": "More Exams",
       "official": false
     },
     {
-      "title": "Trump orders pause on Iowa lead explosives detonation",
-      "url": "https://news.thunderstudy.online/news/trump-orders-pause-on-iowa-lead-explosives-detonation/",
-      "category": "World",
+      "title": "Maharashtra CM meets Nilekani, Somanath on exam reforms",
+      "url": "https://news.thunderstudy.online/study/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms/",
+      "category": "More Exams",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/sp-congress-begin-seat-sharing-talks-for-uttar-pradesh-polls/",
-    "https://news.thunderstudy.online/news/trump-orders-pause-on-iowa-lead-explosives-detonation/",
+    "https://news.thunderstudy.online/study/ugc-net-2026-exam-city-slip-release-postponed/",
+    "https://news.thunderstudy.online/study/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",
