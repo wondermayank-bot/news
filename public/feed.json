@@ -9,6 +9,25 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
+      "url": "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
+      "title": "SSC CHSL 2026 Tier I exam city slip released",
+      "summary": "Staff Selection Commission publishes exam city intimation for CHSL Tier I computer-based test; admit card date also available.",
+      "content_text": "The Staff Selection Commission has released the exam city slip for the SSC CHSL 2026 Tier I computer-based test. Candidates can check their allotted exam city on the official website ssc.gov.in. The admit card release date has also been announced.\n- SSC CHSL 2026 Tier I exam city slip published\n- Available on ssc.gov.in for candidates\n- Admit card release date also provided\n- Tier I is a computer-based test",
+      "date_published": "2026-11-25T04:31:44.978Z",
+      "date_modified": "2026-11-25T04:31:44.978Z",
+      "tags": [
+        "SSC",
+        "ssc chsl 2026",
+        "exam city slip",
+        "tier i cbt",
+        "admit card date",
+        "ssc.gov.in"
+      ],
+      "image": "https://news.thunderstudy.online/og/ssc-chsl-2026-tier-i-exam-city-slip-released.png",
+      "external_url": "https://www.hindustantimes.com/education/competitive-exams/ssc-chsl-exam-city-slip-2026-for-tier-i-cbt-exam-released-at-ssc-gov-in-check-admit-card-release-date-101795494308100.html"
+    },
+    {
       "id": "https://news.thunderstudy.online/news/daily-briefing-25-november-2026/",
       "url": "https://news.thunderstudy.online/news/daily-briefing-25-november-2026/",
       "title": "Daily Briefing: 3 stories to know on 25 November 2026",
@@ -727,23 +746,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/neet-ss-2026-registration-closes-today-exam-in-december.png",
       "external_url": "https://www.hindustantimes.com/education/competitive-exams/neet-ss-2026-last-date-today-to-apply-at-nbe-edu-in-exam-to-be-held-in-december-101794980766287.html"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
-      "url": "https://news.thunderstudy.online/news/daily-briefing-19-november-2026/",
-      "title": "Daily Briefing: 2 stories to know on 19 November 2026",
-      "summary": "Your 19 November 2026 news briefing: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104…",
-      "content_text": "Top stories on 19 November 2026: Xi, Trump and Putin exchange greetings ahead of China summit; Anthropic raises $81.3 billion in IPO despite $104 billion loss.\n- Xi, Trump and Putin exchange greetings ahead of China summit\n- Anthropic raises $81.3 billion in IPO despite $104 billion loss",
-      "date_published": "2026-11-19T01:45:02.895Z",
-      "date_modified": "2026-11-19T01:45:02.895Z",
-      "tags": [
-        "Daily Briefing",
-        "daily news briefing",
-        "today headlines",
-        "india news today",
-        "top stories"
-      ],
-      "image": "https://news.thunderstudy.online/og/daily-briefing-19-november-2026.png"
     }
   ]
 }

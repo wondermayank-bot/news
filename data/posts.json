@@ -1,5 +1,52 @@
 [
   {
+    "id": "37e9f73480",
+    "slug": "ssc-chsl-2026-tier-i-exam-city-slip-released",
+    "kind": "news",
+    "category": "ssc",
+    "title": "SSC CHSL 2026 Tier I exam city slip released",
+    "description": "Staff Selection Commission publishes exam city intimation for CHSL Tier I computer-based test; admit card date also available.",
+    "quick": "The Staff Selection Commission has released the exam city slip for the SSC CHSL 2026 Tier I computer-based test. Candidates can check their allotted exam city on the official website ssc.gov.in. The admit card release date has also been announced.",
+    "points": [
+      "SSC CHSL 2026 Tier I exam city slip published",
+      "Available on ssc.gov.in for candidates",
+      "Admit card release date also provided",
+      "Tier I is a computer-based test"
+    ],
+    "body": [
+      "The Staff Selection Commission has released the exam city intimation slip for the Combined Higher Secondary Level (CHSL) 2026 Tier I examination. Candidates can access the slip on the official SSC website to know their allotted exam city.",
+      "The commission has also indicated the date when admit cards will be made available for download. The Tier I stage is conducted as a computer-based test."
+    ],
+    "faq": [
+      {
+        "q": "Where can I check my SSC CHSL 2026 exam city?",
+        "a": "The exam city slip is available on the official SSC website at ssc.gov.in."
+      },
+      {
+        "q": "When will the SSC CHSL 2026 Tier I admit card be released?",
+        "a": "The admit card release date has been announced and can be checked on the SSC website along with the exam city slip."
+      }
+    ],
+    "keywords": [
+      "ssc chsl 2026",
+      "exam city slip",
+      "tier i cbt",
+      "admit card date",
+      "ssc.gov.in"
+    ],
+    "date": "2026-11-25T04:31:44.978Z",
+    "updated": "2026-11-25T04:31:44.978Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/competitive-exams/ssc-chsl-exam-city-slip-2026-for-tier-i-cbt-exam-released-at-ssc-gov-in-check-admit-card-release-date-101795494308100.html",
+      "title": "SSC CHSL Exam City Slip 2026 for Tier I CBT exam released at ssc.gov.in, check admit card release date",
+      "published": "2026-11-24T04:28:43.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-news-2026-11-25",
     "slug": "daily-briefing-25-november-2026",
     "kind": "briefing",
