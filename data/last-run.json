@@ -1,28 +1,35 @@
 {
-  "at": "2026-11-24T04:32:58.255Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
-  "added": 2,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
-  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-24-november-2026/",
+  "at": "2026-11-25T01:54:45.837Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
+  "added": 3,
+  "sectionUrl": "https://news.thunderstudy.online/",
+  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-25-november-2026/",
   "items": [
     {
-      "title": "UGC NET 2026 exam city slip release postponed",
-      "url": "https://news.thunderstudy.online/study/ugc-net-2026-exam-city-slip-release-postponed/",
-      "category": "More Exams",
+      "title": "McInnes: Rangers' naivety and complacency made win harder",
+      "url": "https://news.thunderstudy.online/news/mcinnes-rangers-naivety-and-complacency-made-win-harder/",
+      "category": "Sports",
       "official": false
     },
     {
-      "title": "Maharashtra CM meets Nilekani, Somanath on exam reforms",
-      "url": "https://news.thunderstudy.online/study/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms/",
-      "category": "More Exams",
+      "title": "Trump administration to announce new tariffs after factory capacity probe",
+      "url": "https://news.thunderstudy.online/news/trump-administration-to-announce-new-tariffs-after-factory-capacity/",
+      "category": "World",
+      "official": false
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan",
+      "url": "https://news.thunderstudy.online/news/nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan/",
+      "category": "Business",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/ugc-net-2026-exam-city-slip-release-postponed/",
-    "https://news.thunderstudy.online/study/maharashtra-cm-meets-nilekani-somanath-on-exam-reforms/",
+    "https://news.thunderstudy.online/news/mcinnes-rangers-naivety-and-complacency-made-win-harder/",
+    "https://news.thunderstudy.online/news/trump-administration-to-announce-new-tariffs-after-factory-capacity/",
+    "https://news.thunderstudy.online/news/nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

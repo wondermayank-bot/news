@@ -1,5 +1,209 @@
 [
   {
+    "id": "briefing-news-2026-11-25",
+    "slug": "daily-briefing-25-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 3 stories to know on 25 November 2026",
+    "description": "Your 25 November 2026 news briefing: McInnes: Rangers' naivety and complacency made win harder; Trump administration to announce new tariffs after factory…",
+    "quick": "Top stories on 25 November 2026: McInnes: Rangers' naivety and complacency made win harder; Trump administration to announce new tariffs after factory capacity probe; Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan.",
+    "points": [
+      "McInnes: Rangers' naivety and complacency made win harder",
+      "Trump administration to announce new tariffs after factory capacity probe",
+      "Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "mcinnes-rangers-naivety-and-complacency-made-win-harder",
+        "title": "McInnes: Rangers' naivety and complacency made win harder",
+        "description": "Rangers manager Derek McInnes said naivety and complacency made the 3-2 win over Aberdeen harder, but praised his side for getting the job done.",
+        "category": "sports"
+      },
+      {
+        "slug": "trump-administration-to-announce-new-tariffs-after-factory-capacity",
+        "title": "Trump administration to announce new tariffs after factory capacity probe",
+        "description": "U.S. Trade Representative's office expected to propose additional duties stacking on existing tariffs from Trump's second term, targeting excess factory…",
+        "category": "world"
+      },
+      {
+        "slug": "nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan",
+        "title": "Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan",
+        "description": "Nvidia CEO Jensen Huang told employees he is in therapy after returning as CEO, apologized for mistakes, denied political pressure, and defended no succession…",
+        "category": "business"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 25 November 2026?",
+        "a": "The top stories on 25 November 2026 are: McInnes: Rangers' naivety and complacency made win harder; Trump administration to announce new tariffs after factory capacity probe; Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-25T01:50:21.490Z",
+    "updated": "2026-11-25T01:50:21.490Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "995d4c29f9",
+    "slug": "mcinnes-rangers-naivety-and-complacency-made-win-harder",
+    "kind": "news",
+    "category": "sports",
+    "title": "McInnes: Rangers' naivety and complacency made win harder",
+    "description": "Rangers manager Derek McInnes said naivety and complacency made the 3-2 win over Aberdeen harder, but praised his side for getting the job done.",
+    "quick": "Rangers manager Derek McInnes said his team's naivety and complacency made their task more difficult during a thrilling 3-2 win over Aberdeen. Despite those problems, he praised the players for getting the job done and securing the result.",
+    "points": [
+      "Rangers beat Aberdeen 3-2 in a match described as thrilling.",
+      "Manager Derek McInnes said naivety and complacency made the task harder.",
+      "McInnes praised his team's ability to get the job done.",
+      "The comments came after the win, according to BBC Sport."
+    ],
+    "body": [
+      "Rangers manager Derek McInnes said his side's naivety and complacency made their task more difficult in a thrilling 3-2 win over Aberdeen. He still praised the team for getting the job done.",
+      "According to the manager, the problems within the performance added to the challenge rather than the result coming easily. His assessment focused on how his players handled the game rather than on the scoreline alone.",
+      "The comments matter because they show the manager sees room for improvement even after a win. For Rangers, the result stands, but McInnes has flagged the attitude and decision-making within the match as areas that made the night harder than it needed to be."
+    ],
+    "faq": [
+      {
+        "q": "What did Derek McInnes say about Rangers' win over Aberdeen?",
+        "a": "He said naivety and complacency made the task more difficult, but he praised the team's ability to get the job done in the 3-2 win."
+      },
+      {
+        "q": "What was the score in the Rangers vs Aberdeen match?",
+        "a": "Rangers won the match 3-2, a result described as thrilling."
+      },
+      {
+        "q": "Who is the Rangers manager?",
+        "a": "Derek McInnes is the Rangers manager, according to BBC Sport."
+      }
+    ],
+    "keywords": [
+      "rangers",
+      "aberdeen",
+      "derek mcinnes",
+      "scottish football",
+      "3-2 win"
+    ],
+    "date": "2026-11-25T01:49:20.490Z",
+    "updated": "2026-11-25T01:49:20.490Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
+      "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
+      "published": "2026-11-25T01:20:53.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "33902beebc",
+    "slug": "trump-administration-to-announce-new-tariffs-after-factory-capacity",
+    "kind": "news",
+    "category": "world",
+    "title": "Trump administration to announce new tariffs after factory capacity probe",
+    "description": "U.S. Trade Representative's office expected to propose additional duties stacking on existing tariffs from Trump's second term, targeting excess factory…",
+    "quick": "The Trump administration is preparing to announce new tariffs following an investigation into excess factory capacity. The U.S. Trade Representative's office plans to propose additional duties that would be added to tariffs already imposed during Trump's second term, according to sources.",
+    "points": [
+      "New tariffs expected after probe into excess factory capacity",
+      "USTR to propose duties stacking on existing second-term tariffs",
+      "Announcement based on unnamed sources",
+      "Previous tariffs already in place from Trump's second term"
+    ],
+    "body": [
+      "The Trump administration is set to unveil new tariffs following a probe into excess factory capacity. The U.S. Trade Representative's office is expected to propose additional duties that would be layered on top of tariffs already imposed during President Trump's second term.",
+      "Sources indicate the new duties would stack on existing measures, though specific rates or target countries were not disclosed. The investigation focused on industrial overcapacity as the basis for the proposed action.",
+      "The move could affect global trade flows and industries subject to previous tariffs. Businesses and trading partners may face additional costs if the new duties are implemented as described."
+    ],
+    "faq": [
+      {
+        "q": "What is the basis for the new tariffs?",
+        "a": "The tariffs follow a probe into excess factory capacity, according to sources."
+      },
+      {
+        "q": "How do the new tariffs relate to existing ones?",
+        "a": "The proposed duties would stack on top of tariffs already imposed during Trump's second term."
+      }
+    ],
+    "keywords": [
+      "trump tariffs",
+      "ustr",
+      "factory capacity",
+      "trade policy",
+      "new duties"
+    ],
+    "date": "2026-11-25T01:47:20.490Z",
+    "updated": "2026-11-25T01:47:20.490Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece",
+      "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity: sources",
+      "published": "2026-11-25T01:44:51.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "ccf680ba13",
+    "slug": "nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan",
+    "kind": "news",
+    "category": "business",
+    "title": "Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan",
+    "description": "Nvidia CEO Jensen Huang told employees he is in therapy after returning as CEO, apologized for mistakes, denied political pressure, and defended no succession…",
+    "quick": "At an all-hands meeting, Nvidia CEO Jensen Huang told employees he is in therapy after returning as CEO. He apologized for serious mistakes, denied political pressure influenced his reinstatement, rejected claims he was above the law, and defended the company's lack of a succession plan.",
+    "points": [
+      "Huang returned as CEO and apologized for serious mistakes",
+      "Huang said he is in therapy",
+      "Huang denied political pressure behind his reinstatement",
+      "Huang rejected claims he was above the law",
+      "Huang defended Nvidia's lack of a succession plan"
+    ],
+    "body": [
+      "Nvidia CEO Jensen Huang held an all-hands meeting where he addressed employees after returning to the chief executive role. He acknowledged making serious mistakes and disclosed he is currently in therapy.",
+      "Huang denied that political pressure played any role in his reinstatement and pushed back against suggestions he considered himself above the law. He also stood by the company's decision not to have a formal succession plan in place."
+    ],
+    "faq": [
+      {
+        "q": "Why did Jensen Huang apologize to Nvidia employees?",
+        "a": "He said he had made serious mistakes after returning as CEO."
+      },
+      {
+        "q": "Does Nvidia have a succession plan?",
+        "a": "Huang defended the company's lack of a succession plan."
+      }
+    ],
+    "keywords": [
+      "nvidia",
+      "jensen huang",
+      "ceo",
+      "therapy",
+      "succession plan"
+    ],
+    "date": "2026-11-25T01:46:20.490Z",
+    "updated": "2026-11-25T01:46:20.490Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Mint",
+      "url": "https://www.livemint.com/companies/people/nvidia-all-hands-meeting-jensen-huang-tells-employees-he-is-in-therapy-still-doesn-t-believe-in-a-succession-plan-11795568676430.html",
+      "title": "Nvidia all-hands meeting: Jensen Huang tells employees he is in therapy, still doesn’t believe in a succession plan",
+      "published": "2026-11-25T01:18:30.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-24",
     "slug": "study-briefing-24-november-2026",
     "kind": "briefing",

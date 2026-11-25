@@ -9,6 +9,80 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-25-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-25-november-2026/",
+      "title": "Daily Briefing: 3 stories to know on 25 November 2026",
+      "summary": "Your 25 November 2026 news briefing: McInnes: Rangers' naivety and complacency made win harder; Trump administration to announce new tariffs after factory…",
+      "content_text": "Top stories on 25 November 2026: McInnes: Rangers' naivety and complacency made win harder; Trump administration to announce new tariffs after factory capacity probe; Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan.\n- McInnes: Rangers' naivety and complacency made win harder\n- Trump administration to announce new tariffs after factory capacity probe\n- Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan",
+      "date_published": "2026-11-25T01:50:21.490Z",
+      "date_modified": "2026-11-25T01:50:21.490Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-25-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/mcinnes-rangers-naivety-and-complacency-made-win-harder/",
+      "url": "https://news.thunderstudy.online/news/mcinnes-rangers-naivety-and-complacency-made-win-harder/",
+      "title": "McInnes: Rangers' naivety and complacency made win harder",
+      "summary": "Rangers manager Derek McInnes said naivety and complacency made the 3-2 win over Aberdeen harder, but praised his side for getting the job done.",
+      "content_text": "Rangers manager Derek McInnes said his team's naivety and complacency made their task more difficult during a thrilling 3-2 win over Aberdeen. Despite those problems, he praised the players for getting the job done and securing the result.\n- Rangers beat Aberdeen 3-2 in a match described as thrilling.\n- Manager Derek McInnes said naivety and complacency made the task harder.\n- McInnes praised his team's ability to get the job done.\n- The comments came after the win, according to BBC Sport.",
+      "date_published": "2026-11-25T01:49:20.490Z",
+      "date_modified": "2026-11-25T01:49:20.490Z",
+      "tags": [
+        "Sports",
+        "rangers",
+        "aberdeen",
+        "derek mcinnes",
+        "scottish football",
+        "3-2 win"
+      ],
+      "image": "https://news.thunderstudy.online/og/mcinnes-rangers-naivety-and-complacency-made-win-harder.png",
+      "external_url": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/trump-administration-to-announce-new-tariffs-after-factory-capacity/",
+      "url": "https://news.thunderstudy.online/news/trump-administration-to-announce-new-tariffs-after-factory-capacity/",
+      "title": "Trump administration to announce new tariffs after factory capacity probe",
+      "summary": "U.S. Trade Representative's office expected to propose additional duties stacking on existing tariffs from Trump's second term, targeting excess factory…",
+      "content_text": "The Trump administration is preparing to announce new tariffs following an investigation into excess factory capacity. The U.S. Trade Representative's office plans to propose additional duties that would be added to tariffs already imposed during Trump's second term, according to sources.\n- New tariffs expected after probe into excess factory capacity\n- USTR to propose duties stacking on existing second-term tariffs\n- Announcement based on unnamed sources\n- Previous tariffs already in place from Trump's second term",
+      "date_published": "2026-11-25T01:47:20.490Z",
+      "date_modified": "2026-11-25T01:47:20.490Z",
+      "tags": [
+        "World",
+        "trump tariffs",
+        "ustr",
+        "factory capacity",
+        "trade policy",
+        "new duties"
+      ],
+      "image": "https://news.thunderstudy.online/og/trump-administration-to-announce-new-tariffs-after-factory-capacity.png",
+      "external_url": "https://www.thehindu.com/news/international/trump-administration-set-to-unveil-new-tariffs-after-probeon-excess-factory-capacity-sources/article71740905.ece"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan/",
+      "url": "https://news.thunderstudy.online/news/nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan/",
+      "title": "Nvidia CEO Jensen Huang says he's in therapy, rejects succession plan",
+      "summary": "Nvidia CEO Jensen Huang told employees he is in therapy after returning as CEO, apologized for mistakes, denied political pressure, and defended no succession…",
+      "content_text": "At an all-hands meeting, Nvidia CEO Jensen Huang told employees he is in therapy after returning as CEO. He apologized for serious mistakes, denied political pressure influenced his reinstatement, rejected claims he was above the law, and defended the company's lack of a succession plan.\n- Huang returned as CEO and apologized for serious mistakes\n- Huang said he is in therapy\n- Huang denied political pressure behind his reinstatement\n- Huang rejected claims he was above the law\n- Huang defended Nvidia's lack of a succession plan",
+      "date_published": "2026-11-25T01:46:20.490Z",
+      "date_modified": "2026-11-25T01:46:20.490Z",
+      "tags": [
+        "Business",
+        "nvidia",
+        "jensen huang",
+        "ceo",
+        "therapy",
+        "succession plan"
+      ],
+      "image": "https://news.thunderstudy.online/og/nvidia-ceo-jensen-huang-says-hes-in-therapy-rejects-succession-plan.png",
+      "external_url": "https://www.livemint.com/companies/people/nvidia-all-hands-meeting-jensen-huang-tells-employees-he-is-in-therapy-still-doesn-t-believe-in-a-succession-plan-11795568676430.html"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-24-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-24-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 24 November 2026",
@@ -670,81 +744,6 @@
         "top stories"
       ],
       "image": "https://news.thunderstudy.online/og/daily-briefing-19-november-2026.png"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
-      "url": "https://news.thunderstudy.online/news/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit/",
-      "title": "Xi, Trump and Putin exchange greetings ahead of China summit",
-      "summary": "Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a historic China summit on November 19, with the meeting's agenda still unclear.",
-      "content_text": "The leaders of China, the United States and Russia, Xi Jinping, Donald Trump and Vladimir Putin, exchanged greetings ahead of a historic summit in China on November 19. The agenda of the meeting was not clear, and it has raised fears of a carve-up into new spheres of influence.\n- Xi Jinping, Donald Trump and Vladimir Putin exchanged greetings before a summit in China.\n- The meeting was described as historic and was scheduled for November 19.\n- The agenda for the meeting was unclear, according to the source.\n- The summit has raised fears of a carve-up into new spheres of influence.",
-      "date_published": "2026-11-19T01:42:01.895Z",
-      "date_modified": "2026-11-19T01:42:01.895Z",
-      "tags": [
-        "World",
-        "xi jinping",
-        "donald trump",
-        "vladimir putin",
-        "china summit",
-        "spheres of influence"
-      ],
-      "image": "https://news.thunderstudy.online/og/xi-trump-and-putin-exchange-greetings-ahead-of-china-summit.png",
-      "external_url": "https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
-      "url": "https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/",
-      "title": "Anthropic raises $81.3 billion in IPO despite $104 billion loss",
-      "summary": "Anthropic priced shares at $83 and sold more than planned as Claude Code drove revenue growth, though the company reported a massive net loss.",
-      "content_text": "Anthropic completed its initial public offering, raising $81.3 billion by pricing shares at $83 and selling more shares than originally planned. The company's revenue surged on the popularity of its Claude Code product, but it simultaneously reported a net loss of $104 billion.\n- Anthropic raised $81.3 billion in its IPO\n- Shares priced at $83 with oversubscribed offering\n- Revenue grew as Claude Code gained popularity\n- Company reported $104 billion net loss",
-      "date_published": "2026-11-19T01:41:01.895Z",
-      "date_modified": "2026-11-19T01:41:01.895Z",
-      "tags": [
-        "Business",
-        "anthropic",
-        "ipo",
-        "claude code",
-        "artificial intelligence",
-        "wall street"
-      ],
-      "image": "https://news.thunderstudy.online/og/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss.png",
-      "external_url": "https://www.livemint.com/companies/news/anthropic-raised-81-billion-in-ipo-despite-104-billion-loss-why-wall-street-is-betting-big-on-claude-11795049829392.html"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
-      "url": "https://news.thunderstudy.online/study/study-briefing-18-november-2026/",
-      "title": "Study Briefing: 2 exam and job updates for 18 November 2026",
-      "summary": "Your 18 November 2026 study briefing: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after…",
-      "content_text": "Exam and job updates on 18 November 2026: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after father's 25-year sacrifice.\n- CBSE to train Class 9-10 vocational teachers in financial literacy\n- Siblings become IAS and IPS officers after father's 25-year sacrifice",
-      "date_published": "2026-11-18T04:24:04.851Z",
-      "date_modified": "2026-11-18T04:24:04.851Z",
-      "tags": [
-        "Study Briefing",
-        "study news",
-        "exam updates today",
-        "govt exam notices",
-        "study briefing"
-      ],
-      "image": "https://news.thunderstudy.online/og/study-briefing-18-november-2026.png"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
-      "url": "https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/",
-      "title": "CBSE to train Class 9-10 vocational teachers in financial literacy",
-      "summary": "CBSE will train Class 9-10 vocational teachers in financial literacy and markets for the 2026-27 syllabus. Free online registration runs till November 20.",
-      "content_text": "CBSE will train vocational teachers of Classes 9 and 10 in financial literacy and markets for the 2026-27 syllabus. Registration is free and online, and stays open till November 20. The board says financial literacy matters as online transactions, investments and financial services become part of daily life.\n- CBSE is training Class 9-10 vocational teachers in financial literacy and markets.\n- The training is linked to the 2026-27 syllabus.\n- Registration is free and done online.\n- The registration window closes on November 20.\n- CBSE says financial literacy is essential in a digital world.",
-      "date_published": "2026-11-18T04:23:03.851Z",
-      "date_modified": "2026-11-18T04:23:03.851Z",
-      "tags": [
-        "CBSE",
-        "cbse",
-        "financial literacy",
-        "teacher training",
-        "vocational teachers",
-        "class 9-10",
-        "2026-27 syllabus"
-      ],
-      "image": "https://news.thunderstudy.online/og/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy.png",
-      "external_url": "https://timesofindia.indiatimes.com/city/delhi/teachers-to-get-training-in-financial-literacy/articleshow/135929172.cms"
     }
   ]
 }
