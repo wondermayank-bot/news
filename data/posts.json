@@ -1,5 +1,154 @@
 [
   {
+    "id": "briefing-study-2026-11-26",
+    "slug": "study-briefing-26-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 2 exam and job updates for 26 November 2026",
+    "description": "Your 26 November 2026 study briefing: UGC regulations may allow cancellation of foreign campus approvals; Three-language students can continue, Supreme…",
+    "quick": "Exam and job updates on 26 November 2026: UGC regulations may allow cancellation of foreign campus approvals; Three-language students can continue, Supreme Court says.",
+    "points": [
+      "UGC regulations may allow cancellation of foreign campus approvals",
+      "Three-language students can continue, Supreme Court says"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals",
+        "title": "UGC regulations may allow cancellation of foreign campus approvals",
+        "description": "University Grants Commission can revoke foreign university campus approvals for activities deemed against India's interest and impose additional conditions at…",
+        "category": "more"
+      },
+      {
+        "slug": "three-language-students-can-continue-supreme-court-says",
+        "title": "Three-language students can continue, Supreme Court says",
+        "description": "The Supreme Court has allowed students who opted for three languages to continue with them, affecting CBSE students in Classes 7, 8 and 9.",
+        "category": "cbse"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 26 November 2026?",
+        "a": "The top exam and job updates on 26 November 2026 are: UGC regulations may allow cancellation of foreign campus approvals; Three-language students can continue, Supreme Court says."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-26T04:32:21.358Z",
+    "updated": "2026-11-26T04:32:21.358Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "6c30a303d4",
+    "slug": "ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals",
+    "kind": "news",
+    "category": "more",
+    "title": "UGC regulations may allow cancellation of foreign campus approvals",
+    "description": "University Grants Commission can revoke foreign university campus approvals for activities deemed against India's interest and impose additional conditions at…",
+    "quick": "The University Grants Commission's regulations for foreign university campuses in India allow the commission to cancel approvals if activities are considered against the interest of India. The UGC can also impose additional conditions at any time, and the commission itself holds the authority to interpret these regulations.",
+    "points": [
+      "UGC may cancel foreign campus approvals for activities against India's interest",
+      "UGC can impose additional conditions on foreign campuses at any time",
+      "The Commission itself interprets the regulations",
+      "Regulations apply to foreign university campuses operating in India",
+      "Approval cancellation is discretionary under the rules"
+    ],
+    "body": [
+      "The University Grants Commission has regulations that grant it broad powers over foreign university campuses operating in India. These rules allow the commission to revoke approvals if campus activities are deemed contrary to India's national interest.",
+      "The regulations also permit the UGC to impose new conditions on foreign campuses at any time without prior notice. The commission retains sole authority to interpret the meaning and application of these regulations.",
+      "These provisions create uncertainty for foreign institutions planning to establish campuses in India. The discretionary nature of approval cancellation and condition changes may affect long-term planning and investment decisions by international universities."
+    ],
+    "faq": [
+      {
+        "q": "What powers does UGC have over foreign university campuses in India?",
+        "a": "UGC can cancel approvals for activities against India's interest and impose additional conditions at any time."
+      },
+      {
+        "q": "Who interprets the UGC regulations for foreign campuses?",
+        "a": "The Commission itself holds the authority to interpret the regulations."
+      }
+    ],
+    "keywords": [
+      "ugc regulations",
+      "foreign university campuses",
+      "india education policy",
+      "approval cancellation",
+      "higher education"
+    ],
+    "date": "2026-11-26T04:32:20.358Z",
+    "updated": "2026-11-26T04:32:20.358Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/education/are-ugc-regulations-becoming-a-barrier-for-foreign-university-campuses-in-india/article71742739.ece",
+      "title": "Are UGC regulations becoming a barrier for foreign university campuses in India?",
+      "published": "2026-11-25T13:56:10.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "ecd1b16821",
+    "slug": "three-language-students-can-continue-supreme-court-says",
+    "kind": "news",
+    "category": "cbse",
+    "title": "Three-language students can continue, Supreme Court says",
+    "description": "The Supreme Court has allowed students who opted for three languages to continue with them, affecting CBSE students in Classes 7, 8 and 9.",
+    "quick": "The Supreme Court has said that students who opted for three languages can continue with them. The order concerns CBSE students in Classes 7, 8 and 9, who had been given a transitional relaxation from the Board exam in the third language when they reached Class 10.",
+    "points": [
+      "Supreme Court allowed students who chose three languages to continue with them.",
+      "The ruling covers CBSE students in Classes 7, 8 and 9.",
+      "These students had a transitional relaxation from the Class 10 Board exam in the third language."
+    ],
+    "body": [
+      "The Supreme Court has said that students who opted for three languages can continue with them. The direction was reported on November 25, 2026.",
+      "According to the source, Class 7 students, along with those in Classes 8 and 9, had been granted a transitional relaxation from the CBSE Board exam in the third language when they reached Class 10.",
+      "The decision is relevant to CBSE students who are studying a third language and were set to appear for the Class 10 Board exam in that subject."
+    ],
+    "faq": [
+      {
+        "q": "What did the Supreme Court say about the three-language option?",
+        "a": "The court said students who opted for three languages can continue with them."
+      },
+      {
+        "q": "Which students does this apply to?",
+        "a": "It concerns CBSE students in Classes 7, 8 and 9, who had been granted a transitional relaxation from the Board exam in the third language when they reached Class 10."
+      },
+      {
+        "q": "What was the relaxation about?",
+        "a": "It was a transitional relaxation from the CBSE Board exam in the third language for these students when they reached Class 10."
+      }
+    ],
+    "keywords": [
+      "supreme court",
+      "three languages",
+      "cbse",
+      "class 10 board exam",
+      "students"
+    ],
+    "date": "2026-11-26T04:31:20.358Z",
+    "updated": "2026-11-26T04:31:20.358Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/education/students-who-opted-for-three-languages-can-continue-with-them-says-supreme-court/article71743644.ece",
+      "title": "Students who opted for three languages can continue with them, says Supreme Court",
+      "published": "2026-11-25T18:17:29.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "4bbbf05861",
     "slug": "john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell",
     "kind": "news",

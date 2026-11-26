@@ -1,21 +1,28 @@
 {
-  "at": "2026-11-26T01:54:15.426Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": null,
+  "at": "2026-11-26T04:37:36.683Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 2,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-26-november-2026/",
   "items": [
     {
-      "title": "John Wright recalls spotting Jasprit Bumrah's yorker spell",
-      "url": "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
-      "category": "Sports",
+      "title": "UGC regulations may allow cancellation of foreign campus approvals",
+      "url": "https://news.thunderstudy.online/study/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals/",
+      "category": "More Exams",
+      "official": false
+    },
+    {
+      "title": "Three-language students can continue, Supreme Court says",
+      "url": "https://news.thunderstudy.online/study/three-language-students-can-continue-supreme-court-says/",
+      "category": "CBSE",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
+    "https://news.thunderstudy.online/study/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals/",
+    "https://news.thunderstudy.online/study/three-language-students-can-continue-supreme-court-says/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

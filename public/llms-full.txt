@@ -1,5 +1,38 @@
 # ThunderStudy News: recent stories (full text index)
 
+## Study Briefing: 2 exam and job updates for 26 November 2026
+URL: https://news.thunderstudy.online/study/study-briefing-26-november-2026/
+Published: 2026-11-26T04:32:21.358Z
+Topic: Study Briefing
+Quick answer: Exam and job updates on 26 November 2026: UGC regulations may allow cancellation of foreign campus approvals; Three-language students can continue, Supreme Court says.
+Key points:
+- UGC regulations may allow cancellation of foreign campus approvals
+- Three-language students can continue, Supreme Court says
+
+## UGC regulations may allow cancellation of foreign campus approvals
+URL: https://news.thunderstudy.online/study/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals/
+Published: 2026-11-26T04:32:20.358Z
+Topic: More Exams
+Quick answer: The University Grants Commission's regulations for foreign university campuses in India allow the commission to cancel approvals if activities are considered against the interest of India. The UGC can also impose additional conditions at any time, and the commission itself holds the authority to interpret these regulations.
+Key points:
+- UGC may cancel foreign campus approvals for activities against India's interest
+- UGC can impose additional conditions on foreign campuses at any time
+- The Commission itself interprets the regulations
+- Regulations apply to foreign university campuses operating in India
+- Approval cancellation is discretionary under the rules
+Original source: The Hindu - https://www.thehindu.com/education/are-ugc-regulations-becoming-a-barrier-for-foreign-university-campuses-in-india/article71742739.ece
+
+## Three-language students can continue, Supreme Court says
+URL: https://news.thunderstudy.online/study/three-language-students-can-continue-supreme-court-says/
+Published: 2026-11-26T04:31:20.358Z
+Topic: CBSE
+Quick answer: The Supreme Court has said that students who opted for three languages can continue with them. The order concerns CBSE students in Classes 7, 8 and 9, who had been given a transitional relaxation from the Board exam in the third language when they reached Class 10.
+Key points:
+- Supreme Court allowed students who chose three languages to continue with them.
+- The ruling covers CBSE students in Classes 7, 8 and 9.
+- These students had a transitional relaxation from the Class 10 Board exam in the third language.
+Original source: The Hindu - https://www.thehindu.com/education/students-who-opted-for-three-languages-can-continue-with-them-says-supreme-court/article71743644.ece
+
 ## John Wright recalls spotting Jasprit Bumrah's yorker spell
 URL: https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/
 Published: 2026-11-26T01:50:09.500Z
@@ -643,40 +676,3 @@ Key points:
 - Clothing factories shut down due to strike action
 - Demand equals approximately £182 per month
 Original source: BBC News - https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss
-
-## Suspected China spy linked to Nvidia ex-boss left in 2025
-URL: https://news.thunderstudy.online/news/suspected-china-spy-linked-to-nvidia-ex-boss-left-in-2025/
-Published: 2026-11-16T01:52:01.909Z
-Topic: Business
-Quick answer: Megaspeed says a suspected China spy linked to Nvidia's former boss left in 2025. The Nvidia scandal has raised questions over whether advanced AI chips ended up in China despite US restrictions. The source gives no further details on the case.
-Key points:
-- Megaspeed says a suspected China spy linked to Nvidia's ex-boss left in 2025.
-- The Nvidia scandal raises questions over advanced AI chips reaching China.
-- The concern exists despite US restrictions on such chips.
-- The source gives no further details about the case.
-Original source: BBC News - https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss
-
-## RBI to auction 91-day, 182-day and 364-day Treasury Bills on Nov 18
-URL: https://news.thunderstudy.online/study/rbi-to-auction-91-day-182-day-and-364-day-treasury-bills-on-nov-18/
-Published: 2026-11-15T04:15:53.059Z
-Topic: Banking
-Quick answer: The Reserve Bank of India has announced an auction of three Government of India Treasury Bills on November 18, 2026, totalling ₹23,000 crore. The 91-day and 182-day bills are notified at ₹8,000 crore each, and the 364-day bill at ₹7,000 crore. Settlement is on November 19, 2026.
-Key points:
-- The 91-day and 182-day bills are notified at ₹8,000 crore each.
-- The 364-day bill is notified at ₹7,000 crore, taking the total to ₹23,000 crore.
-- Bids will be submitted electronically on the RBI's E-Kuber system on November 18.
-- Retail investors can bid non-competitively, capped at 5 percent of the notified amount.
-- Successful bidders must pay on November 19, 2026.
-Original source: RBI - https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63975
-
-## Anthropic's high valuation may not protect its edge
-URL: https://news.thunderstudy.online/news/anthropics-high-valuation-may-not-protect-its-edge/
-Published: 2026-11-15T01:36:10.628Z
-Topic: Technology
-Quick answer: A report in The Hindu questions whether Anthropic's valuation protects its business. It says the company's engineers must keep building progressively more capable models, and that Anthropic has not shown it can stay profitable once it meets its infrastructure commitments. The piece treats valuation as no guarantee of a durable…
-Key points:
-- The Hindu says Anthropic's valuation does not by itself secure a lasting edge.
-- Engineers must keep building progressively more capable AI models, the report notes.
-- Anthropic has not shown it can stay profitable after infrastructure commitments.
-- The piece ties the firm's position to model progress and cost control.
-Original source: The Hindu - https://www.thehindu.com/business/Industry/anthropics-valuation-cant-secure-its-moat/article71702866.ece

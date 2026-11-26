@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-25T04:31:44.978Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
   <url><loc>https://news.thunderstudy.online/category/india/</loc><lastmod>2026-11-24T01:43:00.030Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/world/</loc><lastmod>2026-11-25T01:47:20.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/business/</loc><lastmod>2026-11-25T01:46:20.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -9,20 +9,23 @@
   <url><loc>https://news.thunderstudy.online/category/science/</loc><lastmod>2026-11-22T01:37:36.521Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/sports/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/briefing/</loc><lastmod>2026-11-25T01:50:21.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/cbse/</loc><lastmod>2026-11-23T04:36:36.583Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/cbse/</loc><lastmod>2026-11-26T04:31:20.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/neet/</loc><lastmod>2026-11-19T04:21:40.893Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/ssc/</loc><lastmod>2026-11-25T04:31:44.978Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/banking/</loc><lastmod>2026-11-22T04:22:32.660Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/mp/</loc><lastmod>2026-11-17T04:21:31.161Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/more/</loc><lastmod>2026-11-24T04:27:15.983Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-24T04:28:16.983Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/more/</loc><lastmod>2026-11-26T04:32:20.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/study-briefing-26-november-2026/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/study-briefing-26-november-2026.png</image:loc><image:title>Study Briefing: 2 exam and job updates for 26 November 2026</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals/</loc><lastmod>2026-11-26T04:32:20.358Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals.png</image:loc><image:title>UGC regulations may allow cancellation of foreign campus approvals</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/three-language-students-can-continue-supreme-court-says/</loc><lastmod>2026-11-26T04:31:20.358Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/three-language-students-can-continue-supreme-court-says.png</image:loc><image:title>Three-language students can continue, Supreme Court says</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell.png</image:loc><image:title>John Wright recalls spotting Jasprit Bumrah&#39;s yorker spell</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/</loc><lastmod>2026-11-25T04:31:44.978Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/ssc-chsl-2026-tier-i-exam-city-slip-released.png</image:loc><image:title>SSC CHSL 2026 Tier I exam city slip released</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/daily-briefing-25-november-2026/</loc><lastmod>2026-11-25T01:50:21.490Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/daily-briefing-25-november-2026.png</image:loc><image:title>Daily Briefing: 3 stories to know on 25 November 2026</image:title></image:image></url>
