@@ -1,5 +1,53 @@
 [
   {
+    "id": "4bbbf05861",
+    "slug": "john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell",
+    "kind": "news",
+    "category": "sports",
+    "title": "John Wright recalls spotting Jasprit Bumrah's yorker spell",
+    "description": "John Wright recalled spotting Jasprit Bumrah after watching an over in which the pacer bowled only yorkers and showed a bit of pace.",
+    "quick": "John Wright has recalled how he spotted Jasprit Bumrah, saying he watched the pacer bowl an over in which every delivery was a yorker. Wright said Bumrah tried to bowl everything as yorkers and had a bit of pace.",
+    "points": [
+      "John Wright recalled watching Jasprit Bumrah bowl an over of yorkers.",
+      "Wright said Bumrah tried to bowl everything as yorkers.",
+      "He added that Bumrah had a bit of pace at the time.",
+      "The recollection was published in The Hindu's sports section."
+    ],
+    "body": [
+      "John Wright has described the moment he spotted Jasprit Bumrah, recalling an over in which the pacer bowled only yorkers. Speaking about what he saw, Wright said Bumrah tried to bowl everything as yorkers and had a bit of pace.",
+      "The recollection was published in The Hindu's sports section. It offers a brief account of how Bumrah came to Wright's attention, built around that single over of yorker-length deliveries.",
+      "The details given are limited to Wright's memory of that over. No further information on when or where it took place was included in the source."
+    ],
+    "faq": [
+      {
+        "q": "How did John Wright spot Jasprit Bumrah?",
+        "a": "Wright said he watched Bumrah bowl an over in which all the deliveries were yorkers, and that Bumrah had a bit of pace."
+      },
+      {
+        "q": "What did Wright notice about Bumrah's bowling?",
+        "a": "He said Bumrah tried to bowl everything as yorkers and had a bit of pace."
+      }
+    ],
+    "keywords": [
+      "john wright",
+      "jasprit bumrah",
+      "bumrah yorkers",
+      "cricket",
+      "talent spotting"
+    ],
+    "date": "2026-11-26T01:50:09.500Z",
+    "updated": "2026-11-26T01:50:09.500Z",
+    "readMins": 1,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/sport/cricket/how-john-wright-spotted-jasprit-bumrah/article71744514.ece",
+      "title": "How John Wright spotted Jasprit Bumrah",
+      "published": "2026-11-26T01:40:16.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "37e9f73480",
     "slug": "ssc-chsl-2026-tier-i-exam-city-slip-released",
     "kind": "news",

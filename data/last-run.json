@@ -1,21 +1,21 @@
 {
-  "at": "2026-11-25T04:42:45.360Z",
-  "section": "study",
-  "sectionName": "Study News",
-  "time": "9:00 AM IST",
+  "at": "2026-11-26T01:54:15.426Z",
+  "section": "news",
+  "sectionName": "News",
+  "time": "6:00 AM IST",
   "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "sectionUrl": "https://news.thunderstudy.online/",
   "briefingUrl": null,
   "items": [
     {
-      "title": "SSC CHSL 2026 Tier I exam city slip released",
-      "url": "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
-      "category": "SSC",
+      "title": "John Wright recalls spotting Jasprit Bumrah's yorker spell",
+      "url": "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
+      "category": "Sports",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
+    "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

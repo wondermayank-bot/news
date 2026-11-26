@@ -9,6 +9,25 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
+      "url": "https://news.thunderstudy.online/news/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell/",
+      "title": "John Wright recalls spotting Jasprit Bumrah's yorker spell",
+      "summary": "John Wright recalled spotting Jasprit Bumrah after watching an over in which the pacer bowled only yorkers and showed a bit of pace.",
+      "content_text": "John Wright has recalled how he spotted Jasprit Bumrah, saying he watched the pacer bowl an over in which every delivery was a yorker. Wright said Bumrah tried to bowl everything as yorkers and had a bit of pace.\n- John Wright recalled watching Jasprit Bumrah bowl an over of yorkers.\n- Wright said Bumrah tried to bowl everything as yorkers.\n- He added that Bumrah had a bit of pace at the time.\n- The recollection was published in The Hindu's sports section.",
+      "date_published": "2026-11-26T01:50:09.500Z",
+      "date_modified": "2026-11-26T01:50:09.500Z",
+      "tags": [
+        "Sports",
+        "john wright",
+        "jasprit bumrah",
+        "bumrah yorkers",
+        "cricket",
+        "talent spotting"
+      ],
+      "image": "https://news.thunderstudy.online/og/john-wright-recalls-spotting-jasprit-bumrahs-yorker-spell.png",
+      "external_url": "https://www.thehindu.com/sport/cricket/how-john-wright-spotted-jasprit-bumrah/article71744514.ece"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
       "url": "https://news.thunderstudy.online/study/ssc-chsl-2026-tier-i-exam-city-slip-released/",
       "title": "SSC CHSL 2026 Tier I exam city slip released",
@@ -727,25 +746,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/sbi-careers-download-mains-examination-call-letter.png",
       "external_url": "https://ibpsreg.ibps.in/sbijajul26/oecla_nov26/login.php?appid=2b36e1e3caeb9de9629bb324f39e78e5"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/neet-ss-2026-registration-closes-today-exam-in-december/",
-      "url": "https://news.thunderstudy.online/study/neet-ss-2026-registration-closes-today-exam-in-december/",
-      "title": "NEET SS 2026 registration closes today; exam in December",
-      "summary": "NEET SS 2026 registration closes on November 18, with candidates applying at nbe.edu.in. The examination is scheduled to be held in December 2026.",
-      "content_text": "Registration for NEET SS 2026 closes on November 18, the last date to apply. Candidates can submit applications at nbe.edu.in. The examination is scheduled to be held in December 2026. The source did not give further details on eligibility, fees or the exact exam date.\n- November 18 is the last date to register for NEET SS 2026.\n- Applications are submitted on the National Board of Examinations website, nbe.edu.in.\n- The examination is scheduled to be held in December 2026.\n- The source did not specify the exact exam date or eligibility details.",
-      "date_published": "2026-11-19T04:21:40.893Z",
-      "date_modified": "2026-11-19T04:21:40.893Z",
-      "tags": [
-        "NEET",
-        "neet ss",
-        "neet ss 2026",
-        "nbe",
-        "nbe.edu.in",
-        "registration deadline"
-      ],
-      "image": "https://news.thunderstudy.online/og/neet-ss-2026-registration-closes-today-exam-in-december.png",
-      "external_url": "https://www.hindustantimes.com/education/competitive-exams/neet-ss-2026-last-date-today-to-apply-at-nbe-edu-in-exam-to-be-held-in-december-101794980766287.html"
     }
   ]
 }
