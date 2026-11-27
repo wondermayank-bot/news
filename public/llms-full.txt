@@ -1,5 +1,17 @@
 # ThunderStudy News: recent stories (full text index)
 
+## Solo dining framed as self-care trend in BBC report
+URL: https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/
+Published: 2026-11-27T01:49:18.136Z
+Topic: Business
+Quick answer: A BBC News report looks at solo dining through one person who spends £200 a month on fancy meals eaten alone. The article says dining solo is being embraced as a form of self-care and that the habit is reshaping the restaurant industry.
+Key points:
+- The BBC report centres on a diner who spends £200 a month on fancy meals alone.
+- Solo dining is described in the report as being embraced as a self-care trend.
+- The report says the practice is reshaping the restaurant industry.
+- The story was published in the BBC's business section on 27 November 2026.
+Original source: BBC News - https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss
+
 ## Study Briefing: 2 exam and job updates for 26 November 2026
 URL: https://news.thunderstudy.online/study/study-briefing-26-november-2026/
 Published: 2026-11-26T04:32:21.358Z
@@ -665,14 +677,3 @@ Quick answer: Top stories on 16 November 2026: Bangladesh clothing factories clo
 Key points:
 - Bangladesh clothing factories close as workers strike for higher pay
 - Suspected China spy linked to Nvidia ex-boss left in 2025
-
-## Bangladesh clothing factories close as workers strike for higher pay
-URL: https://news.thunderstudy.online/news/bangladesh-clothing-factories-close-as-workers-strike-for-higher-pay/
-Published: 2026-11-16T01:53:01.909Z
-Topic: World
-Quick answer: Clothing factories across Bangladesh have shut down after workers went on strike demanding a minimum monthly wage of 30,000 taka, equivalent to about £182.
-Key points:
-- Workers strike demanding 30,000 taka monthly minimum wage
-- Clothing factories shut down due to strike action
-- Demand equals approximately £182 per month
-Original source: BBC News - https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss

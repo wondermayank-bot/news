@@ -9,6 +9,25 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/",
+      "url": "https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/",
+      "title": "Solo dining framed as self-care trend in BBC report",
+      "summary": "A BBC report describes a diner spending £200 a month on solo meals and says solo dining is being embraced as a self-care trend and is reshaping restaurants.",
+      "content_text": "A BBC News report looks at solo dining through one person who spends £200 a month on fancy meals eaten alone. The article says dining solo is being embraced as a form of self-care and that the habit is reshaping the restaurant industry.\n- The BBC report centres on a diner who spends £200 a month on fancy meals alone.\n- Solo dining is described in the report as being embraced as a self-care trend.\n- The report says the practice is reshaping the restaurant industry.\n- The story was published in the BBC's business section on 27 November 2026.",
+      "date_published": "2026-11-27T01:49:18.136Z",
+      "date_modified": "2026-11-27T01:49:18.136Z",
+      "tags": [
+        "Business",
+        "solo dining",
+        "self-care trend",
+        "restaurant industry",
+        "bbc news",
+        "eating alone"
+      ],
+      "image": "https://news.thunderstudy.online/og/solo-dining-framed-as-self-care-trend-in-bbc-report.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-26-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-26-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 26 November 2026",
@@ -730,23 +749,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/cyclone-akvan-weakens-set-to-hit-odisha-andhra-coast-today.png",
       "external_url": "https://www.ndtv.com/india-news/cyclone-akvan-live-imd-weather-updates-landfall-rainfall-odisha-andhra-pradesh-akvan-weakens-into-cyclonic-storm-likely-to-cross-odisha-andhra-coast-12352070#publisher=newsstand"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/study-briefing-19-november-2026/",
-      "url": "https://news.thunderstudy.online/study/study-briefing-19-november-2026/",
-      "title": "Study Briefing: 4 exam and job updates for 19 November 2026",
-      "summary": "Your 19 November 2026 study briefing: SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/; SBI Careers: PRELIMINARY EXAM RESULT; SBI Careers: DOWNLOAD MAINS…",
-      "content_text": "Exam and job updates on 19 November 2026: SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/; SBI Careers: PRELIMINARY EXAM RESULT; SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER; NEET SS 2026 registration closes today; exam in December.\n- SBI Careers: ACQUAINT YOURSELF BOOKLET(HINDI/\n- SBI Careers: PRELIMINARY EXAM RESULT\n- SBI Careers: DOWNLOAD MAINS EXAMINATION CALL LETTER\n- NEET SS 2026 registration closes today; exam in December",
-      "date_published": "2026-11-19T04:26:41.893Z",
-      "date_modified": "2026-11-19T04:26:41.893Z",
-      "tags": [
-        "Study Briefing",
-        "study news",
-        "exam updates today",
-        "govt exam notices",
-        "study briefing"
-      ],
-      "image": "https://news.thunderstudy.online/og/study-briefing-19-november-2026.png"
     }
   ]
 }

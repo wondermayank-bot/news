@@ -1,5 +1,57 @@
 [
   {
+    "id": "224ca0e3af",
+    "slug": "solo-dining-framed-as-self-care-trend-in-bbc-report",
+    "kind": "news",
+    "category": "business",
+    "title": "Solo dining framed as self-care trend in BBC report",
+    "description": "A BBC report describes a diner spending £200 a month on solo meals and says solo dining is being embraced as a self-care trend and is reshaping restaurants.",
+    "quick": "A BBC News report looks at solo dining through one person who spends £200 a month on fancy meals eaten alone. The article says dining solo is being embraced as a form of self-care and that the habit is reshaping the restaurant industry.",
+    "points": [
+      "The BBC report centres on a diner who spends £200 a month on fancy meals alone.",
+      "Solo dining is described in the report as being embraced as a self-care trend.",
+      "The report says the practice is reshaping the restaurant industry.",
+      "The story was published in the BBC's business section on 27 November 2026."
+    ],
+    "body": [
+      "A BBC News business report has looked at solo dining through the experience of one person who spends £200 a month on fancy meals eaten alone. The article presents the habit as part of a wider shift rather than an isolated choice.",
+      "According to the report, dining alone is being embraced as a self-care trend. It also states that the practice is reshaping the restaurant industry, though the source gives no further detail on how restaurants are responding.",
+      "The piece was published on 27 November 2026. For readers, it points to a change in how some people spend on eating out and how the restaurant business may be adapting to customers who arrive on their own."
+    ],
+    "faq": [
+      {
+        "q": "How much does the diner in the BBC report spend on solo meals?",
+        "a": "The person featured spends £200 a month on fancy meals eaten by themselves."
+      },
+      {
+        "q": "Why is solo dining in the news?",
+        "a": "The BBC reports that solo dining is being embraced as a self-care trend and is reshaping the restaurant industry."
+      },
+      {
+        "q": "Where was the report published?",
+        "a": "It appeared in the business section of BBC News on 27 November 2026."
+      }
+    ],
+    "keywords": [
+      "solo dining",
+      "self-care trend",
+      "restaurant industry",
+      "bbc news",
+      "eating alone"
+    ],
+    "date": "2026-11-27T01:49:18.136Z",
+    "updated": "2026-11-27T01:49:18.136Z",
+    "readMins": 2,
+    "model": "particle-ai/particle-1:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "published": "2026-11-27T00:54:45.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-26",
     "slug": "study-briefing-26-november-2026",
     "kind": "briefing",
