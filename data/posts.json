@@ -1,5 +1,146 @@
 [
   {
+    "id": "briefing-study-2026-11-27",
+    "slug": "study-briefing-27-november-2026",
+    "kind": "briefing",
+    "category": "study-briefing",
+    "title": "Study Briefing: 2 exam and job updates for 27 November 2026",
+    "description": "Your 27 November 2026 study briefing: IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…; IIT Kanpur opens new building and…",
+    "quick": "Exam and job updates on 27 November 2026: IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…; IIT Kanpur opens new building and computer lab at Opportunity School.",
+    "points": [
+      "IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…",
+      "IIT Kanpur opens new building and computer lab at Opportunity School"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa",
+        "title": "IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…",
+        "description": "IBPS has published a new notice: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI. Check the official notice for…",
+        "category": "banking"
+      },
+      {
+        "slug": "iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school",
+        "title": "IIT Kanpur opens new building and computer lab at Opportunity School",
+        "description": "IIT Kanpur inaugurated a phase 2 building and modernised computer lab at Opportunity School with NITI Aayog member as chief guest.",
+        "category": "jee"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top exam and job updates on 27 November 2026?",
+        "a": "The top exam and job updates on 27 November 2026 are: IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…; IIT Kanpur opens new building and computer lab at Opportunity School."
+      },
+      {
+        "q": "When is the study briefing published?",
+        "a": "The ThunderStudy News study briefing is published every morning at 9:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "study news",
+      "exam updates today",
+      "govt exam notices",
+      "study briefing"
+    ],
+    "date": "2026-11-27T04:32:48.331Z",
+    "updated": "2026-11-27T04:32:48.331Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "2473dc56bc",
+    "slug": "ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa",
+    "kind": "notice",
+    "category": "banking",
+    "title": "IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…",
+    "description": "IBPS has published a new notice: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI. Check the official notice for…",
+    "quick": "IBPS has posted a new official notice titled \"Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI\". This page links to the official source so you can read the full details.",
+    "points": [
+      "Issued by: IBPS",
+      "Notice title: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI",
+      "Always confirm dates, eligibility and fees on the official website."
+    ],
+    "body": [
+      "IBPS has published a new update on its official website: \"Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI\".",
+      "Candidates should open the official notice for complete details such as dates, eligibility and the application process. Exam and recruitment details can change, so check the official website regularly."
+    ],
+    "faq": [
+      {
+        "q": "Where can I read the official IBPS notice?",
+        "a": "Use the official source link on this page to open the notice on the IBPS website."
+      },
+      {
+        "q": "Who should check this IBPS notice?",
+        "a": "Students and candidates following IBPS exams or recruitment should read the notice, because it may affect dates, applications or results."
+      }
+    ],
+    "keywords": [
+      "banking",
+      "ibps",
+      "official notice",
+      "exam update"
+    ],
+    "date": "2026-11-27T04:32:47.331Z",
+    "updated": "2026-11-27T04:32:47.331Z",
+    "readMins": 1,
+    "model": "official-notice",
+    "source": {
+      "name": "IBPS",
+      "url": "https://www.ibps.in/wp-content/uploads/NOTICE-FOR-PERSONALITY-TEST_CRP-PO-XVI.pdf",
+      "title": "Notice for Online Personality Test in Remote Proctored Mode (RPA Mode) for CRP-PO/MT-XVI",
+      "published": null,
+      "official": true
+    }
+  },
+  {
+    "id": "1833a15fd6",
+    "slug": "iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school",
+    "kind": "news",
+    "category": "jee",
+    "title": "IIT Kanpur opens new building and computer lab at Opportunity School",
+    "description": "IIT Kanpur inaugurated a phase 2 building and modernised computer lab at Opportunity School with NITI Aayog member as chief guest.",
+    "quick": "IIT Kanpur inaugurated a new phase 2 building and a modernised computer lab at Opportunity School on November 26, 2026. Prof. Abhay Karandikar, a member of NITI Aayog, attended as chief guest and performed the inauguration.",
+    "points": [
+      "New phase 2 building opened at Opportunity School",
+      "Computer lab modernised at the school",
+      "Prof. Abhay Karandikar was chief guest",
+      "Karandikar is a NITI Aayog member",
+      "Event held on November 26, 2026"
+    ],
+    "body": [
+      "IIT Kanpur inaugurated a new phase 2 building and a modernised computer lab at Opportunity School. The ceremony took place on November 26, 2026.",
+      "Prof. Abhay Karandikar, who serves as a member of NITI Aayog, attended the event as the chief guest and inaugurated the facilities."
+    ],
+    "faq": [
+      {
+        "q": "Who inaugurated the new building at Opportunity School?",
+        "a": "Prof. Abhay Karandikar, a member of NITI Aayog, inaugurated the phase 2 building as chief guest."
+      },
+      {
+        "q": "What facilities were opened at Opportunity School?",
+        "a": "A new phase 2 building and a modernised computer lab were inaugurated."
+      }
+    ],
+    "keywords": [
+      "iit kanpur",
+      "opportunity school",
+      "niti aayog",
+      "education infrastructure"
+    ],
+    "date": "2026-11-27T04:30:47.331Z",
+    "updated": "2026-11-27T04:30:47.331Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Hindustan Times",
+      "url": "https://www.hindustantimes.com/education/news/iit-kanpur-inaugurates-new-school-building-modernised-computer-lab-at-opportunity-school-101795683795131.html",
+      "title": "IIT Kanpur inaugurates new school building, modernised computer lab at Opportunity School",
+      "published": "2026-11-26T09:07:31.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "224ca0e3af",
     "slug": "solo-dining-framed-as-self-care-trend-in-bbc-report",
     "kind": "news",

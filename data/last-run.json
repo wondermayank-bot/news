@@ -1,21 +1,28 @@
 {
-  "at": "2026-11-27T01:54:26.006Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 1,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": null,
+  "at": "2026-11-27T04:36:45.239Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 2,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-27-november-2026/",
   "items": [
     {
-      "title": "Solo dining framed as self-care trend in BBC report",
-      "url": "https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/",
-      "category": "Business",
+      "title": "IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…",
+      "url": "https://news.thunderstudy.online/study/ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "IIT Kanpur opens new building and computer lab at Opportunity School",
+      "url": "https://news.thunderstudy.online/study/iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school/",
+      "category": "JEE",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/",
+    "https://news.thunderstudy.online/study/ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa/",
+    "https://news.thunderstudy.online/study/iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://news.thunderstudy.online/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>hourly</changefreq><priority>0.9</priority></url>
   <url><loc>https://news.thunderstudy.online/category/india/</loc><lastmod>2026-11-24T01:43:00.030Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/world/</loc><lastmod>2026-11-25T01:47:20.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/business/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
@@ -10,19 +10,23 @@
   <url><loc>https://news.thunderstudy.online/category/sports/</loc><lastmod>2026-11-26T01:50:09.500Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/briefing/</loc><lastmod>2026-11-25T01:50:21.490Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/cbse/</loc><lastmod>2026-11-26T04:31:20.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/jee/</loc><lastmod>2026-11-27T04:30:47.331Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/neet/</loc><lastmod>2026-11-19T04:21:40.893Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/ssc/</loc><lastmod>2026-11-25T04:31:44.978Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/banking/</loc><lastmod>2026-11-22T04:22:32.660Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/banking/</loc><lastmod>2026-11-27T04:32:47.331Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/mp/</loc><lastmod>2026-11-17T04:21:31.161Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
   <url><loc>https://news.thunderstudy.online/category/more/</loc><lastmod>2026-11-26T04:32:20.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
-  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
-  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
-  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
-  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/category/study-briefing/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://news.thunderstudy.online/archive/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>daily</changefreq><priority>0.6</priority></url>
+  <url><loc>https://news.thunderstudy.online/about/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://news.thunderstudy.online/contact/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/privacy/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/terms/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/disclaimer/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://news.thunderstudy.online/corrections/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://news.thunderstudy.online/study/study-briefing-27-november-2026/</loc><lastmod>2026-11-27T04:32:48.331Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/study-briefing-27-november-2026.png</image:loc><image:title>Study Briefing: 2 exam and job updates for 27 November 2026</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa/</loc><lastmod>2026-11-27T04:32:47.331Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/ibps-notice-for-online-personality-test-in-remote-proctored-mode-rpa.png</image:loc><image:title>IBPS: Notice for Online Personality Test in Remote Proctored Mode (RPA Mode)…</image:title></image:image></url>
+  <url><loc>https://news.thunderstudy.online/study/iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school/</loc><lastmod>2026-11-27T04:30:47.331Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/iit-kanpur-opens-new-building-and-computer-lab-at-opportunity-school.png</image:loc><image:title>IIT Kanpur opens new building and computer lab at Opportunity School</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/news/solo-dining-framed-as-self-care-trend-in-bbc-report/</loc><lastmod>2026-11-27T01:49:18.136Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/solo-dining-framed-as-self-care-trend-in-bbc-report.png</image:loc><image:title>Solo dining framed as self-care trend in BBC report</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/study/study-briefing-26-november-2026/</loc><lastmod>2026-11-26T04:32:21.358Z</lastmod><changefreq>never</changefreq><priority>0.6</priority><image:image><image:loc>https://news.thunderstudy.online/og/study-briefing-26-november-2026.png</image:loc><image:title>Study Briefing: 2 exam and job updates for 26 November 2026</image:title></image:image></url>
   <url><loc>https://news.thunderstudy.online/study/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals/</loc><lastmod>2026-11-26T04:32:20.358Z</lastmod><changefreq>never</changefreq><priority>0.7</priority><image:image><image:loc>https://news.thunderstudy.online/og/ugc-regulations-may-allow-cancellation-of-foreign-campus-approvals.png</image:loc><image:title>UGC regulations may allow cancellation of foreign campus approvals</image:title></image:image></url>
