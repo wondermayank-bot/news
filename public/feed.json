@@ -9,6 +9,80 @@
   "favicon": "https://news.thunderstudy.online/favicon.svg",
   "items": [
     {
+      "id": "https://news.thunderstudy.online/news/daily-briefing-28-november-2026/",
+      "url": "https://news.thunderstudy.online/news/daily-briefing-28-november-2026/",
+      "title": "Daily Briefing: 3 stories to know on 28 November 2026",
+      "summary": "Your 28 November 2026 news briefing: Nigerian actor Edochie's path from broadcasting to film fame and meme status; Campus interviews toughen as AI narrows…",
+      "content_text": "Top stories on 28 November 2026: Nigerian actor Edochie's path from broadcasting to film fame and meme status; Campus interviews toughen as AI narrows hiring, H-1B curbs bite; Hundreds of thousands without power after Thanksgiving storms.\n- Nigerian actor Edochie's path from broadcasting to film fame and meme status\n- Campus interviews toughen as AI narrows hiring, H-1B curbs bite\n- Hundreds of thousands without power after Thanksgiving storms",
+      "date_published": "2026-11-28T01:47:44.629Z",
+      "date_modified": "2026-11-28T01:47:44.629Z",
+      "tags": [
+        "Daily Briefing",
+        "daily news briefing",
+        "today headlines",
+        "india news today",
+        "top stories"
+      ],
+      "image": "https://news.thunderstudy.online/og/daily-briefing-28-november-2026.png"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme/",
+      "url": "https://news.thunderstudy.online/news/nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme/",
+      "title": "Nigerian actor Edochie's path from broadcasting to film fame and meme status",
+      "summary": "BBC profiles Nigerian actor Edochie, tracing his career from broadcasting to film stardom and internet meme popularity.",
+      "content_text": "BBC News profiles Nigerian actor Edochie, known as the \"ultimate hard man\" who became an online meme. Before achieving household-name status in Nigeria's film industry, Edochie worked in broadcasting.\n- Edochie dubbed \"ultimate hard man\" online\n- Became popular internet meme in Nigeria\n- Rose to fame in Nigerian film industry\n- Started career in broadcasting sector",
+      "date_published": "2026-11-28T01:47:43.629Z",
+      "date_modified": "2026-11-28T01:47:43.629Z",
+      "tags": [
+        "World",
+        "edochoe",
+        "nigerian actor",
+        "nollywood",
+        "internet meme",
+        "broadcasting career"
+      ],
+      "image": "https://news.thunderstudy.online/og/nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite/",
+      "url": "https://news.thunderstudy.online/news/campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite/",
+      "title": "Campus interviews toughen as AI narrows hiring, H-1B curbs bite",
+      "summary": "AI automating entry-level work and H-1B curbs lead to tougher campus interviews with higher pay for specialized roles and new ethics tests.",
+      "content_text": "Recruiters are making campus interviews more difficult as AI automates entry-level tasks and H-1B visa restrictions tighten. Companies now offer higher salaries for fewer specialized positions and test engineering and management candidates on ethics, data regulations, and global policy shifts.\n- AI automation reduces entry-level hiring needs\n- H-1B visa curbs limit international talent pipeline\n- Recruiters offer higher pay for specialized roles\n- Candidates tested on ethics and data rules\n- Global policy shifts added to interview topics",
+      "date_published": "2026-11-28T01:46:43.629Z",
+      "date_modified": "2026-11-28T01:46:43.629Z",
+      "tags": [
+        "Business",
+        "campus hiring",
+        "ai automation",
+        "h-1b visa",
+        "recruitment trends",
+        "entry-level jobs"
+      ],
+      "image": "https://news.thunderstudy.online/og/campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite.png",
+      "external_url": "https://www.livemint.com/companies/news/campus-placements-2027-ai-hiring-interview-questions-11795759366908.html"
+    },
+    {
+      "id": "https://news.thunderstudy.online/news/hundreds-of-thousands-without-power-after-thanksgiving-storms/",
+      "url": "https://news.thunderstudy.online/news/hundreds-of-thousands-without-power-after-thanksgiving-storms/",
+      "title": "Hundreds of thousands without power after Thanksgiving storms",
+      "summary": "Hundreds of thousands remain without power in Pennsylvania and neighboring states a day after Thanksgiving storms hit both US coasts with wind and rain.",
+      "content_text": "A day after Thanksgiving, hundreds of thousands of people in Pennsylvania and nearby states are still without electricity after severe storms with high winds and heavy rain struck both US coasts on Thursday.\n- Hundreds of thousands without power in Pennsylvania and neighboring states\n- Outages persist a day after Thanksgiving storms\n- Both US coasts hit by wind and rain\n- Pennsylvania remains badly affected on Friday",
+      "date_published": "2026-11-28T01:44:43.629Z",
+      "date_modified": "2026-11-28T01:44:43.629Z",
+      "tags": [
+        "Science",
+        "power outage",
+        "thanksgiving storms",
+        "pennsylvania",
+        "weather",
+        "us east coast"
+      ],
+      "image": "https://news.thunderstudy.online/og/hundreds-of-thousands-without-power-after-thanksgiving-storms.png",
+      "external_url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "id": "https://news.thunderstudy.online/study/study-briefing-27-november-2026/",
       "url": "https://news.thunderstudy.online/study/study-briefing-27-november-2026/",
       "title": "Study Briefing: 2 exam and job updates for 27 November 2026",
@@ -673,78 +747,6 @@
       ],
       "image": "https://news.thunderstudy.online/og/fined-811m-migrant-bail-scammers-kept-operating.png",
       "external_url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
-      "url": "https://news.thunderstudy.online/news/fire-kills-birds-at-major-us-foie-gras-farm/",
-      "title": "Fire kills birds at major US foie gras farm",
-      "summary": "A blaze at one of America's largest foie gras farms killed birds while hundreds of young birds were rescued, amid renewed animal welfare scrutiny.",
-      "content_text": "A fire broke out at one of the largest foie gras farms in the United States, killing an unspecified number of birds. Hundreds of young birds were rescued from the blaze. The incident occurs as foie gras production faces increased scrutiny over animal welfare concerns.\n- Fire at major US foie gras farm\n- Birds killed in the blaze\n- Hundreds of young birds rescued\n- Foie gras under animal welfare scrutiny",
-      "date_published": "2026-11-21T01:39:36.853Z",
-      "date_modified": "2026-11-21T01:39:36.853Z",
-      "tags": [
-        "Science",
-        "foie gras",
-        "farm fire",
-        "animal welfare",
-        "bird rescue",
-        "us agriculture"
-      ],
-      "image": "https://news.thunderstudy.online/og/fire-kills-birds-at-major-us-foie-gras-farm.png",
-      "external_url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
-      "url": "https://news.thunderstudy.online/study/study-briefing-20-november-2026/",
-      "title": "Study Briefing: 4 exam and job updates for 20 November 2026",
-      "summary": "Your 20 November 2026 study briefing: IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026; SBI Careers: APPLY ONLINE (19.11.2026 TO…",
-      "content_text": "Exam and job updates on 20 November 2026: IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026; SBI Careers: APPLY ONLINE (19.11.2026 TO 03.12.2026); SBI Careers: DEPUTY CTO (ENTERPRISE ARCHITECTURE)- INTERVIEW SCHEDULE; UP assistant teacher recruitment exam to proceed as scheduled.\n- IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026\n- SBI Careers: APPLY ONLINE (19.11.2026 TO 03.12.2026)\n- SBI Careers: DEPUTY CTO (ENTERPRISE ARCHITECTURE)- INTERVIEW SCHEDULE\n- UP assistant teacher recruitment exam to proceed as scheduled",
-      "date_published": "2026-11-20T04:22:31.221Z",
-      "date_modified": "2026-11-20T04:22:31.221Z",
-      "tags": [
-        "Study Briefing",
-        "study news",
-        "exam updates today",
-        "govt exam notices",
-        "study briefing"
-      ],
-      "image": "https://news.thunderstudy.online/og/study-briefing-20-november-2026.png"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
-      "url": "https://news.thunderstudy.online/study/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026/",
-      "title": "IBPS: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026",
-      "summary": "IBPS has published a new notice: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026. Check the official notice for dates, eligibility and…",
-      "content_text": "IBPS has posted a new official notice titled \"Indian Bank Engagement of Apprentices Registration From 05-Nov-2026\". This page links to the official source so you can read the full details.\n- Issued by: IBPS\n- Notice title: Indian Bank Engagement of Apprentices Registration From 05-Nov-2026\n- Always confirm dates, eligibility and fees on the official website.",
-      "date_published": "2026-11-20T04:22:30.221Z",
-      "date_modified": "2026-11-20T04:22:30.221Z",
-      "tags": [
-        "Banking",
-        "banking",
-        "ibps",
-        "official notice",
-        "exam update"
-      ],
-      "image": "https://news.thunderstudy.online/og/ibps-indian-bank-engagement-of-apprentices-registration-from-05-nov-2026.png",
-      "external_url": "https://ibpsreg.ibps.in/inbraoct26/"
-    },
-    {
-      "id": "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
-      "url": "https://news.thunderstudy.online/study/sbi-careers-apply-online-19-11-2026-to-03-12-2026/",
-      "title": "SBI Careers: APPLY ONLINE (19.11.2026 TO 03.12.2026)",
-      "summary": "SBI Careers has published a new notice: APPLY ONLINE (19.11.2026 TO 03.12.2026). Check the official notice for dates, eligibility and how to apply.",
-      "content_text": "SBI Careers has posted a new official notice titled \"APPLY ONLINE (19.11.2026 TO 03.12.2026)\". This page links to the official source so you can read the full details.\n- Issued by: SBI Careers\n- Notice title: APPLY ONLINE (19.11.2026 TO 03.12.2026)\n- Always confirm dates, eligibility and fees on the official website.",
-      "date_published": "2026-11-20T04:21:30.221Z",
-      "date_modified": "2026-11-20T04:21:30.221Z",
-      "tags": [
-        "Banking",
-        "banking",
-        "sbi careers",
-        "official notice",
-        "exam update"
-      ],
-      "image": "https://news.thunderstudy.online/og/sbi-careers-apply-online-19-11-2026-to-03-12-2026.png",
-      "external_url": "https://recruitment.sbi.bank.in/crpd-sco-2026-27-36/apply"
     }
   ]
 }

@@ -1,5 +1,203 @@
 [
   {
+    "id": "briefing-news-2026-11-28",
+    "slug": "daily-briefing-28-november-2026",
+    "kind": "briefing",
+    "category": "briefing",
+    "title": "Daily Briefing: 3 stories to know on 28 November 2026",
+    "description": "Your 28 November 2026 news briefing: Nigerian actor Edochie's path from broadcasting to film fame and meme status; Campus interviews toughen as AI narrows…",
+    "quick": "Top stories on 28 November 2026: Nigerian actor Edochie's path from broadcasting to film fame and meme status; Campus interviews toughen as AI narrows hiring, H-1B curbs bite; Hundreds of thousands without power after Thanksgiving storms.",
+    "points": [
+      "Nigerian actor Edochie's path from broadcasting to film fame and meme status",
+      "Campus interviews toughen as AI narrows hiring, H-1B curbs bite",
+      "Hundreds of thousands without power after Thanksgiving storms"
+    ],
+    "body": [],
+    "items": [
+      {
+        "slug": "nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme",
+        "title": "Nigerian actor Edochie's path from broadcasting to film fame and meme status",
+        "description": "BBC profiles Nigerian actor Edochie, tracing his career from broadcasting to film stardom and internet meme popularity.",
+        "category": "world"
+      },
+      {
+        "slug": "campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite",
+        "title": "Campus interviews toughen as AI narrows hiring, H-1B curbs bite",
+        "description": "AI automating entry-level work and H-1B curbs lead to tougher campus interviews with higher pay for specialized roles and new ethics tests.",
+        "category": "business"
+      },
+      {
+        "slug": "hundreds-of-thousands-without-power-after-thanksgiving-storms",
+        "title": "Hundreds of thousands without power after Thanksgiving storms",
+        "description": "Hundreds of thousands remain without power in Pennsylvania and neighboring states a day after Thanksgiving storms hit both US coasts with wind and rain.",
+        "category": "science"
+      }
+    ],
+    "faq": [
+      {
+        "q": "What are the top news stories on 28 November 2026?",
+        "a": "The top stories on 28 November 2026 are: Nigerian actor Edochie's path from broadcasting to film fame and meme status; Campus interviews toughen as AI narrows hiring, H-1B curbs bite; Hundreds of thousands without power after Thanksgiving storms."
+      },
+      {
+        "q": "When is the daily briefing published?",
+        "a": "The ThunderStudy News daily briefing is published every morning at 6:00 AM IST."
+      }
+    ],
+    "keywords": [
+      "daily news briefing",
+      "today headlines",
+      "india news today",
+      "top stories"
+    ],
+    "date": "2026-11-28T01:47:44.629Z",
+    "updated": "2026-11-28T01:47:44.629Z",
+    "readMins": 2,
+    "model": "compiled",
+    "source": null
+  },
+  {
+    "id": "dd0b7a8a7e",
+    "slug": "nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme",
+    "kind": "news",
+    "category": "world",
+    "title": "Nigerian actor Edochie's path from broadcasting to film fame and meme status",
+    "description": "BBC profiles Nigerian actor Edochie, tracing his career from broadcasting to film stardom and internet meme popularity.",
+    "quick": "BBC News profiles Nigerian actor Edochie, known as the \"ultimate hard man\" who became an online meme. Before achieving household-name status in Nigeria's film industry, Edochie worked in broadcasting.",
+    "points": [
+      "Edochie dubbed \"ultimate hard man\" online",
+      "Became popular internet meme in Nigeria",
+      "Rose to fame in Nigerian film industry",
+      "Started career in broadcasting sector"
+    ],
+    "body": [
+      "BBC News has published a profile on Nigerian actor Edochie, who gained widespread recognition as the \"ultimate hard man\" and became a popular internet meme. The article examines his journey to becoming a household name in Nigeria's film industry.",
+      "Before his acting career took off, Edochie worked in broadcasting. The profile traces how his earlier professional experience preceded his rise to fame in Nollywood and subsequent viral status on social media platforms."
+    ],
+    "faq": [
+      {
+        "q": "Who is Edochie and why is he called the ultimate hard man?",
+        "a": "Edochie is a Nigerian actor who became a household name in the film industry and gained popularity as an online meme where he is referred to as the \"ultimate hard man.\""
+      },
+      {
+        "q": "What was Edochie's career before acting?",
+        "a": "Before becoming famous in Nigeria's film industry, Edochie built a career in broadcasting."
+      }
+    ],
+    "keywords": [
+      "edochoe",
+      "nigerian actor",
+      "nollywood",
+      "internet meme",
+      "broadcasting career"
+    ],
+    "date": "2026-11-28T01:47:43.629Z",
+    "updated": "2026-11-28T01:47:43.629Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "published": "2026-11-28T01:20:35.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "77db8d94d0",
+    "slug": "campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite",
+    "kind": "news",
+    "category": "business",
+    "title": "Campus interviews toughen as AI narrows hiring, H-1B curbs bite",
+    "description": "AI automating entry-level work and H-1B curbs lead to tougher campus interviews with higher pay for specialized roles and new ethics tests.",
+    "quick": "Recruiters are making campus interviews more difficult as AI automates entry-level tasks and H-1B visa restrictions tighten. Companies now offer higher salaries for fewer specialized positions and test engineering and management candidates on ethics, data regulations, and global policy shifts.",
+    "points": [
+      "AI automation reduces entry-level hiring needs",
+      "H-1B visa curbs limit international talent pipeline",
+      "Recruiters offer higher pay for specialized roles",
+      "Candidates tested on ethics and data rules",
+      "Global policy shifts added to interview topics"
+    ],
+    "body": [
+      "Campus hiring has become more selective as artificial intelligence takes over routine entry-level work. At the same time, restrictions on H-1B visas are narrowing the pool of available talent.",
+      "Recruiters are responding by raising compensation for a smaller number of specialized positions. Interview processes now include questions on ethics, data governance, and international policy changes for both engineering and management applicants."
+    ],
+    "faq": [
+      {
+        "q": "Why are campus interviews getting harder?",
+        "a": "AI is automating entry-level tasks and H-1B visa restrictions are tightening, so recruiters are hiring fewer but more specialized candidates."
+      },
+      {
+        "q": "What new topics are being tested in interviews?",
+        "a": "Candidates face questions on ethics, data regulations, and global policy shifts in addition to technical skills."
+      }
+    ],
+    "keywords": [
+      "campus hiring",
+      "ai automation",
+      "h-1b visa",
+      "recruitment trends",
+      "entry-level jobs"
+    ],
+    "date": "2026-11-28T01:46:43.629Z",
+    "updated": "2026-11-28T01:46:43.629Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "Mint",
+      "url": "https://www.livemint.com/companies/news/campus-placements-2027-ai-hiring-interview-questions-11795759366908.html",
+      "title": "From Jensen Huang to H-1B curbs, campus interviews get tougher as hiring narrows",
+      "published": "2026-11-28T01:01:05.000Z",
+      "official": false
+    }
+  },
+  {
+    "id": "d0f3f33fd3",
+    "slug": "hundreds-of-thousands-without-power-after-thanksgiving-storms",
+    "kind": "news",
+    "category": "science",
+    "title": "Hundreds of thousands without power after Thanksgiving storms",
+    "description": "Hundreds of thousands remain without power in Pennsylvania and neighboring states a day after Thanksgiving storms hit both US coasts with wind and rain.",
+    "quick": "A day after Thanksgiving, hundreds of thousands of people in Pennsylvania and nearby states are still without electricity after severe storms with high winds and heavy rain struck both US coasts on Thursday.",
+    "points": [
+      "Hundreds of thousands without power in Pennsylvania and neighboring states",
+      "Outages persist a day after Thanksgiving storms",
+      "Both US coasts hit by wind and rain",
+      "Pennsylvania remains badly affected on Friday"
+    ],
+    "body": [
+      "Hundreds of thousands of customers in Pennsylvania and surrounding states remained without power on Friday, a day after Thanksgiving storms battered both US coasts with strong winds and heavy rain.",
+      "The BBC reports that Pennsylvania and neighboring states are the most severely affected areas as utility crews work to restore service following the widespread storm damage."
+    ],
+    "faq": [
+      {
+        "q": "Which states are most affected by the power outages?",
+        "a": "Pennsylvania and neighboring states are the most badly affected areas."
+      },
+      {
+        "q": "When did the storms hit?",
+        "a": "The storms struck both US coasts on Thanksgiving Day, Thursday."
+      }
+    ],
+    "keywords": [
+      "power outage",
+      "thanksgiving storms",
+      "pennsylvania",
+      "weather",
+      "us east coast"
+    ],
+    "date": "2026-11-28T01:44:43.629Z",
+    "updated": "2026-11-28T01:44:43.629Z",
+    "readMins": 1,
+    "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+    "source": {
+      "name": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+      "published": "2026-11-27T22:29:46.000Z",
+      "official": false
+    }
+  },
+  {
     "id": "briefing-study-2026-11-27",
     "slug": "study-briefing-27-november-2026",
     "kind": "briefing",
