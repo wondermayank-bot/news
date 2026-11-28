@@ -1,35 +1,49 @@
 {
-  "at": "2026-11-28T01:51:04.758Z",
-  "section": "news",
-  "sectionName": "News",
-  "time": "6:00 AM IST",
-  "added": 3,
-  "sectionUrl": "https://news.thunderstudy.online/",
-  "briefingUrl": "https://news.thunderstudy.online/news/daily-briefing-28-november-2026/",
+  "at": "2026-11-28T04:27:36.901Z",
+  "section": "study",
+  "sectionName": "Study News",
+  "time": "9:00 AM IST",
+  "added": 5,
+  "sectionUrl": "https://news.thunderstudy.online/study/",
+  "briefingUrl": "https://news.thunderstudy.online/study/study-briefing-28-november-2026/",
   "items": [
     {
-      "title": "Nigerian actor Edochie's path from broadcasting to film fame and meme status",
-      "url": "https://news.thunderstudy.online/news/nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme/",
-      "category": "World",
+      "title": "IBPS: Scores of Online Main Examination for CRP-PO/MT-XVI",
+      "url": "https://news.thunderstudy.online/study/ibps-scores-of-online-main-examination-for-crp-po-mt-xvi/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "IBPS: IEB Direct Recruitment Drive for Management Trainees and Managers…",
+      "url": "https://news.thunderstudy.online/study/ibps-ieb-direct-recruitment-drive-for-management-trainees-and-managers/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "IBPS: BMC Promotion for the post of Senior Inspector (Licence) Qualified…",
+      "url": "https://news.thunderstudy.online/study/ibps-bmc-promotion-for-the-post-of-senior-inspector-licence-qualified/",
+      "category": "Banking",
+      "official": true
+    },
+    {
+      "title": "RBI Issues Final Rules on Money Mule Accounts for Banks",
+      "url": "https://news.thunderstudy.online/study/rbi-issues-final-rules-on-money-mule-accounts-for-banks/",
+      "category": "Banking",
       "official": false
     },
     {
-      "title": "Campus interviews toughen as AI narrows hiring, H-1B curbs bite",
-      "url": "https://news.thunderstudy.online/news/campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite/",
-      "category": "Business",
-      "official": false
-    },
-    {
-      "title": "Hundreds of thousands without power after Thanksgiving storms",
-      "url": "https://news.thunderstudy.online/news/hundreds-of-thousands-without-power-after-thanksgiving-storms/",
-      "category": "Science",
+      "title": "CBSE releases CTET December 2026 city intimation slip on ctet.nic.in",
+      "url": "https://news.thunderstudy.online/study/cbse-releases-ctet-december-2026-city-intimation-slip-on-ctet-nic-in/",
+      "category": "CBSE",
       "official": false
     }
   ],
   "urls": [
-    "https://news.thunderstudy.online/news/nigerian-actor-edochies-path-from-broadcasting-to-film-fame-and-meme/",
-    "https://news.thunderstudy.online/news/campus-interviews-toughen-as-ai-narrows-hiring-h-1b-curbs-bite/",
-    "https://news.thunderstudy.online/news/hundreds-of-thousands-without-power-after-thanksgiving-storms/",
+    "https://news.thunderstudy.online/study/ibps-scores-of-online-main-examination-for-crp-po-mt-xvi/",
+    "https://news.thunderstudy.online/study/ibps-ieb-direct-recruitment-drive-for-management-trainees-and-managers/",
+    "https://news.thunderstudy.online/study/ibps-bmc-promotion-for-the-post-of-senior-inspector-licence-qualified/",
+    "https://news.thunderstudy.online/study/rbi-issues-final-rules-on-money-mule-accounts-for-banks/",
+    "https://news.thunderstudy.online/study/cbse-releases-ctet-december-2026-city-intimation-slip-on-ctet-nic-in/",
     "https://news.thunderstudy.online/",
     "https://news.thunderstudy.online/study/",
     "https://news.thunderstudy.online/sitemap.xml",

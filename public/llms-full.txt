@@ -1,5 +1,75 @@
 # ThunderStudy News: recent stories (full text index)
 
+## Study Briefing: 5 exam and job updates for 28 November 2026
+URL: https://news.thunderstudy.online/study/study-briefing-28-november-2026/
+Published: 2026-11-28T04:25:59.804Z
+Topic: Study Briefing
+Quick answer: Exam and job updates on 28 November 2026: IBPS: Scores of Online Main Examination for CRP-PO/MT-XVI; IBPS: IEB Direct Recruitment Drive for Management Trainees and Managers…; IBPS: BMC Promotion for the post of Senior Inspector (Licence) Qualified…; RBI Issues Final Rules on Money Mule Accounts for Banks; CBSE releases CTET…
+Key points:
+- IBPS: Scores of Online Main Examination for CRP-PO/MT-XVI
+- IBPS: IEB Direct Recruitment Drive for Management Trainees and Managers…
+- IBPS: BMC Promotion for the post of Senior Inspector (Licence) Qualified…
+- RBI Issues Final Rules on Money Mule Accounts for Banks
+- CBSE releases CTET December 2026 city intimation slip on ctet.nic.in
+
+## IBPS: Scores of Online Main Examination for CRP-PO/MT-XVI
+URL: https://news.thunderstudy.online/study/ibps-scores-of-online-main-examination-for-crp-po-mt-xvi/
+Published: 2026-11-28T04:25:58.804Z
+Topic: Banking
+Quick answer: IBPS has posted a new official notice titled "Scores of Online Main Examination for CRP-PO/MT-XVI". This page links to the official source so you can read the full details.
+Key points:
+- Issued by: IBPS
+- Notice title: Scores of Online Main Examination for CRP-PO/MT-XVI
+- Always confirm dates, eligibility and fees on the official website.
+Original source: IBPS - https://www.ibps.in/index.php/management-trainees-xvi/
+
+## IBPS: IEB Direct Recruitment Drive for Management Trainees and Managers…
+URL: https://news.thunderstudy.online/study/ibps-ieb-direct-recruitment-drive-for-management-trainees-and-managers/
+Published: 2026-11-28T04:24:58.804Z
+Topic: Banking
+Quick answer: IBPS has posted a new official notice titled "IEB Direct Recruitment Drive for Management Trainees and Managers Registration From 27-Nov-2026". This page links to the official source so you can read the full details.
+Key points:
+- Issued by: IBPS
+- Notice title: IEB Direct Recruitment Drive for Management Trainees and Managers Registration From 27-Nov-2026
+- Always confirm dates, eligibility and fees on the official website.
+Original source: IBPS - https://ibpsreg.ibps.in/iebmtmnov26/
+
+## IBPS: BMC Promotion for the post of Senior Inspector (Licence) Qualified…
+URL: https://news.thunderstudy.online/study/ibps-bmc-promotion-for-the-post-of-senior-inspector-licence-qualified/
+Published: 2026-11-28T04:23:58.804Z
+Topic: Banking
+Quick answer: IBPS has posted a new official notice titled "BMC Promotion for the post of Senior Inspector (Licence) Qualified Registration From 26-Nov-2026". This page links to the official source so you can read the full details.
+Key points:
+- Issued by: IBPS
+- Notice title: BMC Promotion for the post of Senior Inspector (Licence) Qualified Registration From 26-Nov-2026
+- Always confirm dates, eligibility and fees on the official website.
+Original source: IBPS - https://ibpsreg.ibps.in/bmcsioct26/
+
+## RBI Issues Final Rules on Money Mule Accounts for Banks
+URL: https://news.thunderstudy.online/study/rbi-issues-final-rules-on-money-mule-accounts-for-banks/
+Published: 2026-11-28T04:22:58.804Z
+Topic: Banking
+Quick answer: The Reserve Bank of India has issued final amendment directions on suspected money mule accounts to prevent cyber-enabled financial frauds. The directions establish a standard operating procedure for banks to place temporary debit holds on suspicious accounts and coordinate with law enforcement, while protecting genuine…
+Key points:
+- Final directions issued after stakeholder feedback on September draft
+- SOP mandates temporary debit holds on suspected money mule accounts
+- Banks must coordinate with law enforcement agencies to remove holds
+- Effective July 1, 2027, or earlier at bank's discretion
+- Applies to commercial, small finance, payments, rural, and cooperative banks
+Original source: RBI - https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=64062
+
+## CBSE releases CTET December 2026 city intimation slip on ctet.nic.in
+URL: https://news.thunderstudy.online/study/cbse-releases-ctet-december-2026-city-intimation-slip-on-ctet-nic-in/
+Published: 2026-11-28T04:20:58.804Z
+Topic: CBSE
+Quick answer: The Central Board of Secondary Education has released the CTET December 2026 city intimation slip on the official website, ctet.nic.in. Candidates who applied for the exam can visit the site to check and download the slip, which indicates the city where their test centre is located.
+Key points:
+- CBSE has published the CTET December 2026 city intimation slip.
+- The slip is available on the official CTET website, ctet.nic.in.
+- Candidates can check the site for download steps.
+- The source also points to exam dates and the admit card schedule.
+Original source: Times of India - https://timesofindia.indiatimes.com/education/news/ctet-december-2026-city-intimation-slip-released-at-ctet-nic-in-direct-link-to-download-here/articleshow/136225032.cms
+
 ## Daily Briefing: 3 stories to know on 28 November 2026
 URL: https://news.thunderstudy.online/news/daily-briefing-28-november-2026/
 Published: 2026-11-28T01:47:44.629Z
@@ -607,70 +677,3 @@ Key points:
 - The agenda for the meeting was unclear, according to the source.
 - The summit has raised fears of a carve-up into new spheres of influence.
 Original source: The Hindu - https://www.thehindu.com/news/international/xi-trump-putin-exchange-greetings-before-historic-china-summit/article71718490.ece
-
-## Anthropic raises $81.3 billion in IPO despite $104 billion loss
-URL: https://news.thunderstudy.online/news/anthropic-raises-81-3-billion-in-ipo-despite-104-billion-loss/
-Published: 2026-11-19T01:41:01.895Z
-Topic: Business
-Quick answer: Anthropic completed its initial public offering, raising $81.3 billion by pricing shares at $83 and selling more shares than originally planned. The company's revenue surged on the popularity of its Claude Code product, but it simultaneously reported a net loss of $104 billion.
-Key points:
-- Anthropic raised $81.3 billion in its IPO
-- Shares priced at $83 with oversubscribed offering
-- Revenue grew as Claude Code gained popularity
-- Company reported $104 billion net loss
-Original source: Mint - https://www.livemint.com/companies/news/anthropic-raised-81-billion-in-ipo-despite-104-billion-loss-why-wall-street-is-betting-big-on-claude-11795049829392.html
-
-## Study Briefing: 2 exam and job updates for 18 November 2026
-URL: https://news.thunderstudy.online/study/study-briefing-18-november-2026/
-Published: 2026-11-18T04:24:04.851Z
-Topic: Study Briefing
-Quick answer: Exam and job updates on 18 November 2026: CBSE to train Class 9-10 vocational teachers in financial literacy; Siblings become IAS and IPS officers after father's 25-year sacrifice.
-Key points:
-- CBSE to train Class 9-10 vocational teachers in financial literacy
-- Siblings become IAS and IPS officers after father's 25-year sacrifice
-
-## CBSE to train Class 9-10 vocational teachers in financial literacy
-URL: https://news.thunderstudy.online/study/cbse-to-train-class-9-10-vocational-teachers-in-financial-literacy/
-Published: 2026-11-18T04:23:03.851Z
-Topic: CBSE
-Quick answer: CBSE will train vocational teachers of Classes 9 and 10 in financial literacy and markets for the 2026-27 syllabus. Registration is free and online, and stays open till November 20. The board says financial literacy matters as online transactions, investments and financial services become part of daily life.
-Key points:
-- CBSE is training Class 9-10 vocational teachers in financial literacy and markets.
-- The training is linked to the 2026-27 syllabus.
-- Registration is free and done online.
-- The registration window closes on November 20.
-- CBSE says financial literacy is essential in a digital world.
-Original source: Times of India - https://timesofindia.indiatimes.com/city/delhi/teachers-to-get-training-in-financial-literacy/articleshow/135929172.cms
-
-## Siblings become IAS and IPS officers after father's 25-year sacrifice
-URL: https://news.thunderstudy.online/study/siblings-become-ias-and-ips-officers-after-fathers-25-year-sacrifice/
-Published: 2026-11-18T04:20:03.851Z
-Topic: More Exams
-Quick answer: A brother and sister cleared the UPSC examination and became civil servants, with one joining the IAS and the other the IPS. Their father's 25-year sacrifice and steady family support were central to their success, according to the report.
-Key points:
-- A brother-sister pair cleared the UPSC exam, one becoming an IAS officer and the other an IPS officer.
-- The siblings' father made a sacrifice spanning 25 years to support them.
-- The report highlights determination, family support and sacrifice as central themes in their journey.
-Original source: Hindustan Times - https://www.hindustantimes.com/education/success-stories/brothersister-duo-cracks-upsc-father-s-25-year-sacrifice-helps-siblings-become-ias-and-ips-officers-know-their-journey-101794903257584.html
-
-## Daily Briefing: 3 stories to know on 18 November 2026
-URL: https://news.thunderstudy.online/news/daily-briefing-18-november-2026/
-Published: 2026-11-18T01:47:29.836Z
-Topic: Daily Briefing
-Quick answer: Top stories on 18 November 2026: Weakening EV rules risks UK climate targets, adviser warns; The Hindu editorial questions Jay Shah's role as BCCI secretary; Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K.
-Key points:
-- Weakening EV rules risks UK climate targets, adviser warns
-- The Hindu editorial questions Jay Shah's role as BCCI secretary
-- Police Ask Top Lashkar Commander Latief Bhat To Surrender In J&K
-
-## Weakening EV rules risks UK climate targets, adviser warns
-URL: https://news.thunderstudy.online/news/weakening-ev-rules-risks-uk-climate-targets-adviser-warns/
-Published: 2026-11-18T01:46:28.836Z
-Topic: Science
-Quick answer: An adviser has warned that the UK could fail to meet its legally binding climate targets if the government cuts or weakens its electric vehicle rules. The warning was reported by BBC News on 18 November 2026, in the science section.
-Key points:
-- An adviser warns the UK could miss legally binding climate targets if EV rules are weakened.
-- The warning concerns possible cuts to existing electric vehicle targets.
-- The adviser's caution was reported by BBC News.
-- No specific rule changes or figures were given in the source.
-Original source: BBC News - https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss
